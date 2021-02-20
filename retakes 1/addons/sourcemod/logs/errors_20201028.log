@@ -1,0 +1,142 @@
+L 10/28/2020 - 15:23:55: SourceMod error session started
+L 10/28/2020 - 15:23:55: Info (map "de_dust2") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201028.log")
+L 10/28/2020 - 15:23:55: [SM] Unable to load plugin "csgo_dices_shop.smx": Could not find required plugin "shop"
+L 10/28/2020 - 15:23:57: [SM] Unable to load plugin "server_redirect.smx": Required extension "dhooks" file("dhooks.ext") not running
+L 10/28/2020 - 15:23:58: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 10/28/2020 - 15:23:58: [store.smx] Simple Chat Processor isn't installed or failed to load. SCP support will be disabled. (http://forums.alliedmods.net/showthread.php?t=198501)
+L 10/28/2020 - 16:38:38: [store.smx] Database connection is lost or not yet initialized.
+L 10/28/2020 - 16:38:38: [store.smx] Database connection is lost or not yet initialized.
+L 10/28/2020 - 16:38:42: Error log file session closed.
+L 10/28/2020 - 17:52:12: SourceMod error session started
+L 10/28/2020 - 17:52:12: Info (map "de_dust2") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201028.log")
+L 10/28/2020 - 17:52:12: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/28/2020 - 18:07:56: Error log file session closed.
+L 10/28/2020 - 18:08:08: SourceMod error session started
+L 10/28/2020 - 18:08:08: Info (map "de_train") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201028.log")
+L 10/28/2020 - 18:08:08: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/28/2020 - 18:16:20: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/28/2020 - 18:19:43: Error log file session closed.
+L 10/28/2020 - 18:19:45: SourceMod error session started
+L 10/28/2020 - 18:19:45: Info (map "de_mirage") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201028.log")
+L 10/28/2020 - 18:19:45: [SM] Exception reported: Plugin handle 414e0061 is invalid (error 1)
+L 10/28/2020 - 18:19:45: [SM] Blaming: kento_rankme.smx
+L 10/28/2020 - 18:19:45: [SM] Call stack trace:
+L 10/28/2020 - 18:19:45: [SM]   [0] Call_StartFunction
+L 10/28/2020 - 18:19:45: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 10/28/2020 - 18:19:45: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 10/28/2020 - 18:19:45: [SM] Exception reported: Plugin handle 414e0061 is invalid (error 1)
+L 10/28/2020 - 18:19:45: [SM] Blaming: kento_rankme.smx
+L 10/28/2020 - 18:19:45: [SM] Call stack trace:
+L 10/28/2020 - 18:19:45: [SM]   [0] Call_StartFunction
+L 10/28/2020 - 18:19:45: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 10/28/2020 - 18:19:45: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 10/28/2020 - 18:19:45: [SM] Exception reported: Plugin handle 414e0061 is invalid (error 1)
+L 10/28/2020 - 18:19:45: [SM] Blaming: kento_rankme.smx
+L 10/28/2020 - 18:19:45: [SM] Call stack trace:
+L 10/28/2020 - 18:19:45: [SM]   [0] Call_StartFunction
+L 10/28/2020 - 18:19:45: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 10/28/2020 - 18:19:45: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 10/28/2020 - 18:19:45: [SM] Exception reported: Plugin handle 414e0061 is invalid (error 1)
+L 10/28/2020 - 18:19:45: [SM] Blaming: kento_rankme.smx
+L 10/28/2020 - 18:19:45: [SM] Call stack trace:
+L 10/28/2020 - 18:19:45: [SM]   [0] Call_StartFunction
+L 10/28/2020 - 18:19:45: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 10/28/2020 - 18:19:45: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 10/28/2020 - 18:19:45: [SM] Exception reported: Plugin handle 414e0061 is invalid (error 1)
+L 10/28/2020 - 18:19:45: [SM] Blaming: kento_rankme.smx
+L 10/28/2020 - 18:19:45: [SM] Call stack trace:
+L 10/28/2020 - 18:19:45: [SM]   [0] Call_StartFunction
+L 10/28/2020 - 18:19:45: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 10/28/2020 - 18:19:45: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 10/28/2020 - 18:19:45: [SM] Exception reported: Plugin handle 414e0061 is invalid (error 1)
+L 10/28/2020 - 18:19:46: [SM] Blaming: kento_rankme.smx
+L 10/28/2020 - 18:19:46: [SM] Call stack trace:
+L 10/28/2020 - 18:19:46: [SM]   [0] Call_StartFunction
+L 10/28/2020 - 18:19:46: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 10/28/2020 - 18:19:46: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 10/28/2020 - 18:19:46: [SM] Exception reported: Plugin handle 414e0061 is invalid (error 1)
+L 10/28/2020 - 18:19:46: [SM] Blaming: kento_rankme.smx
+L 10/28/2020 - 18:19:46: [SM] Call stack trace:
+L 10/28/2020 - 18:19:46: [SM]   [0] Call_StartFunction
+L 10/28/2020 - 18:19:46: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 10/28/2020 - 18:19:46: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 10/28/2020 - 18:19:46: [SM] Exception reported: Plugin handle 414e0061 is invalid (error 1)
+L 10/28/2020 - 18:19:46: [SM] Blaming: kento_rankme.smx
+L 10/28/2020 - 18:19:46: [SM] Call stack trace:
+L 10/28/2020 - 18:19:46: [SM]   [0] Call_StartFunction
+L 10/28/2020 - 18:19:46: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 10/28/2020 - 18:19:46: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 10/28/2020 - 18:19:46: [SM] Exception reported: Plugin handle 414e0061 is invalid (error 1)
+L 10/28/2020 - 18:19:46: [SM] Blaming: kento_rankme.smx
+L 10/28/2020 - 18:19:46: [SM] Call stack trace:
+L 10/28/2020 - 18:19:46: [SM]   [0] Call_StartFunction
+L 10/28/2020 - 18:19:46: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 10/28/2020 - 18:19:46: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 10/28/2020 - 18:19:46: [SM] Exception reported: Plugin handle 414e0061 is invalid (error 1)
+L 10/28/2020 - 18:19:46: [SM] Blaming: kento_rankme.smx
+L 10/28/2020 - 18:19:46: [SM] Call stack trace:
+L 10/28/2020 - 18:19:46: [SM]   [0] Call_StartFunction
+L 10/28/2020 - 18:19:46: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 10/28/2020 - 18:19:46: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 10/28/2020 - 18:19:46: [SM] Exception reported: Plugin handle 414e0061 is invalid (error 1)
+L 10/28/2020 - 18:19:46: [SM] Blaming: kento_rankme.smx
+L 10/28/2020 - 18:19:46: [SM] Call stack trace:
+L 10/28/2020 - 18:19:46: [SM]   [0] Call_StartFunction
+L 10/28/2020 - 18:19:46: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 10/28/2020 - 18:19:46: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 10/28/2020 - 18:19:46: [SM] Exception reported: Plugin handle 414e0061 is invalid (error 1)
+L 10/28/2020 - 18:19:46: [SM] Blaming: kento_rankme.smx
+L 10/28/2020 - 18:19:46: [SM] Call stack trace:
+L 10/28/2020 - 18:19:46: [SM]   [0] Call_StartFunction
+L 10/28/2020 - 18:19:46: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 10/28/2020 - 18:19:46: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 10/28/2020 - 18:19:46: [SM] Exception reported: Plugin handle 414e0061 is invalid (error 1)
+L 10/28/2020 - 18:19:46: [SM] Blaming: kento_rankme.smx
+L 10/28/2020 - 18:19:46: [SM] Call stack trace:
+L 10/28/2020 - 18:19:46: [SM]   [0] Call_StartFunction
+L 10/28/2020 - 18:19:46: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 10/28/2020 - 18:19:46: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 10/28/2020 - 18:19:46: [SM] Exception reported: Plugin handle 414e0061 is invalid (error 1)
+L 10/28/2020 - 18:19:46: [SM] Blaming: kento_rankme.smx
+L 10/28/2020 - 18:19:46: [SM] Call stack trace:
+L 10/28/2020 - 18:19:46: [SM]   [0] Call_StartFunction
+L 10/28/2020 - 18:19:46: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 10/28/2020 - 18:19:46: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 10/28/2020 - 18:20:09: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/28/2020 - 18:20:27: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/28/2020 - 18:49:56: Error log file session closed.
+L 10/28/2020 - 18:50:06: SourceMod error session started
+L 10/28/2020 - 18:50:06: Info (map "de_mirage") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201028.log")
+L 10/28/2020 - 18:50:06: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/28/2020 - 18:50:43: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/28/2020 - 19:08:29: Error log file session closed.
+L 10/28/2020 - 19:19:43: SourceMod error session started
+L 10/28/2020 - 19:19:43: Info (map "de_dust2") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201028.log")
+L 10/28/2020 - 19:19:43: [SM] Unable to load plugin "csgo_dices_shop.smx": Could not find required plugin "shop"
+L 10/28/2020 - 19:19:45: [SM] Unable to load plugin "server_redirect.smx": Required extension "dhooks" file("dhooks.ext") not running
+L 10/28/2020 - 19:19:45: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 10/28/2020 - 19:19:45: [store.smx] Simple Chat Processor isn't installed or failed to load. SCP support will be disabled. (http://forums.alliedmods.net/showthread.php?t=198501)
+L 10/28/2020 - 19:40:25: [UPDATER] --- BEGIN ERRORS FROM AUTOMATIC UPDATER ---
+L 10/28/2020 - 19:40:25: [UPDATER] Could not download "http://update.sourcemod.net/update/"
+L 10/28/2020 - 19:40:25: [UPDATER] Error: Failure when receiving data from the peer
+L 10/28/2020 - 19:40:25: [UPDATER] --- END ERRORS FROM AUTOMATIC UPDATER ---
+L 10/28/2020 - 19:40:26: [store.smx] Database connection is lost or not yet initialized.
+L 10/28/2020 - 19:40:26: [store.smx] Database connection is lost or not yet initialized.
+L 10/28/2020 - 19:40:30: Error log file session closed.
+L 10/28/2020 - 19:42:22: SourceMod error session started
+L 10/28/2020 - 19:42:22: Info (map "de_dust2") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201028.log")
+L 10/28/2020 - 19:42:22: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/28/2020 - 19:43:13: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/28/2020 - 19:45:16: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/28/2020 - 19:50:30: SourceMod error session started
+L 10/28/2020 - 19:50:30: Info (map "de_dust2") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201028.log")
+L 10/28/2020 - 19:50:30: [SM] Unable to load plugin "csgo_dices_shop.smx": Could not find required plugin "shop"
+L 10/28/2020 - 19:50:30: [SM] Unable to load plugin "server_redirect.smx": Required extension "dhooks" file("dhooks.ext") not running
+L 10/28/2020 - 19:50:30: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 10/28/2020 - 19:50:30: [store.smx] Simple Chat Processor isn't installed or failed to load. SCP support will be disabled. (http://forums.alliedmods.net/showthread.php?t=198501)
+L 10/28/2020 - 20:01:24: SourceMod error session started
+L 10/28/2020 - 20:01:24: Info (map "de_dust2") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201028.log")
+L 10/28/2020 - 20:01:24: [SM] Unable to load plugin "csgo_dices_shop.smx": Could not find required plugin "shop"
+L 10/28/2020 - 20:01:24: [SM] Unable to load plugin "server_redirect.smx": Required extension "dhooks" file("dhooks.ext") not running
+L 10/28/2020 - 20:01:24: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 10/28/2020 - 20:01:24: [store.smx] Simple Chat Processor isn't installed or failed to load. SCP support will be disabled. (http://forums.alliedmods.net/showthread.php?t=198501)

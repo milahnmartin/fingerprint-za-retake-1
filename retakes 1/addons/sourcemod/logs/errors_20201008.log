@@ -1,0 +1,274 @@
+L 10/08/2020 - 12:09:38: SourceMod error session started
+L 10/08/2020 - 12:09:38: Info (map "de_overpass") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201008.log")
+L 10/08/2020 - 12:09:38: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 12:25:13: Error log file session closed.
+L 10/08/2020 - 12:25:22: SourceMod error session started
+L 10/08/2020 - 12:25:22: Info (map "de_train") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201008.log")
+L 10/08/2020 - 12:25:22: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 12:43:22: Error log file session closed.
+L 10/08/2020 - 12:43:35: SourceMod error session started
+L 10/08/2020 - 12:43:35: Info (map "de_cache") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201008.log")
+L 10/08/2020 - 12:43:35: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 12:51:02: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 13:01:34: Error log file session closed.
+L 10/08/2020 - 13:01:42: SourceMod error session started
+L 10/08/2020 - 13:01:42: Info (map "de_vertigo") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201008.log")
+L 10/08/2020 - 13:01:42: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 13:01:45: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 13:03:50: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 13:08:38: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 13:14:11: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 13:19:31: Error log file session closed.
+L 10/08/2020 - 13:19:42: SourceMod error session started
+L 10/08/2020 - 13:19:42: Info (map "de_dust2") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201008.log")
+L 10/08/2020 - 13:19:42: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 13:19:45: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 13:20:59: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 13:22:35: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 13:24:10: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 13:25:03: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 13:36:02: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 13:38:18: Error log file session closed.
+L 10/08/2020 - 13:38:20: SourceMod error session started
+L 10/08/2020 - 13:38:20: Info (map "de_mirage") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201008.log")
+L 10/08/2020 - 13:38:20: [SM] Exception reported: Plugin handle 13910d2f is invalid (error 1)
+L 10/08/2020 - 13:38:20: [SM] Blaming: kento_rankme.smx
+L 10/08/2020 - 13:38:20: [SM] Call stack trace:
+L 10/08/2020 - 13:38:20: [SM]   [0] Call_StartFunction
+L 10/08/2020 - 13:38:20: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 10/08/2020 - 13:38:20: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 10/08/2020 - 13:38:20: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 13:38:29: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 13:38:33: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 13:38:36: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 13:38:37: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 13:50:27: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 13:51:00: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 14:03:54: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 14:04:21: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 14:13:51: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 14:14:30: Error log file session closed.
+L 10/08/2020 - 14:14:41: SourceMod error session started
+L 10/08/2020 - 14:14:41: Info (map "de_inferno") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201008.log")
+L 10/08/2020 - 14:14:41: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 14:14:49: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 14:14:59: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 14:15:11: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 14:25:24: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 14:36:08: Error log file session closed.
+L 10/08/2020 - 14:36:16: SourceMod error session started
+L 10/08/2020 - 14:36:16: Info (map "de_overpass") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201008.log")
+L 10/08/2020 - 14:36:16: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 14:36:24: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 14:42:20: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 14:54:43: Error log file session closed.
+L 10/08/2020 - 15:08:42: SourceMod error session started
+L 10/08/2020 - 15:08:42: Info (map "de_train") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201008.log")
+L 10/08/2020 - 15:08:42: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 15:14:15: Error log file session closed.
+L 10/08/2020 - 15:14:27: SourceMod error session started
+L 10/08/2020 - 15:14:27: Info (map "de_nuke") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201008.log")
+L 10/08/2020 - 15:14:27: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 15:15:55: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 15:17:54: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 15:19:26: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 15:21:13: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 15:32:03: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 15:32:23: Error log file session closed.
+L 10/08/2020 - 15:32:37: SourceMod error session started
+L 10/08/2020 - 15:32:37: Info (map "de_cache") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201008.log")
+L 10/08/2020 - 15:32:37: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 15:32:40: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 15:32:41: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 15:47:35: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 15:50:03: Error log file session closed.
+L 10/08/2020 - 15:50:21: SourceMod error session started
+L 10/08/2020 - 15:50:21: Info (map "de_dust2") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201008.log")
+L 10/08/2020 - 15:50:21: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 15:53:49: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 16:10:19: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 16:12:08: Error log file session closed.
+L 10/08/2020 - 16:12:17: SourceMod error session started
+L 10/08/2020 - 16:12:17: Info (map "de_mirage") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201008.log")
+L 10/08/2020 - 16:12:17: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 16:12:23: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 16:30:45: Error log file session closed.
+L 10/08/2020 - 16:40:02: SourceMod error session started
+L 10/08/2020 - 16:40:02: Info (map "de_inferno") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201008.log")
+L 10/08/2020 - 16:40:02: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 16:42:49: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 16:48:11: Error log file session closed.
+L 10/08/2020 - 16:48:33: SourceMod error session started
+L 10/08/2020 - 16:48:33: Info (map "de_overpass") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201008.log")
+L 10/08/2020 - 16:48:33: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 16:54:48: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 16:55:41: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 16:55:48: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 17:05:13: Error log file session closed.
+L 10/08/2020 - 17:05:45: SourceMod error session started
+L 10/08/2020 - 17:05:45: Info (map "de_train") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201008.log")
+L 10/08/2020 - 17:05:45: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 17:09:00: Error log file session closed.
+L 10/08/2020 - 17:14:11: SourceMod error session started
+L 10/08/2020 - 17:14:11: Info (map "de_train") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201008.log")
+L 10/08/2020 - 17:14:11: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 17:16:29: Error log file session closed.
+L 10/08/2020 - 17:20:10: SourceMod error session started
+L 10/08/2020 - 17:20:10: Info (map "de_train") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201008.log")
+L 10/08/2020 - 17:20:10: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 17:33:33: Error log file session closed.
+L 10/08/2020 - 17:52:29: SourceMod error session started
+L 10/08/2020 - 17:52:29: Info (map "de_train") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201008.log")
+L 10/08/2020 - 17:52:29: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 17:59:46: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 18:00:20: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 18:02:12: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 18:09:06: Error log file session closed.
+L 10/08/2020 - 18:09:16: SourceMod error session started
+L 10/08/2020 - 18:09:16: Info (map "de_mirage") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201008.log")
+L 10/08/2020 - 18:09:16: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 18:09:22: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 18:09:24: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 18:09:32: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 18:16:54: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 18:18:09: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 18:28:09: Error log file session closed.
+L 10/08/2020 - 18:28:22: SourceMod error session started
+L 10/08/2020 - 18:28:22: Info (map "de_dust2") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201008.log")
+L 10/08/2020 - 18:28:22: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 18:28:29: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 18:28:30: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 18:28:46: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 18:45:13: Error log file session closed.
+L 10/08/2020 - 18:45:29: SourceMod error session started
+L 10/08/2020 - 18:45:29: Info (map "de_cache") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201008.log")
+L 10/08/2020 - 18:45:29: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 18:45:35: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 18:45:41: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 18:46:11: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 18:54:21: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 19:02:18: Error log file session closed.
+L 10/08/2020 - 19:02:33: SourceMod error session started
+L 10/08/2020 - 19:02:33: Info (map "de_inferno") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201008.log")
+L 10/08/2020 - 19:02:33: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 19:02:48: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 19:05:58: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 19:21:49: Error log file session closed.
+L 10/08/2020 - 19:22:04: SourceMod error session started
+L 10/08/2020 - 19:22:04: Info (map "de_vertigo") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201008.log")
+L 10/08/2020 - 19:22:04: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 19:22:44: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 19:24:12: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 19:37:03: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 19:46:01: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 19:55:18: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 19:56:55: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 19:59:54: Error log file session closed.
+L 10/08/2020 - 20:00:07: SourceMod error session started
+L 10/08/2020 - 20:00:07: Info (map "de_overpass") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201008.log")
+L 10/08/2020 - 20:00:07: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 20:00:11: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 20:00:15: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 20:11:28: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 20:12:30: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 20:13:27: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 20:16:45: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 20:17:27: Error log file session closed.
+L 10/08/2020 - 20:17:36: SourceMod error session started
+L 10/08/2020 - 20:17:36: Info (map "de_train") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201008.log")
+L 10/08/2020 - 20:17:36: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 20:17:37: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 20:17:38: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 20:17:48: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 20:30:41: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 20:34:52: Error log file session closed.
+L 10/08/2020 - 20:35:00: SourceMod error session started
+L 10/08/2020 - 20:35:00: Info (map "de_mirage") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201008.log")
+L 10/08/2020 - 20:35:00: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 20:35:01: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 20:35:01: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 20:35:08: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 20:36:30: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 20:36:37: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 20:39:39: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 20:41:27: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 20:54:18: Error log file session closed.
+L 10/08/2020 - 20:54:29: SourceMod error session started
+L 10/08/2020 - 20:54:29: Info (map "de_dust2") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201008.log")
+L 10/08/2020 - 20:54:29: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 20:54:31: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 20:54:43: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 21:05:43: Error log file session closed.
+L 10/08/2020 - 21:08:13: SourceMod error session started
+L 10/08/2020 - 21:08:13: Info (map "de_dust2") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201008.log")
+L 10/08/2020 - 21:08:13: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 21:10:37: Error log file session closed.
+L 10/08/2020 - 21:15:10: SourceMod error session started
+L 10/08/2020 - 21:15:10: Info (map "de_dust2") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201008.log")
+L 10/08/2020 - 21:15:10: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 21:17:06: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 21:26:42: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 21:28:19: Error log file session closed.
+L 10/08/2020 - 21:28:29: SourceMod error session started
+L 10/08/2020 - 21:28:29: Info (map "de_inferno") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201008.log")
+L 10/08/2020 - 21:28:29: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 21:31:01: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 21:48:53: Error log file session closed.
+L 10/08/2020 - 21:49:08: SourceMod error session started
+L 10/08/2020 - 21:49:08: Info (map "de_cache") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201008.log")
+L 10/08/2020 - 21:49:08: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 21:49:08: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 22:03:06: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 22:03:10: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 22:03:27: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 22:05:32: Error log file session closed.
+L 10/08/2020 - 22:05:40: SourceMod error session started
+L 10/08/2020 - 22:05:40: Info (map "de_overpass") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201008.log")
+L 10/08/2020 - 22:05:40: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 22:05:41: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 22:05:47: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 22:05:51: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 22:09:50: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 22:17:50: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 22:23:38: Error log file session closed.
+L 10/08/2020 - 22:23:47: SourceMod error session started
+L 10/08/2020 - 22:23:47: Info (map "de_train") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201008.log")
+L 10/08/2020 - 22:23:47: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 22:23:48: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 22:23:53: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 22:23:57: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 22:24:51: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 22:39:45: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 22:43:10: Error log file session closed.
+L 10/08/2020 - 22:43:20: SourceMod error session started
+L 10/08/2020 - 22:43:20: Info (map "de_mirage") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201008.log")
+L 10/08/2020 - 22:43:20: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 22:43:22: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 22:43:23: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 22:43:26: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 22:44:17: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 22:48:40: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 23:04:00: Error log file session closed.
+L 10/08/2020 - 23:04:08: SourceMod error session started
+L 10/08/2020 - 23:04:08: Info (map "de_vertigo") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201008.log")
+L 10/08/2020 - 23:04:08: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 23:04:12: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 23:04:13: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 23:04:59: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 23:22:26: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 23:23:30: Error log file session closed.
+L 10/08/2020 - 23:23:42: SourceMod error session started
+L 10/08/2020 - 23:23:42: Info (map "de_dust2") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201008.log")
+L 10/08/2020 - 23:23:42: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 23:23:46: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 23:23:49: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 23:24:53: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 23:25:31: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 23:32:08: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 23:39:57: Error log file session closed.
+L 10/08/2020 - 23:40:11: SourceMod error session started
+L 10/08/2020 - 23:40:11: Info (map "de_inferno") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20201008.log")
+L 10/08/2020 - 23:40:11: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 23:40:12: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/08/2020 - 23:41:14: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 10/09/2020 - 01:37:26: Error log file session closed.

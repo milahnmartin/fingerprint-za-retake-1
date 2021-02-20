@@ -1,0 +1,11 @@
+L 07/22/2020 - 18:06:02: SourceMod error session started
+L 07/22/2020 - 18:06:02: Info (map "de_nuke") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200722.log")
+L 07/22/2020 - 18:06:02: [SM] Exception reported: Client index 0 is invalid
+L 07/22/2020 - 18:06:02: [SM] Blaming: kento_rankme.smx
+L 07/22/2020 - 18:06:02: [SM] Call stack trace:
+L 07/22/2020 - 18:06:02: [SM]   [0] IsClientInGame
+L 07/22/2020 - 18:06:02: [SM]   [1] Line 615, d:\csgoserver\csgo\addons\sourcemod\scripting\kento_rankme.sp::Event_RoundMVP
+L 07/22/2020 - 18:06:02: [SM]   [3] CS_TerminateRound
+L 07/22/2020 - 18:06:02: [SM]   [4] Line 896, ././scripting/retakes.sp::CheckRoundDone
+L 07/22/2020 - 18:06:02: [SM]   [5] Line 311, ././scripting/retakes.sp::OnClientDisconnect
+L 07/22/2020 - 18:06:06: Error log file session closed.

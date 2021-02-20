@@ -1,0 +1,19 @@
+L 08/09/2020 - 12:52:26: SourceMod error session started
+L 08/09/2020 - 12:52:26: Info (map "de_mirage") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200809.log")
+L 08/09/2020 - 12:52:26: [SM] Exception reported: Client index 0 is invalid
+L 08/09/2020 - 12:52:26: [SM] Blaming: kento_rankme.smx
+L 08/09/2020 - 12:52:26: [SM] Call stack trace:
+L 08/09/2020 - 12:52:26: [SM]   [0] IsClientInGame
+L 08/09/2020 - 12:52:26: [SM]   [1] Line 615, d:\csgoserver\csgo\addons\sourcemod\scripting\kento_rankme.sp::Event_RoundMVP
+L 08/09/2020 - 12:52:26: [SM]   [3] CS_TerminateRound
+L 08/09/2020 - 12:52:26: [SM]   [4] Line 896, ././scripting/retakes.sp::CheckRoundDone
+L 08/09/2020 - 12:52:26: [SM]   [5] Line 311, ././scripting/retakes.sp::OnClientDisconnect
+L 08/09/2020 - 12:52:27: Error log file session closed.
+L 08/09/2020 - 22:48:17: SourceMod error session started
+L 08/09/2020 - 22:48:17: Info (map "de_dust2") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200809.log")
+L 08/09/2020 - 22:48:17: [kento_rankme.smx] [RankMe] Save Player Fail: Can't connect to MySQL server on 'dbhost.hyperlayer.co.za' (10061)
+L 08/09/2020 - 22:52:14: Error log file session closed.
+L 08/09/2020 - 22:54:44: SourceMod error session started
+L 08/09/2020 - 22:54:44: Info (map "de_train") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200809.log")
+L 08/09/2020 - 22:54:44: [kento_rankme.smx] [RankMe] Save Player Fail: Can't connect to MySQL server on 'dbhost.hyperlayer.co.za' (10060)
+L 08/09/2020 - 23:12:59: Error log file session closed.

@@ -1,0 +1,3 @@
+L 05/03/2020 - 19:27:48: SourceMod error session started
+L 05/03/2020 - 19:27:48: Info (map "de_dust2") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200503.log")
+L 05/03/2020 - 19:27:48: [weapons.smx] Delete Inactive Player Data failed! query: "DELETE FROM weapons WHERE steamid in (SELECT steamid FROM weapons_timestamps WHERE last_seen < 1588526868 - (30 * 86400))" error: "no such table: weapons_timestamps"

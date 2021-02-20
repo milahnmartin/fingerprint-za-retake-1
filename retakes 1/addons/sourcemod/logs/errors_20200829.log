@@ -1,0 +1,134 @@
+L 08/29/2020 - 00:34:29: SourceMod error session started
+L 08/29/2020 - 00:34:29: Info (map "de_inferno") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200829.log")
+L 08/29/2020 - 00:34:29: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 08/29/2020 - 00:52:54: Error log file session closed.
+L 08/29/2020 - 05:00:36: SourceMod error session started
+L 08/29/2020 - 05:00:36: Info (map "de_dust2") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200829.log")
+L 08/29/2020 - 05:00:36: [SM] Unable to load plugin "csgo_dices_shop.smx": Could not find required plugin "shop"
+L 08/29/2020 - 05:00:37: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/29/2020 - 05:00:37: [store.smx] Simple Chat Processor isn't installed or failed to load. SCP support will be disabled. (http://forums.alliedmods.net/showthread.php?t=198501)
+L 08/29/2020 - 07:38:52: [store.smx] Database connection is lost or not yet initialized.
+L 08/29/2020 - 07:38:52: [store.smx] Database connection is lost or not yet initialized.
+L 08/29/2020 - 07:38:57: Error log file session closed.
+L 08/29/2020 - 07:42:43: SourceMod error session started
+L 08/29/2020 - 07:42:43: Info (map "de_dust2") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200829.log")
+L 08/29/2020 - 07:42:43: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 08/29/2020 - 07:55:03: Error log file session closed.
+L 08/29/2020 - 07:56:16: SourceMod error session started
+L 08/29/2020 - 07:56:16: Info (map "de_mirage") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200829.log")
+L 08/29/2020 - 07:56:16: [SM] Exception reported: Plugin handle 34a60060 is invalid (error 1)
+L 08/29/2020 - 07:56:16: [SM] Blaming: kento_rankme.smx
+L 08/29/2020 - 07:56:16: [SM] Call stack trace:
+L 08/29/2020 - 07:56:16: [SM]   [0] Call_StartFunction
+L 08/29/2020 - 07:56:16: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 08/29/2020 - 07:56:16: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 08/29/2020 - 07:56:17: [SM] Exception reported: Plugin handle 34a60060 is invalid (error 1)
+L 08/29/2020 - 07:56:17: [SM] Blaming: kento_rankme.smx
+L 08/29/2020 - 07:56:17: [SM] Call stack trace:
+L 08/29/2020 - 07:56:17: [SM]   [0] Call_StartFunction
+L 08/29/2020 - 07:56:17: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 08/29/2020 - 07:56:17: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 08/29/2020 - 07:56:17: [SM] Exception reported: Plugin handle 34a60060 is invalid (error 1)
+L 08/29/2020 - 07:56:17: [SM] Blaming: kento_rankme.smx
+L 08/29/2020 - 07:56:17: [SM] Call stack trace:
+L 08/29/2020 - 07:56:17: [SM]   [0] Call_StartFunction
+L 08/29/2020 - 07:56:17: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 08/29/2020 - 07:56:17: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 08/29/2020 - 07:56:17: [SM] Exception reported: Plugin handle 34a60060 is invalid (error 1)
+L 08/29/2020 - 07:56:17: [SM] Blaming: kento_rankme.smx
+L 08/29/2020 - 07:56:17: [SM] Call stack trace:
+L 08/29/2020 - 07:56:17: [SM]   [0] Call_StartFunction
+L 08/29/2020 - 07:56:17: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 08/29/2020 - 07:56:17: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 08/29/2020 - 08:14:04: Error log file session closed.
+L 08/29/2020 - 13:05:03: SourceMod error session started
+L 08/29/2020 - 13:05:03: Info (map "de_nuke") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200829.log")
+L 08/29/2020 - 13:05:03: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 08/29/2020 - 13:21:27: Error log file session closed.
+L 08/29/2020 - 13:21:52: SourceMod error session started
+L 08/29/2020 - 13:21:52: Info (map "de_overpass") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200829.log")
+L 08/29/2020 - 13:21:52: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 08/29/2020 - 13:39:45: Error log file session closed.
+L 08/29/2020 - 13:39:59: SourceMod error session started
+L 08/29/2020 - 13:39:59: Info (map "de_vertigo") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200829.log")
+L 08/29/2020 - 13:39:59: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 08/29/2020 - 13:56:42: Error log file session closed.
+L 08/29/2020 - 14:25:25: SourceMod error session started
+L 08/29/2020 - 14:25:25: Info (map "de_dust2") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200829.log")
+L 08/29/2020 - 14:25:25: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 08/29/2020 - 14:35:43: Error log file session closed.
+L 08/29/2020 - 14:36:03: SourceMod error session started
+L 08/29/2020 - 14:36:03: Info (map "de_train") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200829.log")
+L 08/29/2020 - 14:36:03: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 08/29/2020 - 14:55:48: Error log file session closed.
+L 08/29/2020 - 14:56:05: SourceMod error session started
+L 08/29/2020 - 14:56:05: Info (map "de_inferno") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200829.log")
+L 08/29/2020 - 14:56:05: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 08/29/2020 - 14:58:38: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 08/29/2020 - 15:15:01: Error log file session closed.
+L 08/29/2020 - 15:15:32: SourceMod error session started
+L 08/29/2020 - 15:15:32: Info (map "de_cache") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200829.log")
+L 08/29/2020 - 15:15:32: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 08/29/2020 - 15:33:03: Error log file session closed.
+L 08/29/2020 - 16:54:50: SourceMod error session started
+L 08/29/2020 - 16:54:50: Info (map "de_train") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200829.log")
+L 08/29/2020 - 16:54:50: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 08/29/2020 - 17:07:11: Error log file session closed.
+L 08/29/2020 - 17:13:52: SourceMod error session started
+L 08/29/2020 - 17:13:52: Info (map "de_inferno") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200829.log")
+L 08/29/2020 - 17:13:52: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 08/29/2020 - 17:26:02: Error log file session closed.
+L 08/29/2020 - 18:24:07: SourceMod error session started
+L 08/29/2020 - 18:24:07: Info (map "de_mirage") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200829.log")
+L 08/29/2020 - 18:24:07: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 08/29/2020 - 18:41:22: Error log file session closed.
+L 08/29/2020 - 18:41:42: SourceMod error session started
+L 08/29/2020 - 18:41:42: Info (map "de_dust2") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200829.log")
+L 08/29/2020 - 18:41:42: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 08/29/2020 - 18:59:52: Error log file session closed.
+L 08/29/2020 - 19:07:38: SourceMod error session started
+L 08/29/2020 - 19:07:38: Info (map "de_train") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200829.log")
+L 08/29/2020 - 19:07:38: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 08/29/2020 - 19:11:26: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 08/29/2020 - 19:18:35: Error log file session closed.
+L 08/29/2020 - 19:49:33: SourceMod error session started
+L 08/29/2020 - 19:49:33: Info (map "de_cache") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200829.log")
+L 08/29/2020 - 19:49:33: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 08/29/2020 - 19:51:46: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 08/29/2020 - 19:55:18: Error log file session closed.
+L 08/29/2020 - 19:55:46: SourceMod error session started
+L 08/29/2020 - 19:55:46: Info (map "de_overpass") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200829.log")
+L 08/29/2020 - 19:55:46: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 08/29/2020 - 20:06:27: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 08/29/2020 - 20:23:36: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 08/29/2020 - 20:31:29: Error log file session closed.
+L 08/29/2020 - 20:35:06: SourceMod error session started
+L 08/29/2020 - 20:35:06: Info (map "de_vertigo") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200829.log")
+L 08/29/2020 - 20:35:06: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 08/29/2020 - 20:40:37: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 08/29/2020 - 20:47:18: Error log file session closed.
+L 08/29/2020 - 20:52:35: SourceMod error session started
+L 08/29/2020 - 20:52:35: Info (map "de_mirage") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200829.log")
+L 08/29/2020 - 20:52:35: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 08/29/2020 - 21:06:42: Error log file session closed.
+L 08/29/2020 - 22:22:24: SourceMod error session started
+L 08/29/2020 - 22:22:24: Info (map "de_overpass") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200829.log")
+L 08/29/2020 - 22:22:24: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 08/29/2020 - 22:33:17: Error log file session closed.
+L 08/29/2020 - 23:33:36: SourceMod error session started
+L 08/29/2020 - 23:33:36: Info (map "de_train") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200829.log")
+L 08/29/2020 - 23:33:36: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 08/29/2020 - 23:34:39: Error log file session closed.
+L 08/29/2020 - 23:34:48: SourceMod error session started
+L 08/29/2020 - 23:34:48: Info (map "de_mirage") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200829.log")
+L 08/29/2020 - 23:34:48: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 08/29/2020 - 23:40:16: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 08/29/2020 - 23:51:51: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 08/29/2020 - 23:52:33: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 08/29/2020 - 23:56:23: Error log file session closed.
+L 08/29/2020 - 23:56:34: SourceMod error session started
+L 08/29/2020 - 23:56:34: Info (map "de_dust2") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200829.log")
+L 08/29/2020 - 23:56:34: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 08/29/2020 - 23:56:35: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 08/29/2020 - 23:56:36: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 08/30/2020 - 03:46:21: Error log file session closed.

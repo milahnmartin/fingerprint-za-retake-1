@@ -1,0 +1,25 @@
+L 06/28/2020 - 00:00:24: SourceMod error session started
+L 06/28/2020 - 00:00:24: Info (map "de_nuke") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200628.log")
+L 06/28/2020 - 00:00:24: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 06/28/2020 - 00:00:24: [SM] Blaming: mysqlt_bans.smx
+L 06/28/2020 - 00:00:24: [SM] Call stack trace:
+L 06/28/2020 - 00:00:24: [SM]   [0] SQL_EscapeString
+L 06/28/2020 - 00:00:24: [SM]   [1] Line 101, /home/groups/alliedmodders/forums/files/5/8/2/6/8/115397.attach::OnClientPostAdminCheck
+L 06/28/2020 - 00:13:48: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 06/28/2020 - 00:13:48: [SM] Blaming: mysqlt_bans.smx
+L 06/28/2020 - 00:13:48: [SM] Call stack trace:
+L 06/28/2020 - 00:13:48: [SM]   [0] SQL_EscapeString
+L 06/28/2020 - 00:13:48: [SM]   [1] Line 101, /home/groups/alliedmodders/forums/files/5/8/2/6/8/115397.attach::OnClientPostAdminCheck
+L 06/28/2020 - 00:14:24: Error log file session closed.
+L 06/28/2020 - 00:14:39: SourceMod error session started
+L 06/28/2020 - 00:14:39: Info (map "de_dust2") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200628.log")
+L 06/28/2020 - 00:14:39: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 06/28/2020 - 00:14:39: [SM] Blaming: mysqlt_bans.smx
+L 06/28/2020 - 00:14:39: [SM] Call stack trace:
+L 06/28/2020 - 00:14:39: [SM]   [0] SQL_EscapeString
+L 06/28/2020 - 00:14:39: [SM]   [1] Line 101, /home/groups/alliedmodders/forums/files/5/8/2/6/8/115397.attach::OnClientPostAdminCheck
+L 06/28/2020 - 00:14:50: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 06/28/2020 - 00:14:50: [SM] Blaming: mysqlt_bans.smx
+L 06/28/2020 - 00:14:50: [SM] Call stack trace:
+L 06/28/2020 - 00:14:50: [SM]   [0] SQL_EscapeString
+L 06/28/2020 - 00:14:50: [SM]   [1] Line 101, /home/groups/alliedmodders/forums/files/5/8/2/6/8/115397.attach::OnClientPostAdminCheck

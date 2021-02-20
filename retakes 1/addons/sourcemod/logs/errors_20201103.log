@@ -1,0 +1,183 @@
+L 11/03/2020 - 11:41:55: SourceMod error session started
+L 11/03/2020 - 11:41:55: Info (map "de_dust2") (file "C:\TCAFiles\Users\jean\3\csgo\addons\sourcemod\logs\errors_20201103.log")
+L 11/03/2020 - 11:41:55: [SM] Unable to load plugin "csgo_dices_shop.smx": Could not find required plugin "shop"
+L 11/03/2020 - 11:41:56: [SM] Unable to load plugin "server_redirect.smx": Required extension "dhooks" file("dhooks.ext") not running
+L 11/03/2020 - 11:41:56: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 11/03/2020 - 11:41:56: [store.smx] Simple Chat Processor isn't installed or failed to load. SCP support will be disabled. (http://forums.alliedmods.net/showthread.php?t=198501)
+L 11/03/2020 - 11:42:07: [SM] Exception reported: [RankMe] Unable to connect to the database ([1045]: Access denied for user 'identitythieves'@'localhost' (using password: YES))
+L 11/03/2020 - 11:42:07: [SM] Blaming: kento_rankme.smx
+L 11/03/2020 - 11:42:07: [SM] Call stack trace:
+L 11/03/2020 - 11:42:07: [SM]   [0] SetFailState
+L 11/03/2020 - 11:42:07: [SM]   [1] Line 197, d:\csgoserver\csgo\addons\sourcemod\scripting\kento_rankme.sp::DB_Connect
+L 11/03/2020 - 11:42:07: [SM]   [2] Line 181, d:\csgoserver\csgo\addons\sourcemod\scripting\kento_rankme.sp::OnConVarChanged_MySQL
+L 11/03/2020 - 11:57:59: [store.smx] Database connection is lost or not yet initialized.
+L 11/03/2020 - 11:57:59: [store.smx] Database connection is lost or not yet initialized.
+L 11/03/2020 - 11:58:09: Error log file session closed.
+L 11/03/2020 - 11:58:12: SourceMod error session started
+L 11/03/2020 - 11:58:12: Info (map "de_dust2") (file "C:\TCAFiles\Users\jean\3\csgo\addons\sourcemod\logs\errors_20201103.log")
+L 11/03/2020 - 11:58:12: [SM] Exception reported: [RankMe] Unable to connect to the database ([1045]: Access denied for user 'identitythieves'@'localhost' (using password: YES))
+L 11/03/2020 - 11:58:12: [SM] Blaming: kento_rankme.smx
+L 11/03/2020 - 11:58:12: [SM] Call stack trace:
+L 11/03/2020 - 11:58:12: [SM]   [0] SetFailState
+L 11/03/2020 - 11:58:12: [SM]   [1] Line 197, d:\csgoserver\csgo\addons\sourcemod\scripting\kento_rankme.sp::DB_Connect
+L 11/03/2020 - 11:58:12: [SM]   [2] Line 250, d:\csgoserver\csgo\addons\sourcemod\scripting\kento_rankme.sp::OnConfigsExecuted
+L 11/03/2020 - 11:58:12: [SM] Exception reported: Failed to connect to SourceBans DB, [1045]: Access denied for user 'identitythieves'@'localhost' (using password: YES)
+L 11/03/2020 - 11:58:12: [SM] Blaming: sbpp_checker.smx
+L 11/03/2020 - 11:58:12: [SM] Call stack trace:
+L 11/03/2020 - 11:58:12: [SM]   [0] SetFailState
+L 11/03/2020 - 11:58:12: [SM]   [1] Line 75, .\sbpp_checker.sp::OnDatabaseConnected
+L 11/03/2020 - 11:58:12: [sbpp_comms.smx] Connecting to database failed: [1045]: Access denied for user 'identitythieves'@'localhost' (using password: YES)
+L 11/03/2020 - 11:58:12: [sbpp_sleuth.smx] SourceSleuth: Database connection error: [1045]: Access denied for user 'identitythieves'@'localhost' (using password: YES)
+L 11/03/2020 - 11:58:12: [SM] Exception reported: Failed to connect to SQL database. Error: [1045]: Access denied for user 'identitythieves'@'localhost' (using password: YES)
+L 11/03/2020 - 11:58:12: [SM] Blaming: store.smx
+L 11/03/2020 - 11:58:12: [SM] Call stack trace:
+L 11/03/2020 - 11:58:12: [SM]   [0] SetFailState
+L 11/03/2020 - 11:58:12: [SM]   [1] Line 2110, store.sp::SQLCallback_Connect
+L 11/03/2020 - 11:58:53: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 11/03/2020 - 11:58:53: [SM] Blaming: sbpp_sleuth.smx
+L 11/03/2020 - 11:58:53: [SM] Call stack trace:
+L 11/03/2020 - 11:58:53: [SM]   [0] SQL_TQuery
+L 11/03/2020 - 11:58:53: [SM]   [1] Line 170, D:\MegaSync\Projects\Sourcemod\scripting\sbpp_sleuth.sp::OnClientPostAdminCheck
+L 11/03/2020 - 11:58:53: [sbpp_comms.smx] Connecting to database failed: [1045]: Access denied for user 'identitythieves'@'localhost' (using password: YES)
+L 11/03/2020 - 11:59:15: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 11/03/2020 - 11:59:15: [SM] Blaming: sbpp_sleuth.smx
+L 11/03/2020 - 11:59:15: [SM] Call stack trace:
+L 11/03/2020 - 11:59:15: [SM]   [0] SQL_TQuery
+L 11/03/2020 - 11:59:15: [SM]   [1] Line 170, D:\MegaSync\Projects\Sourcemod\scripting\sbpp_sleuth.sp::OnClientPostAdminCheck
+L 11/03/2020 - 11:59:15: [sbpp_comms.smx] Connecting to database failed: [1045]: Access denied for user 'identitythieves'@'localhost' (using password: YES)
+L 11/03/2020 - 11:59:30: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 11/03/2020 - 11:59:30: [SM] Blaming: sbpp_sleuth.smx
+L 11/03/2020 - 11:59:30: [SM] Call stack trace:
+L 11/03/2020 - 11:59:30: [SM]   [0] SQL_TQuery
+L 11/03/2020 - 11:59:30: [SM]   [1] Line 170, D:\MegaSync\Projects\Sourcemod\scripting\sbpp_sleuth.sp::OnClientPostAdminCheck
+L 11/03/2020 - 11:59:30: [sbpp_comms.smx] Connecting to database failed: [1045]: Access denied for user 'identitythieves'@'localhost' (using password: YES)
+L 11/03/2020 - 14:46:29: SourceMod error session started
+L 11/03/2020 - 14:46:29: Info (map "de_dust2") (file "C:\TCAFiles\Users\jean\3\csgo\addons\sourcemod\logs\errors_20201103.log")
+L 11/03/2020 - 14:46:29: [SM] Unable to load plugin "csgo_dices_shop.smx": Could not find required plugin "shop"
+L 11/03/2020 - 14:46:29: [SM] Unable to load plugin "server_redirect.smx": Required extension "dhooks" file("dhooks.ext") not running
+L 11/03/2020 - 14:46:29: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 11/03/2020 - 14:46:29: [store.smx] Simple Chat Processor isn't installed or failed to load. SCP support will be disabled. (http://forums.alliedmods.net/showthread.php?t=198501)
+L 11/03/2020 - 14:46:31: [SM] Exception reported: [RankMe] Unable to connect to the database ([1045]: Access denied for user 'identitythieves'@'localhost' (using password: YES))
+L 11/03/2020 - 14:46:31: [SM] Blaming: kento_rankme.smx
+L 11/03/2020 - 14:46:31: [SM] Call stack trace:
+L 11/03/2020 - 14:46:31: [SM]   [0] SetFailState
+L 11/03/2020 - 14:46:31: [SM]   [1] Line 197, d:\csgoserver\csgo\addons\sourcemod\scripting\kento_rankme.sp::DB_Connect
+L 11/03/2020 - 14:46:31: [SM]   [2] Line 181, d:\csgoserver\csgo\addons\sourcemod\scripting\kento_rankme.sp::OnConVarChanged_MySQL
+L 11/03/2020 - 14:51:06: SourceMod error session started
+L 11/03/2020 - 14:51:06: Info (map "de_dust2") (file "C:\TCAFiles\Users\jean\3\csgo\addons\sourcemod\logs\errors_20201103.log")
+L 11/03/2020 - 14:51:06: [SM] Unable to load plugin "csgo_dices_shop.smx": Could not find required plugin "shop"
+L 11/03/2020 - 14:51:06: [SM] Unable to load plugin "server_redirect.smx": Required extension "dhooks" file("dhooks.ext") not running
+L 11/03/2020 - 14:51:06: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 11/03/2020 - 14:51:06: [store.smx] Simple Chat Processor isn't installed or failed to load. SCP support will be disabled. (http://forums.alliedmods.net/showthread.php?t=198501)
+L 11/03/2020 - 14:51:08: [SM] Exception reported: [RankMe] Unable to connect to the database ([1045]: Access denied for user 'identitythieves'@'localhost' (using password: YES))
+L 11/03/2020 - 14:51:08: [SM] Blaming: kento_rankme.smx
+L 11/03/2020 - 14:51:08: [SM] Call stack trace:
+L 11/03/2020 - 14:51:08: [SM]   [0] SetFailState
+L 11/03/2020 - 14:51:08: [SM]   [1] Line 197, d:\csgoserver\csgo\addons\sourcemod\scripting\kento_rankme.sp::DB_Connect
+L 11/03/2020 - 14:51:08: [SM]   [2] Line 181, d:\csgoserver\csgo\addons\sourcemod\scripting\kento_rankme.sp::OnConVarChanged_MySQL
+L 11/03/2020 - 14:51:24: [store.smx] Database connection is lost or not yet initialized.
+L 11/03/2020 - 14:51:24: [store.smx] Database connection is lost or not yet initialized.
+L 11/03/2020 - 14:51:27: Error log file session closed.
+L 11/03/2020 - 14:51:28: SourceMod error session started
+L 11/03/2020 - 14:51:28: Info (map "de_dust2") (file "C:\TCAFiles\Users\jean\3\csgo\addons\sourcemod\logs\errors_20201103.log")
+L 11/03/2020 - 14:51:28: [SM] Exception reported: [RankMe] Unable to connect to the database ([1045]: Access denied for user 'identitythieves'@'localhost' (using password: YES))
+L 11/03/2020 - 14:51:28: [SM] Blaming: kento_rankme.smx
+L 11/03/2020 - 14:51:28: [SM] Call stack trace:
+L 11/03/2020 - 14:51:28: [SM]   [0] SetFailState
+L 11/03/2020 - 14:51:28: [SM]   [1] Line 197, d:\csgoserver\csgo\addons\sourcemod\scripting\kento_rankme.sp::DB_Connect
+L 11/03/2020 - 14:51:28: [SM]   [2] Line 250, d:\csgoserver\csgo\addons\sourcemod\scripting\kento_rankme.sp::OnConfigsExecuted
+L 11/03/2020 - 14:51:28: [SM] Exception reported: Failed to connect to SourceBans DB, [1045]: Access denied for user 'identitythieves'@'localhost' (using password: YES)
+L 11/03/2020 - 14:51:28: [SM] Blaming: sbpp_checker.smx
+L 11/03/2020 - 14:51:28: [SM] Call stack trace:
+L 11/03/2020 - 14:51:28: [SM]   [0] SetFailState
+L 11/03/2020 - 14:51:28: [SM]   [1] Line 75, .\sbpp_checker.sp::OnDatabaseConnected
+L 11/03/2020 - 14:51:28: [sbpp_comms.smx] Connecting to database failed: [1045]: Access denied for user 'identitythieves'@'localhost' (using password: YES)
+L 11/03/2020 - 14:51:28: [sbpp_sleuth.smx] SourceSleuth: Database connection error: [1045]: Access denied for user 'identitythieves'@'localhost' (using password: YES)
+L 11/03/2020 - 14:51:28: [SM] Exception reported: Failed to connect to SQL database. Error: [1045]: Access denied for user 'identitythieves'@'localhost' (using password: YES)
+L 11/03/2020 - 14:51:28: [SM] Blaming: store.smx
+L 11/03/2020 - 14:51:28: [SM] Call stack trace:
+L 11/03/2020 - 14:51:28: [SM]   [0] SetFailState
+L 11/03/2020 - 14:51:28: [SM]   [1] Line 2110, store.sp::SQLCallback_Connect
+L 11/03/2020 - 14:51:39: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 11/03/2020 - 14:51:39: [SM] Blaming: sbpp_sleuth.smx
+L 11/03/2020 - 14:51:39: [SM] Call stack trace:
+L 11/03/2020 - 14:51:39: [SM]   [0] SQL_TQuery
+L 11/03/2020 - 14:51:39: [SM]   [1] Line 170, D:\MegaSync\Projects\Sourcemod\scripting\sbpp_sleuth.sp::OnClientPostAdminCheck
+L 11/03/2020 - 14:51:39: [sbpp_comms.smx] Connecting to database failed: [1045]: Access denied for user 'identitythieves'@'localhost' (using password: YES)
+L 11/03/2020 - 14:59:03: SourceMod error session started
+L 11/03/2020 - 14:59:03: Info (map "de_dust2") (file "C:\TCAFiles\Users\jean\3\csgo\addons\sourcemod\logs\errors_20201103.log")
+L 11/03/2020 - 14:59:03: [SM] Unable to load plugin "csgo_dices_shop.smx": Could not find required plugin "shop"
+L 11/03/2020 - 14:59:03: [SM] Unable to load plugin "server_redirect.smx": Required extension "dhooks" file("dhooks.ext") not running
+L 11/03/2020 - 14:59:03: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 11/03/2020 - 14:59:03: [store.smx] Simple Chat Processor isn't installed or failed to load. SCP support will be disabled. (http://forums.alliedmods.net/showthread.php?t=198501)
+L 11/03/2020 - 14:59:05: [SM] Exception reported: [RankMe] Unable to connect to the database ([1045]: Access denied for user 'identitythieves'@'localhost' (using password: YES))
+L 11/03/2020 - 14:59:05: [SM] Blaming: kento_rankme.smx
+L 11/03/2020 - 14:59:05: [SM] Call stack trace:
+L 11/03/2020 - 14:59:05: [SM]   [0] SetFailState
+L 11/03/2020 - 14:59:05: [SM]   [1] Line 197, d:\csgoserver\csgo\addons\sourcemod\scripting\kento_rankme.sp::DB_Connect
+L 11/03/2020 - 14:59:05: [SM]   [2] Line 181, d:\csgoserver\csgo\addons\sourcemod\scripting\kento_rankme.sp::OnConVarChanged_MySQL
+L 11/03/2020 - 14:59:34: Error log file session closed.
+L 11/03/2020 - 14:59:35: SourceMod error session started
+L 11/03/2020 - 14:59:35: Info (map "de_dust2") (file "C:\TCAFiles\Users\jean\3\csgo\addons\sourcemod\logs\errors_20201103.log")
+L 11/03/2020 - 14:59:35: [SM] Exception reported: [RankMe] Unable to connect to the database ([1045]: Access denied for user 'identitythieves'@'localhost' (using password: YES))
+L 11/03/2020 - 14:59:35: [SM] Blaming: kento_rankme.smx
+L 11/03/2020 - 14:59:35: [SM] Call stack trace:
+L 11/03/2020 - 14:59:35: [SM]   [0] SetFailState
+L 11/03/2020 - 14:59:35: [SM]   [1] Line 197, d:\csgoserver\csgo\addons\sourcemod\scripting\kento_rankme.sp::DB_Connect
+L 11/03/2020 - 14:59:35: [SM]   [2] Line 250, d:\csgoserver\csgo\addons\sourcemod\scripting\kento_rankme.sp::OnConfigsExecuted
+L 11/03/2020 - 14:59:35: [SM] Exception reported: Failed to connect to SourceBans DB, [1045]: Access denied for user 'identitythieves'@'localhost' (using password: YES)
+L 11/03/2020 - 14:59:35: [SM] Blaming: sbpp_checker.smx
+L 11/03/2020 - 14:59:35: [SM] Call stack trace:
+L 11/03/2020 - 14:59:35: [SM]   [0] SetFailState
+L 11/03/2020 - 14:59:35: [SM]   [1] Line 75, .\sbpp_checker.sp::OnDatabaseConnected
+L 11/03/2020 - 14:59:35: [sbpp_comms.smx] Connecting to database failed: [1045]: Access denied for user 'identitythieves'@'localhost' (using password: YES)
+L 11/03/2020 - 14:59:35: [sbpp_sleuth.smx] SourceSleuth: Database connection error: [1045]: Access denied for user 'identitythieves'@'localhost' (using password: YES)
+L 11/03/2020 - 14:59:35: [SM] Exception reported: Failed to connect to SQL database. Error: [1045]: Access denied for user 'identitythieves'@'localhost' (using password: YES)
+L 11/03/2020 - 14:59:35: [SM] Blaming: store.smx
+L 11/03/2020 - 14:59:35: [SM] Call stack trace:
+L 11/03/2020 - 14:59:35: [SM]   [0] SetFailState
+L 11/03/2020 - 14:59:35: [SM]   [1] Line 2110, store.sp::SQLCallback_Connect
+L 11/03/2020 - 14:59:38: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 11/03/2020 - 14:59:38: [SM] Blaming: sbpp_sleuth.smx
+L 11/03/2020 - 14:59:38: [SM] Call stack trace:
+L 11/03/2020 - 14:59:38: [SM]   [0] SQL_TQuery
+L 11/03/2020 - 14:59:38: [SM]   [1] Line 170, D:\MegaSync\Projects\Sourcemod\scripting\sbpp_sleuth.sp::OnClientPostAdminCheck
+L 11/03/2020 - 14:59:38: [sbpp_comms.smx] Connecting to database failed: [1045]: Access denied for user 'identitythieves'@'localhost' (using password: YES)
+L 11/03/2020 - 15:04:06: SourceMod error session started
+L 11/03/2020 - 15:04:06: Info (map "de_dust2") (file "C:\TCAFiles\Users\jean\3\csgo\addons\sourcemod\logs\errors_20201103.log")
+L 11/03/2020 - 15:04:06: [SM] Unable to load plugin "csgo_dices_shop.smx": Could not find required plugin "shop"
+L 11/03/2020 - 15:04:07: [SM] Unable to load plugin "server_redirect.smx": Required extension "dhooks" file("dhooks.ext") not running
+L 11/03/2020 - 15:04:07: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 11/03/2020 - 15:04:07: [store.smx] Simple Chat Processor isn't installed or failed to load. SCP support will be disabled. (http://forums.alliedmods.net/showthread.php?t=198501)
+L 11/03/2020 - 15:04:08: [SM] Exception reported: [RankMe] Unable to connect to the database ([1045]: Access denied for user 'identitythieves'@'localhost' (using password: YES))
+L 11/03/2020 - 15:04:08: [SM] Blaming: kento_rankme.smx
+L 11/03/2020 - 15:04:08: [SM] Call stack trace:
+L 11/03/2020 - 15:04:08: [SM]   [0] SetFailState
+L 11/03/2020 - 15:04:08: [SM]   [1] Line 197, d:\csgoserver\csgo\addons\sourcemod\scripting\kento_rankme.sp::DB_Connect
+L 11/03/2020 - 15:04:08: [SM]   [2] Line 181, d:\csgoserver\csgo\addons\sourcemod\scripting\kento_rankme.sp::OnConVarChanged_MySQL
+L 11/03/2020 - 15:05:30: Error log file session closed.
+L 11/03/2020 - 15:05:31: SourceMod error session started
+L 11/03/2020 - 15:05:31: Info (map "de_dust2") (file "C:\TCAFiles\Users\jean\3\csgo\addons\sourcemod\logs\errors_20201103.log")
+L 11/03/2020 - 15:05:31: [SM] Exception reported: [RankMe] Unable to connect to the database ([1045]: Access denied for user 'identitythieves'@'localhost' (using password: YES))
+L 11/03/2020 - 15:05:31: [SM] Blaming: kento_rankme.smx
+L 11/03/2020 - 15:05:31: [SM] Call stack trace:
+L 11/03/2020 - 15:05:31: [SM]   [0] SetFailState
+L 11/03/2020 - 15:05:31: [SM]   [1] Line 197, d:\csgoserver\csgo\addons\sourcemod\scripting\kento_rankme.sp::DB_Connect
+L 11/03/2020 - 15:05:31: [SM]   [2] Line 250, d:\csgoserver\csgo\addons\sourcemod\scripting\kento_rankme.sp::OnConfigsExecuted
+L 11/03/2020 - 15:05:31: [SM] Exception reported: Failed to connect to SourceBans DB, [1045]: Access denied for user 'identitythieves'@'localhost' (using password: YES)
+L 11/03/2020 - 15:05:31: [SM] Blaming: sbpp_checker.smx
+L 11/03/2020 - 15:05:31: [SM] Call stack trace:
+L 11/03/2020 - 15:05:31: [SM]   [0] SetFailState
+L 11/03/2020 - 15:05:31: [SM]   [1] Line 75, .\sbpp_checker.sp::OnDatabaseConnected
+L 11/03/2020 - 15:05:31: [sbpp_comms.smx] Connecting to database failed: [1045]: Access denied for user 'identitythieves'@'localhost' (using password: YES)
+L 11/03/2020 - 15:05:31: [sbpp_sleuth.smx] SourceSleuth: Database connection error: [1045]: Access denied for user 'identitythieves'@'localhost' (using password: YES)
+L 11/03/2020 - 15:05:31: [SM] Exception reported: Failed to connect to SQL database. Error: [1045]: Access denied for user 'identitythieves'@'localhost' (using password: YES)
+L 11/03/2020 - 15:05:31: [SM] Blaming: store.smx
+L 11/03/2020 - 15:05:31: [SM] Call stack trace:
+L 11/03/2020 - 15:05:31: [SM]   [0] SetFailState
+L 11/03/2020 - 15:05:31: [SM]   [1] Line 2110, store.sp::SQLCallback_Connect
+L 11/03/2020 - 15:05:39: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 11/03/2020 - 15:05:39: [SM] Blaming: sbpp_sleuth.smx
+L 11/03/2020 - 15:05:39: [SM] Call stack trace:
+L 11/03/2020 - 15:05:39: [SM]   [0] SQL_TQuery
+L 11/03/2020 - 15:05:39: [SM]   [1] Line 170, D:\MegaSync\Projects\Sourcemod\scripting\sbpp_sleuth.sp::OnClientPostAdminCheck

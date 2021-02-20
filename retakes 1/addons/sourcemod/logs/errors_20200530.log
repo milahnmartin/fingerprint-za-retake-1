@@ -1,0 +1,11 @@
+L 05/30/2020 - 15:23:15: SourceMod error session started
+L 05/30/2020 - 15:23:15: Info (map "de_overpass") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200530.log")
+L 05/30/2020 - 15:23:15: [SM] Exception reported: Client index 0 is invalid
+L 05/30/2020 - 15:23:15: [SM] Blaming: kento_rankme.smx
+L 05/30/2020 - 15:23:15: [SM] Call stack trace:
+L 05/30/2020 - 15:23:15: [SM]   [0] IsClientInGame
+L 05/30/2020 - 15:23:15: [SM]   [1] Line 615, d:\csgoserver\csgo\addons\sourcemod\scripting\kento_rankme.sp::Event_RoundMVP
+L 05/30/2020 - 15:23:15: [SM]   [3] CS_TerminateRound
+L 05/30/2020 - 15:23:15: [SM]   [4] Line 896, ././scripting/retakes.sp::CheckRoundDone
+L 05/30/2020 - 15:23:15: [SM]   [5] Line 311, ././scripting/retakes.sp::OnClientDisconnect
+L 05/30/2020 - 15:23:16: Error log file session closed.

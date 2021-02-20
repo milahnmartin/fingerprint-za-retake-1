@@ -1,0 +1,1715 @@
+L 07/16/2020 - 13:25:13: SourceMod error session started
+L 07/16/2020 - 13:25:13: Info (map "de_train") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200716.log")
+L 07/16/2020 - 13:25:13: [SM] Exception reported: Client index 0 is invalid
+L 07/16/2020 - 13:25:13: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 13:25:13: [SM] Call stack trace:
+L 07/16/2020 - 13:25:13: [SM]   [0] IsClientInGame
+L 07/16/2020 - 13:25:13: [SM]   [1] Line 615, d:\csgoserver\csgo\addons\sourcemod\scripting\kento_rankme.sp::Event_RoundMVP
+L 07/16/2020 - 13:25:13: [SM]   [3] CS_TerminateRound
+L 07/16/2020 - 13:25:13: [SM]   [4] Line 896, ././scripting/retakes.sp::CheckRoundDone
+L 07/16/2020 - 13:25:13: [SM]   [5] Line 311, ././scripting/retakes.sp::OnClientDisconnect
+L 07/16/2020 - 13:25:14: Error log file session closed.
+L 07/16/2020 - 18:25:17: SourceMod error session started
+L 07/16/2020 - 18:25:17: Info (map "de_dust2") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200716.log")
+L 07/16/2020 - 18:25:17: [SM] Exception reported: Plugin handle 12b60200 is invalid (error 1)
+L 07/16/2020 - 18:25:17: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 18:25:17: [SM] Call stack trace:
+L 07/16/2020 - 18:25:17: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 18:25:17: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 18:25:17: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 18:27:32: [SM] Exception reported: Plugin handle 1c890055 is invalid (error 1)
+L 07/16/2020 - 18:27:32: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 18:27:32: [SM] Call stack trace:
+L 07/16/2020 - 18:27:32: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 18:27:32: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 18:27:32: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 18:28:56: [SM] Exception reported: Plugin handle 1f8c097a is invalid (error 1)
+L 07/16/2020 - 18:28:56: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 18:28:56: [SM] Call stack trace:
+L 07/16/2020 - 18:28:56: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 18:28:56: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 18:28:56: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 18:44:21: Error log file session closed.
+L 07/16/2020 - 18:44:33: SourceMod error session started
+L 07/16/2020 - 18:44:33: Info (map "de_vertigo") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200716.log")
+L 07/16/2020 - 18:44:33: [SM] Exception reported: Plugin handle 6191098b is invalid (error 1)
+L 07/16/2020 - 18:44:33: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 18:44:33: [SM] Call stack trace:
+L 07/16/2020 - 18:44:33: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 18:44:33: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 18:44:33: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 18:59:56: Error log file session closed.
+L 07/16/2020 - 19:00:15: SourceMod error session started
+L 07/16/2020 - 19:00:15: Info (map "de_inferno") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200716.log")
+L 07/16/2020 - 19:00:15: [SM] Exception reported: Plugin handle ad6509b7 is invalid (error 1)
+L 07/16/2020 - 19:00:15: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:00:15: [SM] Call stack trace:
+L 07/16/2020 - 19:00:15: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:00:15: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:00:15: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:00:15: [SM] Exception reported: Plugin handle ad6509b7 is invalid (error 1)
+L 07/16/2020 - 19:00:15: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:00:15: [SM] Call stack trace:
+L 07/16/2020 - 19:00:15: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:00:15: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:00:15: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:00:15: [SM] Exception reported: Plugin handle ad6509b7 is invalid (error 1)
+L 07/16/2020 - 19:00:15: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:00:15: [SM] Call stack trace:
+L 07/16/2020 - 19:00:15: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:00:15: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:00:15: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:00:15: [SM] Exception reported: Plugin handle ad6509b7 is invalid (error 1)
+L 07/16/2020 - 19:00:15: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:00:15: [SM] Call stack trace:
+L 07/16/2020 - 19:00:15: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:00:15: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:00:15: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:00:15: [SM] Exception reported: Plugin handle ad6509b7 is invalid (error 1)
+L 07/16/2020 - 19:00:15: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:00:15: [SM] Call stack trace:
+L 07/16/2020 - 19:00:15: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:00:15: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:00:15: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:00:15: [SM] Exception reported: Plugin handle ad6509b7 is invalid (error 1)
+L 07/16/2020 - 19:00:15: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:00:15: [SM] Call stack trace:
+L 07/16/2020 - 19:00:15: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:00:15: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:00:15: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:00:15: [SM] Exception reported: Plugin handle ad6509b7 is invalid (error 1)
+L 07/16/2020 - 19:00:15: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:00:15: [SM] Call stack trace:
+L 07/16/2020 - 19:00:15: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:00:15: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:00:15: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:00:15: [SM] Exception reported: Plugin handle ad6509b7 is invalid (error 1)
+L 07/16/2020 - 19:00:15: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:00:15: [SM] Call stack trace:
+L 07/16/2020 - 19:00:15: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:00:15: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:00:15: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:00:15: [SM] Exception reported: Plugin handle ad6509b7 is invalid (error 1)
+L 07/16/2020 - 19:00:15: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:00:15: [SM] Call stack trace:
+L 07/16/2020 - 19:00:15: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:00:15: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:00:15: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:00:15: [SM] Exception reported: Plugin handle ad6509b7 is invalid (error 1)
+L 07/16/2020 - 19:00:15: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:00:15: [SM] Call stack trace:
+L 07/16/2020 - 19:00:15: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:00:15: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:00:15: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:00:15: [SM] Exception reported: Plugin handle ad6509b7 is invalid (error 1)
+L 07/16/2020 - 19:00:15: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:00:15: [SM] Call stack trace:
+L 07/16/2020 - 19:00:15: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:00:15: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:00:15: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:00:15: [SM] Exception reported: Plugin handle ad6509b7 is invalid (error 1)
+L 07/16/2020 - 19:00:15: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:00:15: [SM] Call stack trace:
+L 07/16/2020 - 19:00:15: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:00:15: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:00:15: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:00:15: [SM] Exception reported: Plugin handle ad6509b7 is invalid (error 1)
+L 07/16/2020 - 19:00:15: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:00:15: [SM] Call stack trace:
+L 07/16/2020 - 19:00:16: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:00:16: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:00:16: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:01:24: [SM] Exception reported: Plugin handle bb090984 is invalid (error 1)
+L 07/16/2020 - 19:01:24: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:01:24: [SM] Call stack trace:
+L 07/16/2020 - 19:01:24: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:01:24: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:01:24: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:01:24: [SM] Exception reported: Plugin handle bb090984 is invalid (error 1)
+L 07/16/2020 - 19:01:24: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:01:24: [SM] Call stack trace:
+L 07/16/2020 - 19:01:24: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:01:24: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:01:24: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:01:24: [SM] Exception reported: Plugin handle bb090984 is invalid (error 1)
+L 07/16/2020 - 19:01:24: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:01:24: [SM] Call stack trace:
+L 07/16/2020 - 19:01:24: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:01:24: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:01:24: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:01:24: [SM] Exception reported: Plugin handle bb090984 is invalid (error 1)
+L 07/16/2020 - 19:01:24: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:01:24: [SM] Call stack trace:
+L 07/16/2020 - 19:01:24: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:01:24: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:01:24: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:01:24: [SM] Exception reported: Plugin handle bb090984 is invalid (error 1)
+L 07/16/2020 - 19:01:24: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:01:24: [SM] Call stack trace:
+L 07/16/2020 - 19:01:24: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:01:24: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:01:24: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:01:24: [SM] Exception reported: Plugin handle bb090984 is invalid (error 1)
+L 07/16/2020 - 19:01:24: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:01:24: [SM] Call stack trace:
+L 07/16/2020 - 19:01:24: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:01:24: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:01:24: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:14:28: [SM] Exception reported: Plugin handle eea30211 is invalid (error 1)
+L 07/16/2020 - 19:14:28: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:14:28: [SM] Call stack trace:
+L 07/16/2020 - 19:14:28: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:14:28: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:14:28: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:14:28: [SM] Exception reported: Plugin handle eea30211 is invalid (error 1)
+L 07/16/2020 - 19:14:28: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:14:28: [SM] Call stack trace:
+L 07/16/2020 - 19:14:28: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:14:28: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:14:28: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:14:28: [SM] Exception reported: Plugin handle eea30211 is invalid (error 1)
+L 07/16/2020 - 19:14:28: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:14:28: [SM] Call stack trace:
+L 07/16/2020 - 19:14:28: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:14:28: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:14:28: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:14:28: [SM] Exception reported: Plugin handle eea30211 is invalid (error 1)
+L 07/16/2020 - 19:14:28: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:14:28: [SM] Call stack trace:
+L 07/16/2020 - 19:14:28: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:14:28: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:14:28: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:17:10: Error log file session closed.
+L 07/16/2020 - 19:17:28: SourceMod error session started
+L 07/16/2020 - 19:17:28: Info (map "de_mirage") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200716.log")
+L 07/16/2020 - 19:17:28: [SM] Exception reported: Plugin handle fa5309bc is invalid (error 1)
+L 07/16/2020 - 19:17:28: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:17:28: [SM] Call stack trace:
+L 07/16/2020 - 19:17:28: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:17:28: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:17:28: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:17:28: [SM] Exception reported: Plugin handle fa5309bc is invalid (error 1)
+L 07/16/2020 - 19:17:28: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:17:28: [SM] Call stack trace:
+L 07/16/2020 - 19:17:28: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:17:28: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:17:28: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:17:28: [SM] Exception reported: Plugin handle fa5309bc is invalid (error 1)
+L 07/16/2020 - 19:17:28: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:17:28: [SM] Call stack trace:
+L 07/16/2020 - 19:17:28: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:17:28: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:17:28: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:17:28: [SM] Exception reported: Plugin handle fa5309bc is invalid (error 1)
+L 07/16/2020 - 19:17:28: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:17:28: [SM] Call stack trace:
+L 07/16/2020 - 19:17:28: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:17:28: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:17:28: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:17:28: [SM] Exception reported: Plugin handle fa5309bc is invalid (error 1)
+L 07/16/2020 - 19:17:28: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:17:28: [SM] Call stack trace:
+L 07/16/2020 - 19:17:28: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:17:28: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:17:28: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:17:28: [SM] Exception reported: Plugin handle fa5309bc is invalid (error 1)
+L 07/16/2020 - 19:17:28: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:17:28: [SM] Call stack trace:
+L 07/16/2020 - 19:17:28: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:17:28: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:17:28: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:17:28: [SM] Exception reported: Plugin handle fa5309bc is invalid (error 1)
+L 07/16/2020 - 19:17:28: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:17:28: [SM] Call stack trace:
+L 07/16/2020 - 19:17:28: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:17:28: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:17:28: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:17:28: [SM] Exception reported: Plugin handle fa5309bc is invalid (error 1)
+L 07/16/2020 - 19:17:28: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:17:28: [SM] Call stack trace:
+L 07/16/2020 - 19:17:28: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:17:28: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:17:28: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:17:28: [SM] Exception reported: Plugin handle fa5309bc is invalid (error 1)
+L 07/16/2020 - 19:17:28: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:17:28: [SM] Call stack trace:
+L 07/16/2020 - 19:17:28: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:17:28: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:17:28: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:17:28: [SM] Exception reported: Plugin handle fa5309bc is invalid (error 1)
+L 07/16/2020 - 19:17:28: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:17:28: [SM] Call stack trace:
+L 07/16/2020 - 19:17:28: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:17:28: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:17:28: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:19:18: [SM] Exception reported: Plugin handle 8f809a7 is invalid (error 1)
+L 07/16/2020 - 19:19:18: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:19:18: [SM] Call stack trace:
+L 07/16/2020 - 19:19:18: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:19:18: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:19:18: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:19:18: [SM] Exception reported: Plugin handle 8f809a7 is invalid (error 1)
+L 07/16/2020 - 19:19:18: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:19:18: [SM] Call stack trace:
+L 07/16/2020 - 19:19:18: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:19:18: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:19:18: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:19:18: [SM] Exception reported: Plugin handle 8f809a7 is invalid (error 1)
+L 07/16/2020 - 19:19:18: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:19:18: [SM] Call stack trace:
+L 07/16/2020 - 19:19:18: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:19:18: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:19:18: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:19:18: [SM] Exception reported: Plugin handle 8f809a7 is invalid (error 1)
+L 07/16/2020 - 19:19:18: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:19:18: [SM] Call stack trace:
+L 07/16/2020 - 19:19:18: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:19:18: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:19:18: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:27:31: [SM] Exception reported: Plugin handle 287c09a0 is invalid (error 1)
+L 07/16/2020 - 19:27:31: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:27:31: [SM] Call stack trace:
+L 07/16/2020 - 19:27:31: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:27:31: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:27:31: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:27:31: [SM] Exception reported: Plugin handle 287c09a0 is invalid (error 1)
+L 07/16/2020 - 19:27:31: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:27:31: [SM] Call stack trace:
+L 07/16/2020 - 19:27:31: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:27:31: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:27:31: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:27:31: [SM] Exception reported: Plugin handle 287c09a0 is invalid (error 1)
+L 07/16/2020 - 19:27:31: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:27:31: [SM] Call stack trace:
+L 07/16/2020 - 19:27:31: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:27:31: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:27:31: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:27:31: [SM] Exception reported: Plugin handle 287c09a0 is invalid (error 1)
+L 07/16/2020 - 19:27:31: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:27:31: [SM] Call stack trace:
+L 07/16/2020 - 19:27:31: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:27:31: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:27:31: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:27:31: [SM] Exception reported: Plugin handle 287c09a0 is invalid (error 1)
+L 07/16/2020 - 19:27:31: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:27:31: [SM] Call stack trace:
+L 07/16/2020 - 19:27:31: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:27:31: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:27:31: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:27:31: [SM] Exception reported: Plugin handle 287c09a0 is invalid (error 1)
+L 07/16/2020 - 19:27:31: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:27:31: [SM] Call stack trace:
+L 07/16/2020 - 19:27:31: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:27:31: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:27:31: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:27:31: [SM] Exception reported: Plugin handle 287c09a0 is invalid (error 1)
+L 07/16/2020 - 19:27:31: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:27:31: [SM] Call stack trace:
+L 07/16/2020 - 19:27:31: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:27:31: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:27:31: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:27:31: [SM] Exception reported: Plugin handle 287c09a0 is invalid (error 1)
+L 07/16/2020 - 19:27:31: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:27:31: [SM] Call stack trace:
+L 07/16/2020 - 19:27:31: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:27:31: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:27:31: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:27:31: [SM] Exception reported: Plugin handle 287c09a0 is invalid (error 1)
+L 07/16/2020 - 19:27:31: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:27:31: [SM] Call stack trace:
+L 07/16/2020 - 19:27:31: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:27:31: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:27:31: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:27:31: [SM] Exception reported: Plugin handle 287c09a0 is invalid (error 1)
+L 07/16/2020 - 19:27:31: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:27:31: [SM] Call stack trace:
+L 07/16/2020 - 19:27:31: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:27:31: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:27:31: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:27:31: [SM] Exception reported: Plugin handle 287c09a0 is invalid (error 1)
+L 07/16/2020 - 19:27:31: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:27:31: [SM] Call stack trace:
+L 07/16/2020 - 19:27:31: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:27:31: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:27:31: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:29:49: [SM] Exception reported: Plugin handle 330d09a7 is invalid (error 1)
+L 07/16/2020 - 19:29:49: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:29:49: [SM] Call stack trace:
+L 07/16/2020 - 19:29:49: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:29:49: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:29:49: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:29:49: [SM] Exception reported: Plugin handle 330d09a7 is invalid (error 1)
+L 07/16/2020 - 19:29:49: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:29:49: [SM] Call stack trace:
+L 07/16/2020 - 19:29:49: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:29:49: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:29:49: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:29:49: [SM] Exception reported: Plugin handle 330d09a7 is invalid (error 1)
+L 07/16/2020 - 19:29:49: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:29:49: [SM] Call stack trace:
+L 07/16/2020 - 19:29:49: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:29:49: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:29:49: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:29:50: [SM] Exception reported: Plugin handle 330d09a7 is invalid (error 1)
+L 07/16/2020 - 19:29:50: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:29:50: [SM] Call stack trace:
+L 07/16/2020 - 19:29:50: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:29:50: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:29:50: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:29:50: [SM] Exception reported: Plugin handle 330d09a7 is invalid (error 1)
+L 07/16/2020 - 19:29:50: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:29:50: [SM] Call stack trace:
+L 07/16/2020 - 19:29:50: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:29:50: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:29:50: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:29:50: [SM] Exception reported: Plugin handle 330d09a7 is invalid (error 1)
+L 07/16/2020 - 19:29:50: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:29:50: [SM] Call stack trace:
+L 07/16/2020 - 19:29:50: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:29:50: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:29:50: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:29:50: [SM] Exception reported: Plugin handle 330d09a7 is invalid (error 1)
+L 07/16/2020 - 19:29:50: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:29:50: [SM] Call stack trace:
+L 07/16/2020 - 19:29:50: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:29:50: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:29:50: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:33:04: [SM] Exception reported: Plugin handle 3e9f09af is invalid (error 1)
+L 07/16/2020 - 19:33:04: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:33:04: [SM] Call stack trace:
+L 07/16/2020 - 19:33:04: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:33:04: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:33:04: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:33:04: [SM] Exception reported: Plugin handle 3e9f09af is invalid (error 1)
+L 07/16/2020 - 19:33:04: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:33:04: [SM] Call stack trace:
+L 07/16/2020 - 19:33:04: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:33:04: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:33:04: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:33:04: [SM] Exception reported: Plugin handle 3e9f09af is invalid (error 1)
+L 07/16/2020 - 19:33:04: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:33:04: [SM] Call stack trace:
+L 07/16/2020 - 19:33:04: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:33:04: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:33:04: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:33:04: [SM] Exception reported: Plugin handle 3e9f09af is invalid (error 1)
+L 07/16/2020 - 19:33:04: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:33:04: [SM] Call stack trace:
+L 07/16/2020 - 19:33:04: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:33:04: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:33:04: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:41:02: [SM] Exception reported: Plugin handle 608309b4 is invalid (error 1)
+L 07/16/2020 - 19:41:02: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:41:02: [SM] Call stack trace:
+L 07/16/2020 - 19:41:02: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:41:02: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:41:02: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:41:02: [SM] Exception reported: Plugin handle 608309b4 is invalid (error 1)
+L 07/16/2020 - 19:41:02: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:41:02: [SM] Call stack trace:
+L 07/16/2020 - 19:41:02: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:41:02: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:41:02: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:41:02: [SM] Exception reported: Plugin handle 608309b4 is invalid (error 1)
+L 07/16/2020 - 19:41:02: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:41:02: [SM] Call stack trace:
+L 07/16/2020 - 19:41:02: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:41:02: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:41:02: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:41:02: [SM] Exception reported: Plugin handle 608309b4 is invalid (error 1)
+L 07/16/2020 - 19:41:02: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:41:02: [SM] Call stack trace:
+L 07/16/2020 - 19:41:02: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:41:02: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:41:02: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:41:02: [SM] Exception reported: Plugin handle 608309b4 is invalid (error 1)
+L 07/16/2020 - 19:41:02: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:41:02: [SM] Call stack trace:
+L 07/16/2020 - 19:41:02: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:41:02: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:41:02: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:41:02: [SM] Exception reported: Plugin handle 608309b4 is invalid (error 1)
+L 07/16/2020 - 19:41:02: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:41:02: [SM] Call stack trace:
+L 07/16/2020 - 19:41:02: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:41:02: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:41:02: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:41:02: [SM] Exception reported: Plugin handle 608309b4 is invalid (error 1)
+L 07/16/2020 - 19:41:02: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:41:02: [SM] Call stack trace:
+L 07/16/2020 - 19:41:02: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:41:02: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:41:02: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:41:02: [SM] Exception reported: Plugin handle 608309b4 is invalid (error 1)
+L 07/16/2020 - 19:41:02: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:41:02: [SM] Call stack trace:
+L 07/16/2020 - 19:41:02: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:41:02: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:41:02: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:53:15: [SM] Exception reported: Plugin handle 888c09b0 is invalid (error 1)
+L 07/16/2020 - 19:53:15: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:53:15: [SM] Call stack trace:
+L 07/16/2020 - 19:53:15: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:53:15: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:53:15: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:53:15: [SM] Exception reported: Plugin handle 888c09b0 is invalid (error 1)
+L 07/16/2020 - 19:53:15: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:53:15: [SM] Call stack trace:
+L 07/16/2020 - 19:53:15: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:53:15: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:53:15: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:53:15: [SM] Exception reported: Plugin handle 888c09b0 is invalid (error 1)
+L 07/16/2020 - 19:53:15: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:53:15: [SM] Call stack trace:
+L 07/16/2020 - 19:53:15: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:53:15: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:53:15: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:53:15: [SM] Exception reported: Plugin handle 888c09b0 is invalid (error 1)
+L 07/16/2020 - 19:53:15: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:53:15: [SM] Call stack trace:
+L 07/16/2020 - 19:53:15: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:53:15: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:53:15: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:53:15: [SM] Exception reported: Plugin handle 888c09b0 is invalid (error 1)
+L 07/16/2020 - 19:53:15: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:53:15: [SM] Call stack trace:
+L 07/16/2020 - 19:53:15: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:53:15: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:53:15: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:53:15: [SM] Exception reported: Plugin handle 888c09b0 is invalid (error 1)
+L 07/16/2020 - 19:53:15: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:53:15: [SM] Call stack trace:
+L 07/16/2020 - 19:53:15: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:53:15: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:53:15: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:53:15: [SM] Exception reported: Plugin handle 888c09b0 is invalid (error 1)
+L 07/16/2020 - 19:53:15: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:53:15: [SM] Call stack trace:
+L 07/16/2020 - 19:53:15: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:53:15: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:53:15: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:56:05: [SM] Exception reported: Plugin handle 931a09c4 is invalid (error 1)
+L 07/16/2020 - 19:56:05: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:56:05: [SM] Call stack trace:
+L 07/16/2020 - 19:56:05: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:56:05: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:56:05: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:56:05: [SM] Exception reported: Plugin handle 931a09c4 is invalid (error 1)
+L 07/16/2020 - 19:56:05: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:56:05: [SM] Call stack trace:
+L 07/16/2020 - 19:56:05: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:56:05: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:56:05: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:56:05: [SM] Exception reported: Plugin handle 931a09c4 is invalid (error 1)
+L 07/16/2020 - 19:56:05: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:56:05: [SM] Call stack trace:
+L 07/16/2020 - 19:56:05: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:56:05: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:56:05: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:56:05: [SM] Exception reported: Plugin handle 931a09c4 is invalid (error 1)
+L 07/16/2020 - 19:56:05: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:56:05: [SM] Call stack trace:
+L 07/16/2020 - 19:56:05: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:56:05: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:56:05: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:56:05: [SM] Exception reported: Plugin handle 931a09c4 is invalid (error 1)
+L 07/16/2020 - 19:56:05: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:56:05: [SM] Call stack trace:
+L 07/16/2020 - 19:56:05: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:56:05: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:56:05: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:56:05: [SM] Exception reported: Plugin handle 931a09c4 is invalid (error 1)
+L 07/16/2020 - 19:56:05: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:56:05: [SM] Call stack trace:
+L 07/16/2020 - 19:56:05: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:56:05: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:56:05: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:56:05: [SM] Exception reported: Plugin handle 931a09c4 is invalid (error 1)
+L 07/16/2020 - 19:56:05: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:56:05: [SM] Call stack trace:
+L 07/16/2020 - 19:56:05: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:56:05: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:56:05: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:56:05: [SM] Exception reported: Plugin handle 931a09c4 is invalid (error 1)
+L 07/16/2020 - 19:56:05: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:56:05: [SM] Call stack trace:
+L 07/16/2020 - 19:56:05: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:56:05: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:56:05: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:56:05: [SM] Exception reported: Plugin handle 931a09c4 is invalid (error 1)
+L 07/16/2020 - 19:56:05: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:56:05: [SM] Call stack trace:
+L 07/16/2020 - 19:56:05: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:56:05: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:56:05: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:56:05: [SM] Exception reported: Plugin handle 931a09c4 is invalid (error 1)
+L 07/16/2020 - 19:56:05: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:56:05: [SM] Call stack trace:
+L 07/16/2020 - 19:56:05: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:56:05: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:56:05: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:56:05: [SM] Exception reported: Plugin handle 931a09c4 is invalid (error 1)
+L 07/16/2020 - 19:56:05: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:56:05: [SM] Call stack trace:
+L 07/16/2020 - 19:56:05: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:56:05: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:56:05: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:56:05: [SM] Exception reported: Plugin handle 931a09c4 is invalid (error 1)
+L 07/16/2020 - 19:56:05: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:56:05: [SM] Call stack trace:
+L 07/16/2020 - 19:56:05: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:56:05: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:56:05: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:59:22: [SM] Exception reported: Plugin handle 9b7c09af is invalid (error 1)
+L 07/16/2020 - 19:59:22: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:59:22: [SM] Call stack trace:
+L 07/16/2020 - 19:59:22: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:59:22: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:59:22: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:59:22: [SM] Exception reported: Plugin handle 9b7c09af is invalid (error 1)
+L 07/16/2020 - 19:59:22: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:59:22: [SM] Call stack trace:
+L 07/16/2020 - 19:59:22: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:59:22: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:59:22: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:59:22: [SM] Exception reported: Plugin handle 9b7c09af is invalid (error 1)
+L 07/16/2020 - 19:59:22: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:59:22: [SM] Call stack trace:
+L 07/16/2020 - 19:59:22: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:59:22: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:59:22: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:59:22: [SM] Exception reported: Plugin handle 9b7c09af is invalid (error 1)
+L 07/16/2020 - 19:59:22: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:59:22: [SM] Call stack trace:
+L 07/16/2020 - 19:59:22: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:59:22: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:59:22: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:59:22: [SM] Exception reported: Plugin handle 9b7c09af is invalid (error 1)
+L 07/16/2020 - 19:59:22: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:59:22: [SM] Call stack trace:
+L 07/16/2020 - 19:59:22: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:59:22: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:59:22: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 19:59:22: [SM] Exception reported: Plugin handle 9b7c09af is invalid (error 1)
+L 07/16/2020 - 19:59:22: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 19:59:22: [SM] Call stack trace:
+L 07/16/2020 - 19:59:22: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 19:59:22: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 19:59:22: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:08:25: [SM] Exception reported: Plugin handle ba390056 is invalid (error 1)
+L 07/16/2020 - 20:08:25: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:08:25: [SM] Call stack trace:
+L 07/16/2020 - 20:08:25: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:08:25: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:08:25: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:08:25: [SM] Exception reported: Plugin handle ba390056 is invalid (error 1)
+L 07/16/2020 - 20:08:25: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:08:25: [SM] Call stack trace:
+L 07/16/2020 - 20:08:25: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:08:25: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:08:25: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:08:25: [SM] Exception reported: Plugin handle ba390056 is invalid (error 1)
+L 07/16/2020 - 20:08:25: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:08:25: [SM] Call stack trace:
+L 07/16/2020 - 20:08:25: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:08:25: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:08:25: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:09:49: [SM] Exception reported: Plugin handle be530994 is invalid (error 1)
+L 07/16/2020 - 20:09:49: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:09:49: [SM] Call stack trace:
+L 07/16/2020 - 20:09:49: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:09:49: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:09:49: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:09:49: [SM] Exception reported: Plugin handle be530994 is invalid (error 1)
+L 07/16/2020 - 20:09:49: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:09:49: [SM] Call stack trace:
+L 07/16/2020 - 20:09:49: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:09:49: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:09:49: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:09:49: [SM] Exception reported: Plugin handle be530994 is invalid (error 1)
+L 07/16/2020 - 20:09:49: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:09:49: [SM] Call stack trace:
+L 07/16/2020 - 20:09:49: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:09:49: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:09:49: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:09:49: [SM] Exception reported: Plugin handle be530994 is invalid (error 1)
+L 07/16/2020 - 20:09:49: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:09:49: [SM] Call stack trace:
+L 07/16/2020 - 20:09:49: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:09:49: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:09:49: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:09:49: [SM] Exception reported: Plugin handle be530994 is invalid (error 1)
+L 07/16/2020 - 20:09:49: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:09:49: [SM] Call stack trace:
+L 07/16/2020 - 20:09:49: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:09:49: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:09:49: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:09:49: [SM] Exception reported: Plugin handle be530994 is invalid (error 1)
+L 07/16/2020 - 20:09:49: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:09:49: [SM] Call stack trace:
+L 07/16/2020 - 20:09:49: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:09:49: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:09:49: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:09:49: [SM] Exception reported: Plugin handle be530994 is invalid (error 1)
+L 07/16/2020 - 20:09:49: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:09:49: [SM] Call stack trace:
+L 07/16/2020 - 20:09:49: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:09:49: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:09:49: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:09:49: [SM] Exception reported: Plugin handle be530994 is invalid (error 1)
+L 07/16/2020 - 20:09:49: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:09:49: [SM] Call stack trace:
+L 07/16/2020 - 20:09:49: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:09:49: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:09:49: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:09:49: [SM] Exception reported: Plugin handle be530994 is invalid (error 1)
+L 07/16/2020 - 20:09:49: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:09:49: [SM] Call stack trace:
+L 07/16/2020 - 20:09:49: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:09:49: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:09:49: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:09:49: [SM] Exception reported: Plugin handle be530994 is invalid (error 1)
+L 07/16/2020 - 20:09:49: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:09:49: [SM] Call stack trace:
+L 07/16/2020 - 20:09:49: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:09:49: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:09:49: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:13:24: [SM] Exception reported: Plugin handle c95e0053 is invalid (error 1)
+L 07/16/2020 - 20:13:24: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:13:24: [SM] Call stack trace:
+L 07/16/2020 - 20:13:24: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:13:24: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:13:24: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:16:43: Error log file session closed.
+L 07/16/2020 - 20:17:00: SourceMod error session started
+L 07/16/2020 - 20:17:00: Info (map "de_overpass") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200716.log")
+L 07/16/2020 - 20:17:00: [SM] Exception reported: Plugin handle d5ce098c is invalid (error 1)
+L 07/16/2020 - 20:17:00: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:17:00: [SM] Call stack trace:
+L 07/16/2020 - 20:17:00: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:17:00: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:17:00: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:17:00: [SM] Exception reported: Plugin handle d5ce098c is invalid (error 1)
+L 07/16/2020 - 20:17:00: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:17:00: [SM] Call stack trace:
+L 07/16/2020 - 20:17:00: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:17:00: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:17:00: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:17:00: [SM] Exception reported: Plugin handle d5ce098c is invalid (error 1)
+L 07/16/2020 - 20:17:00: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:17:00: [SM] Call stack trace:
+L 07/16/2020 - 20:17:00: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:17:00: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:17:00: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:17:00: [SM] Exception reported: Plugin handle d5ce098c is invalid (error 1)
+L 07/16/2020 - 20:17:00: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:17:00: [SM] Call stack trace:
+L 07/16/2020 - 20:17:00: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:17:00: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:17:00: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:17:00: [SM] Exception reported: Plugin handle d5ce098c is invalid (error 1)
+L 07/16/2020 - 20:17:00: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:17:00: [SM] Call stack trace:
+L 07/16/2020 - 20:17:00: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:17:00: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:17:00: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:17:00: [SM] Exception reported: Plugin handle d5ce098c is invalid (error 1)
+L 07/16/2020 - 20:17:00: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:17:00: [SM] Call stack trace:
+L 07/16/2020 - 20:17:00: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:17:00: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:17:00: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:17:00: [SM] Exception reported: Plugin handle d5ce098c is invalid (error 1)
+L 07/16/2020 - 20:17:00: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:17:00: [SM] Call stack trace:
+L 07/16/2020 - 20:17:00: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:17:00: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:17:00: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:17:00: [SM] Exception reported: Plugin handle d5ce098c is invalid (error 1)
+L 07/16/2020 - 20:17:00: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:17:00: [SM] Call stack trace:
+L 07/16/2020 - 20:17:00: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:17:00: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:17:00: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:17:00: [SM] Exception reported: Plugin handle d5ce098c is invalid (error 1)
+L 07/16/2020 - 20:17:00: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:17:00: [SM] Call stack trace:
+L 07/16/2020 - 20:17:00: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:17:00: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:17:00: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:17:00: [SM] Exception reported: Plugin handle d5ce098c is invalid (error 1)
+L 07/16/2020 - 20:17:00: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:17:00: [SM] Call stack trace:
+L 07/16/2020 - 20:17:00: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:17:00: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:17:00: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:17:00: [SM] Exception reported: Plugin handle d5ce098c is invalid (error 1)
+L 07/16/2020 - 20:17:00: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:17:00: [SM] Call stack trace:
+L 07/16/2020 - 20:17:00: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:17:00: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:17:00: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:22:53: [SM] Exception reported: Plugin handle f7a20053 is invalid (error 1)
+L 07/16/2020 - 20:22:53: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:22:53: [SM] Call stack trace:
+L 07/16/2020 - 20:22:53: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:22:53: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:22:53: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:22:53: [SM] Exception reported: Plugin handle f7a20053 is invalid (error 1)
+L 07/16/2020 - 20:22:53: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:22:53: [SM] Call stack trace:
+L 07/16/2020 - 20:22:53: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:22:53: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:22:53: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:22:53: [SM] Exception reported: Plugin handle f7a20053 is invalid (error 1)
+L 07/16/2020 - 20:22:53: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:22:53: [SM] Call stack trace:
+L 07/16/2020 - 20:22:53: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:22:53: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:22:53: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:22:53: [SM] Exception reported: Plugin handle f7a20053 is invalid (error 1)
+L 07/16/2020 - 20:22:53: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:22:53: [SM] Call stack trace:
+L 07/16/2020 - 20:22:53: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:22:53: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:22:53: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:22:53: [SM] Exception reported: Plugin handle f7a20053 is invalid (error 1)
+L 07/16/2020 - 20:22:53: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:22:53: [SM] Call stack trace:
+L 07/16/2020 - 20:22:53: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:22:53: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:22:53: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:22:53: [SM] Exception reported: Plugin handle f7a20053 is invalid (error 1)
+L 07/16/2020 - 20:22:53: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:22:53: [SM] Call stack trace:
+L 07/16/2020 - 20:22:53: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:22:53: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:22:53: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:34:49: Error log file session closed.
+L 07/16/2020 - 20:35:10: SourceMod error session started
+L 07/16/2020 - 20:35:10: Info (map "de_cache") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200716.log")
+L 07/16/2020 - 20:35:10: [SM] Exception reported: Plugin handle 2434098c is invalid (error 1)
+L 07/16/2020 - 20:35:10: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:35:10: [SM] Call stack trace:
+L 07/16/2020 - 20:35:10: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:35:10: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:35:10: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:35:10: [SM] Exception reported: Plugin handle 2434098c is invalid (error 1)
+L 07/16/2020 - 20:35:10: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:35:10: [SM] Call stack trace:
+L 07/16/2020 - 20:35:10: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:35:10: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:35:10: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:35:10: [SM] Exception reported: Plugin handle 2434098c is invalid (error 1)
+L 07/16/2020 - 20:35:10: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:35:10: [SM] Call stack trace:
+L 07/16/2020 - 20:35:10: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:35:10: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:35:10: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:35:10: [SM] Exception reported: Plugin handle 2434098c is invalid (error 1)
+L 07/16/2020 - 20:35:10: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:35:10: [SM] Call stack trace:
+L 07/16/2020 - 20:35:10: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:35:10: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:35:10: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:35:10: [SM] Exception reported: Plugin handle 2434098c is invalid (error 1)
+L 07/16/2020 - 20:35:10: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:35:10: [SM] Call stack trace:
+L 07/16/2020 - 20:35:10: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:35:10: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:35:10: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:35:10: [SM] Exception reported: Plugin handle 2434098c is invalid (error 1)
+L 07/16/2020 - 20:35:10: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:35:10: [SM] Call stack trace:
+L 07/16/2020 - 20:35:10: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:35:10: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:35:10: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:50:58: [SM] Exception reported: Plugin handle 63dc0056 is invalid (error 1)
+L 07/16/2020 - 20:50:58: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:50:58: [SM] Call stack trace:
+L 07/16/2020 - 20:50:58: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:50:58: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:50:58: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:50:58: [SM] Exception reported: Plugin handle 63dc0056 is invalid (error 1)
+L 07/16/2020 - 20:50:58: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:50:58: [SM] Call stack trace:
+L 07/16/2020 - 20:50:58: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:50:58: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:50:58: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:50:58: [SM] Exception reported: Plugin handle 63dc0056 is invalid (error 1)
+L 07/16/2020 - 20:50:58: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:50:58: [SM] Call stack trace:
+L 07/16/2020 - 20:50:58: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:50:58: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:50:58: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:50:58: [SM] Exception reported: Plugin handle 63dc0056 is invalid (error 1)
+L 07/16/2020 - 20:50:58: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:50:58: [SM] Call stack trace:
+L 07/16/2020 - 20:50:58: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:50:58: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:50:58: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:50:58: [SM] Exception reported: Plugin handle 63dc0056 is invalid (error 1)
+L 07/16/2020 - 20:50:58: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:50:58: [SM] Call stack trace:
+L 07/16/2020 - 20:50:58: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:50:58: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:50:58: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:50:58: [SM] Exception reported: Plugin handle 63dc0056 is invalid (error 1)
+L 07/16/2020 - 20:50:58: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:50:58: [SM] Call stack trace:
+L 07/16/2020 - 20:50:58: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:50:58: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:50:58: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:50:58: [SM] Exception reported: Plugin handle 63dc0056 is invalid (error 1)
+L 07/16/2020 - 20:50:58: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:50:58: [SM] Call stack trace:
+L 07/16/2020 - 20:50:58: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:50:58: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:50:58: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:50:58: [SM] Exception reported: Plugin handle 63dc0056 is invalid (error 1)
+L 07/16/2020 - 20:50:58: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:50:58: [SM] Call stack trace:
+L 07/16/2020 - 20:50:58: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:50:58: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:50:58: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:50:58: [SM] Exception reported: Plugin handle 63dc0056 is invalid (error 1)
+L 07/16/2020 - 20:50:58: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:50:58: [SM] Call stack trace:
+L 07/16/2020 - 20:50:58: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:50:58: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:50:58: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:50:58: [SM] Exception reported: Plugin handle 63dc0056 is invalid (error 1)
+L 07/16/2020 - 20:50:58: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:50:58: [SM] Call stack trace:
+L 07/16/2020 - 20:50:58: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:50:58: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:50:58: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:50:58: [SM] Exception reported: Plugin handle 63dc0056 is invalid (error 1)
+L 07/16/2020 - 20:50:58: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:50:58: [SM] Call stack trace:
+L 07/16/2020 - 20:50:58: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:50:58: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:50:58: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:50:58: [SM] Exception reported: Plugin handle 63dc0056 is invalid (error 1)
+L 07/16/2020 - 20:50:58: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:50:58: [SM] Call stack trace:
+L 07/16/2020 - 20:50:58: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:50:58: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:50:58: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:50:58: [SM] Exception reported: Plugin handle 63dc0056 is invalid (error 1)
+L 07/16/2020 - 20:50:58: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:50:58: [SM] Call stack trace:
+L 07/16/2020 - 20:50:58: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:50:58: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:50:58: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:53:37: [SM] Exception reported: Plugin handle 6ea30975 is invalid (error 1)
+L 07/16/2020 - 20:53:37: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:53:37: [SM] Call stack trace:
+L 07/16/2020 - 20:53:37: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:53:37: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:53:37: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:53:37: [SM] Exception reported: Plugin handle 6ea30975 is invalid (error 1)
+L 07/16/2020 - 20:53:37: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:53:37: [SM] Call stack trace:
+L 07/16/2020 - 20:53:37: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:53:37: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:53:37: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:53:37: [SM] Exception reported: Plugin handle 6ea30975 is invalid (error 1)
+L 07/16/2020 - 20:53:37: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:53:37: [SM] Call stack trace:
+L 07/16/2020 - 20:53:37: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:53:37: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:53:37: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:53:37: [SM] Exception reported: Plugin handle 6ea30975 is invalid (error 1)
+L 07/16/2020 - 20:53:37: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:53:37: [SM] Call stack trace:
+L 07/16/2020 - 20:53:37: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:53:37: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:53:37: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:53:37: [SM] Exception reported: Plugin handle 6ea30975 is invalid (error 1)
+L 07/16/2020 - 20:53:37: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:53:37: [SM] Call stack trace:
+L 07/16/2020 - 20:53:37: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:53:37: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:53:37: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:53:37: [SM] Exception reported: Plugin handle 6ea30975 is invalid (error 1)
+L 07/16/2020 - 20:53:37: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:53:37: [SM] Call stack trace:
+L 07/16/2020 - 20:53:37: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:53:37: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:53:37: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:53:37: [SM] Exception reported: Plugin handle 6ea30975 is invalid (error 1)
+L 07/16/2020 - 20:53:37: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:53:37: [SM] Call stack trace:
+L 07/16/2020 - 20:53:37: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:53:37: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:53:37: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:53:37: [SM] Exception reported: Plugin handle 6ea30975 is invalid (error 1)
+L 07/16/2020 - 20:53:37: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:53:37: [SM] Call stack trace:
+L 07/16/2020 - 20:53:37: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:53:37: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:53:37: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:53:37: [SM] Exception reported: Plugin handle 6ea30975 is invalid (error 1)
+L 07/16/2020 - 20:53:37: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:53:37: [SM] Call stack trace:
+L 07/16/2020 - 20:53:37: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:53:37: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:53:37: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:53:37: [SM] Exception reported: Plugin handle 6ea30975 is invalid (error 1)
+L 07/16/2020 - 20:53:37: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:53:37: [SM] Call stack trace:
+L 07/16/2020 - 20:53:37: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:53:37: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:53:37: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:53:37: [SM] Exception reported: Plugin handle 6ea30975 is invalid (error 1)
+L 07/16/2020 - 20:53:37: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:53:37: [SM] Call stack trace:
+L 07/16/2020 - 20:53:37: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:53:37: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:53:37: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:53:37: [SM] Exception reported: Plugin handle 6ea30975 is invalid (error 1)
+L 07/16/2020 - 20:53:37: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:53:37: [SM] Call stack trace:
+L 07/16/2020 - 20:53:37: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:53:37: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:53:37: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:55:06: Error log file session closed.
+L 07/16/2020 - 20:55:24: SourceMod error session started
+L 07/16/2020 - 20:55:24: Info (map "de_train") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200716.log")
+L 07/16/2020 - 20:55:24: [SM] Exception reported: Plugin handle 77180212 is invalid (error 1)
+L 07/16/2020 - 20:55:24: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:55:24: [SM] Call stack trace:
+L 07/16/2020 - 20:55:24: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:55:24: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:55:24: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 20:55:24: [SM] Exception reported: Plugin handle 77180212 is invalid (error 1)
+L 07/16/2020 - 20:55:24: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 20:55:24: [SM] Call stack trace:
+L 07/16/2020 - 20:55:24: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 20:55:24: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 20:55:24: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:05:47: [SM] Exception reported: Plugin handle 998c09a7 is invalid (error 1)
+L 07/16/2020 - 21:05:47: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:05:47: [SM] Call stack trace:
+L 07/16/2020 - 21:05:47: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:05:47: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:05:47: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:09:50: [SM] Exception reported: Plugin handle a38909ae is invalid (error 1)
+L 07/16/2020 - 21:09:50: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:09:50: [SM] Call stack trace:
+L 07/16/2020 - 21:09:50: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:09:50: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:09:50: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:09:50: [SM] Exception reported: Plugin handle a38909ae is invalid (error 1)
+L 07/16/2020 - 21:09:50: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:09:50: [SM] Call stack trace:
+L 07/16/2020 - 21:09:50: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:09:50: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:09:50: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:09:50: [SM] Exception reported: Plugin handle a38909ae is invalid (error 1)
+L 07/16/2020 - 21:09:50: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:09:50: [SM] Call stack trace:
+L 07/16/2020 - 21:09:50: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:09:51: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:09:51: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:09:51: [SM] Exception reported: Plugin handle a38909ae is invalid (error 1)
+L 07/16/2020 - 21:09:51: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:09:51: [SM] Call stack trace:
+L 07/16/2020 - 21:09:51: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:09:51: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:09:51: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:09:51: [SM] Exception reported: Plugin handle a38909ae is invalid (error 1)
+L 07/16/2020 - 21:09:51: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:09:51: [SM] Call stack trace:
+L 07/16/2020 - 21:09:51: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:09:51: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:09:51: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:09:51: [SM] Exception reported: Plugin handle a38909ae is invalid (error 1)
+L 07/16/2020 - 21:09:51: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:09:51: [SM] Call stack trace:
+L 07/16/2020 - 21:09:51: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:09:51: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:09:51: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:09:51: [SM] Exception reported: Plugin handle a38909ae is invalid (error 1)
+L 07/16/2020 - 21:09:51: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:09:51: [SM] Call stack trace:
+L 07/16/2020 - 21:09:51: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:09:51: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:09:51: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:14:37: Error log file session closed.
+L 07/16/2020 - 21:14:53: SourceMod error session started
+L 07/16/2020 - 21:14:53: Info (map "de_dust2") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200716.log")
+L 07/16/2020 - 21:14:53: [SM] Exception reported: Plugin handle b0e80994 is invalid (error 1)
+L 07/16/2020 - 21:14:53: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:14:53: [SM] Call stack trace:
+L 07/16/2020 - 21:14:53: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:14:53: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:14:53: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:14:53: [SM] Exception reported: Plugin handle b0e80994 is invalid (error 1)
+L 07/16/2020 - 21:14:53: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:14:53: [SM] Call stack trace:
+L 07/16/2020 - 21:14:53: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:14:53: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:14:53: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:14:53: [SM] Exception reported: Plugin handle b0e80994 is invalid (error 1)
+L 07/16/2020 - 21:14:53: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:14:53: [SM] Call stack trace:
+L 07/16/2020 - 21:14:53: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:14:53: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:14:53: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:16:47: [SM] Exception reported: Plugin handle be9909b5 is invalid (error 1)
+L 07/16/2020 - 21:16:47: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:16:47: [SM] Call stack trace:
+L 07/16/2020 - 21:16:47: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:16:47: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:16:47: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:16:48: [SM] Exception reported: Plugin handle be9909b5 is invalid (error 1)
+L 07/16/2020 - 21:16:48: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:16:48: [SM] Call stack trace:
+L 07/16/2020 - 21:16:48: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:16:48: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:16:48: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:16:48: [SM] Exception reported: Plugin handle be9909b5 is invalid (error 1)
+L 07/16/2020 - 21:16:48: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:16:48: [SM] Call stack trace:
+L 07/16/2020 - 21:16:48: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:16:48: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:16:48: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:16:48: [SM] Exception reported: Plugin handle be9909b5 is invalid (error 1)
+L 07/16/2020 - 21:16:48: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:16:48: [SM] Call stack trace:
+L 07/16/2020 - 21:16:48: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:16:48: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:16:48: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:16:48: [SM] Exception reported: Plugin handle be9909b5 is invalid (error 1)
+L 07/16/2020 - 21:16:48: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:16:48: [SM] Call stack trace:
+L 07/16/2020 - 21:16:48: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:16:48: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:16:48: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:16:48: [SM] Exception reported: Plugin handle be9909b5 is invalid (error 1)
+L 07/16/2020 - 21:16:48: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:16:48: [SM] Call stack trace:
+L 07/16/2020 - 21:16:48: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:16:48: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:16:48: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:16:48: [SM] Exception reported: Plugin handle be9909b5 is invalid (error 1)
+L 07/16/2020 - 21:16:48: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:16:48: [SM] Call stack trace:
+L 07/16/2020 - 21:16:48: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:16:48: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:16:48: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:16:48: [SM] Exception reported: Plugin handle be9909b5 is invalid (error 1)
+L 07/16/2020 - 21:16:48: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:16:48: [SM] Call stack trace:
+L 07/16/2020 - 21:16:48: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:16:48: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:16:48: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:16:48: [SM] Exception reported: Plugin handle be9909b5 is invalid (error 1)
+L 07/16/2020 - 21:16:48: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:16:48: [SM] Call stack trace:
+L 07/16/2020 - 21:16:48: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:16:48: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:16:48: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:16:48: [SM] Exception reported: Plugin handle be9909b5 is invalid (error 1)
+L 07/16/2020 - 21:16:48: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:16:48: [SM] Call stack trace:
+L 07/16/2020 - 21:16:48: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:16:48: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:16:48: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:16:48: [SM] Exception reported: Plugin handle be9909b5 is invalid (error 1)
+L 07/16/2020 - 21:16:48: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:16:48: [SM] Call stack trace:
+L 07/16/2020 - 21:16:48: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:16:48: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:16:48: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:20:20: [SM] Exception reported: Plugin handle cbf609c9 is invalid (error 1)
+L 07/16/2020 - 21:20:20: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:20:20: [SM] Call stack trace:
+L 07/16/2020 - 21:20:20: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:20:20: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:20:20: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:20:20: [SM] Exception reported: Plugin handle cbf609c9 is invalid (error 1)
+L 07/16/2020 - 21:20:20: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:20:20: [SM] Call stack trace:
+L 07/16/2020 - 21:20:20: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:20:20: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:20:20: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:20:20: [SM] Exception reported: Plugin handle cbf609c9 is invalid (error 1)
+L 07/16/2020 - 21:20:20: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:20:20: [SM] Call stack trace:
+L 07/16/2020 - 21:20:20: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:20:20: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:20:20: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:20:20: [SM] Exception reported: Plugin handle cbf609c9 is invalid (error 1)
+L 07/16/2020 - 21:20:20: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:20:20: [SM] Call stack trace:
+L 07/16/2020 - 21:20:20: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:20:20: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:20:20: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:20:20: [SM] Exception reported: Plugin handle cbf609c9 is invalid (error 1)
+L 07/16/2020 - 21:20:20: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:20:20: [SM] Call stack trace:
+L 07/16/2020 - 21:20:20: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:20:20: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:20:20: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:20:20: [SM] Exception reported: Plugin handle cbf609c9 is invalid (error 1)
+L 07/16/2020 - 21:20:20: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:20:20: [SM] Call stack trace:
+L 07/16/2020 - 21:20:20: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:20:20: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:20:20: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:20:20: [SM] Exception reported: Plugin handle cbf609c9 is invalid (error 1)
+L 07/16/2020 - 21:20:20: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:20:20: [SM] Call stack trace:
+L 07/16/2020 - 21:20:20: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:20:20: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:20:20: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:20:20: [SM] Exception reported: Plugin handle cbf609c9 is invalid (error 1)
+L 07/16/2020 - 21:20:20: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:20:20: [SM] Call stack trace:
+L 07/16/2020 - 21:20:20: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:20:20: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:20:20: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:20:20: [SM] Exception reported: Plugin handle cbf609c9 is invalid (error 1)
+L 07/16/2020 - 21:20:20: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:20:20: [SM] Call stack trace:
+L 07/16/2020 - 21:20:20: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:20:20: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:20:20: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:20:20: [SM] Exception reported: Plugin handle cbf609c9 is invalid (error 1)
+L 07/16/2020 - 21:20:20: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:20:20: [SM] Call stack trace:
+L 07/16/2020 - 21:20:20: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:20:20: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:20:20: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:20:20: [SM] Exception reported: Plugin handle cbf609c9 is invalid (error 1)
+L 07/16/2020 - 21:20:20: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:20:20: [SM] Call stack trace:
+L 07/16/2020 - 21:20:20: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:20:20: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:20:20: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:20:20: [SM] Exception reported: Plugin handle cbf609c9 is invalid (error 1)
+L 07/16/2020 - 21:20:20: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:20:20: [SM] Call stack trace:
+L 07/16/2020 - 21:20:20: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:20:20: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:20:20: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:21:34: [SM] Exception reported: Plugin handle d15909b9 is invalid (error 1)
+L 07/16/2020 - 21:21:34: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:21:34: [SM] Call stack trace:
+L 07/16/2020 - 21:21:34: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:21:34: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:21:34: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:21:34: [SM] Exception reported: Plugin handle d15909b9 is invalid (error 1)
+L 07/16/2020 - 21:21:34: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:21:34: [SM] Call stack trace:
+L 07/16/2020 - 21:21:34: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:21:34: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:21:34: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:21:34: [SM] Exception reported: Plugin handle d15909b9 is invalid (error 1)
+L 07/16/2020 - 21:21:34: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:21:34: [SM] Call stack trace:
+L 07/16/2020 - 21:21:34: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:21:34: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:21:34: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:21:34: [SM] Exception reported: Plugin handle d15909b9 is invalid (error 1)
+L 07/16/2020 - 21:21:34: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:21:34: [SM] Call stack trace:
+L 07/16/2020 - 21:21:34: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:21:34: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:21:34: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:21:34: [SM] Exception reported: Plugin handle d15909b9 is invalid (error 1)
+L 07/16/2020 - 21:21:34: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:21:34: [SM] Call stack trace:
+L 07/16/2020 - 21:21:34: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:21:34: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:21:34: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:21:34: [SM] Exception reported: Plugin handle d15909b9 is invalid (error 1)
+L 07/16/2020 - 21:21:34: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:21:34: [SM] Call stack trace:
+L 07/16/2020 - 21:21:34: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:21:34: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:21:34: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:34:21: Error log file session closed.
+L 07/16/2020 - 21:34:34: SourceMod error session started
+L 07/16/2020 - 21:34:34: Info (map "de_vertigo") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200716.log")
+L 07/16/2020 - 21:34:34: [SM] Exception reported: Plugin handle fb4709c0 is invalid (error 1)
+L 07/16/2020 - 21:34:34: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:34:34: [SM] Call stack trace:
+L 07/16/2020 - 21:34:34: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:34:34: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:34:34: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:44:54: [SM] Exception reported: Plugin handle 1b670985 is invalid (error 1)
+L 07/16/2020 - 21:44:54: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:44:54: [SM] Call stack trace:
+L 07/16/2020 - 21:44:54: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:44:54: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:44:54: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:44:54: [SM] Exception reported: Plugin handle 1b670985 is invalid (error 1)
+L 07/16/2020 - 21:44:54: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:44:54: [SM] Call stack trace:
+L 07/16/2020 - 21:44:54: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:44:54: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:44:54: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:44:54: [SM] Exception reported: Plugin handle 1b670985 is invalid (error 1)
+L 07/16/2020 - 21:44:54: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:44:54: [SM] Call stack trace:
+L 07/16/2020 - 21:44:54: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:44:54: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:44:54: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:44:54: [SM] Exception reported: Plugin handle 1b670985 is invalid (error 1)
+L 07/16/2020 - 21:44:54: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:44:54: [SM] Call stack trace:
+L 07/16/2020 - 21:44:54: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:44:54: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:44:54: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:44:54: [SM] Exception reported: Plugin handle 1b670985 is invalid (error 1)
+L 07/16/2020 - 21:44:54: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:44:54: [SM] Call stack trace:
+L 07/16/2020 - 21:44:54: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:44:54: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:44:54: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:44:54: [SM] Exception reported: Plugin handle 1b670985 is invalid (error 1)
+L 07/16/2020 - 21:44:54: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:44:54: [SM] Call stack trace:
+L 07/16/2020 - 21:44:54: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:44:54: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:44:54: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:44:54: [SM] Exception reported: Plugin handle 1b670985 is invalid (error 1)
+L 07/16/2020 - 21:44:54: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:44:54: [SM] Call stack trace:
+L 07/16/2020 - 21:44:54: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:44:54: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:44:54: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:44:54: [SM] Exception reported: Plugin handle 1b670985 is invalid (error 1)
+L 07/16/2020 - 21:44:54: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:44:54: [SM] Call stack trace:
+L 07/16/2020 - 21:44:54: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:44:54: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:44:54: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:44:54: [SM] Exception reported: Plugin handle 1b670985 is invalid (error 1)
+L 07/16/2020 - 21:44:54: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:44:54: [SM] Call stack trace:
+L 07/16/2020 - 21:44:54: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:44:54: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:44:54: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:44:54: [SM] Exception reported: Plugin handle 1b670985 is invalid (error 1)
+L 07/16/2020 - 21:44:54: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:44:54: [SM] Call stack trace:
+L 07/16/2020 - 21:44:54: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:44:54: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:44:54: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:44:54: [SM] Exception reported: Plugin handle 1b670985 is invalid (error 1)
+L 07/16/2020 - 21:44:54: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:44:54: [SM] Call stack trace:
+L 07/16/2020 - 21:44:54: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:44:54: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:44:54: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:52:17: Error log file session closed.
+L 07/16/2020 - 21:52:34: SourceMod error session started
+L 07/16/2020 - 21:52:34: Info (map "de_inferno") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200716.log")
+L 07/16/2020 - 21:52:34: [SM] Exception reported: Plugin handle 35f6098d is invalid (error 1)
+L 07/16/2020 - 21:52:34: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:52:34: [SM] Call stack trace:
+L 07/16/2020 - 21:52:34: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:52:34: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:52:34: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:52:34: [SM] Exception reported: Plugin handle 35f6098d is invalid (error 1)
+L 07/16/2020 - 21:52:34: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:52:34: [SM] Call stack trace:
+L 07/16/2020 - 21:52:34: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:52:34: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:52:34: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:52:34: [SM] Exception reported: Plugin handle 35f6098d is invalid (error 1)
+L 07/16/2020 - 21:52:34: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:52:34: [SM] Call stack trace:
+L 07/16/2020 - 21:52:34: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:52:34: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:52:34: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:52:34: [SM] Exception reported: Plugin handle 35f6098d is invalid (error 1)
+L 07/16/2020 - 21:52:34: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:52:34: [SM] Call stack trace:
+L 07/16/2020 - 21:52:34: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:52:34: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:52:34: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:52:34: [SM] Exception reported: Plugin handle 35f6098d is invalid (error 1)
+L 07/16/2020 - 21:52:34: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:52:34: [SM] Call stack trace:
+L 07/16/2020 - 21:52:34: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:52:34: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:52:34: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:52:34: [SM] Exception reported: Plugin handle 35f6098d is invalid (error 1)
+L 07/16/2020 - 21:52:34: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:52:34: [SM] Call stack trace:
+L 07/16/2020 - 21:52:34: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:52:34: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:52:34: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:52:34: [SM] Exception reported: Plugin handle 35f6098d is invalid (error 1)
+L 07/16/2020 - 21:52:34: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:52:34: [SM] Call stack trace:
+L 07/16/2020 - 21:52:34: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:52:34: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:52:34: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:52:34: [SM] Exception reported: Plugin handle 35f6098d is invalid (error 1)
+L 07/16/2020 - 21:52:34: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:52:34: [SM] Call stack trace:
+L 07/16/2020 - 21:52:34: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:52:34: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:52:34: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:56:20: [SM] Exception reported: Plugin handle 47ec09cf is invalid (error 1)
+L 07/16/2020 - 21:56:20: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:56:20: [SM] Call stack trace:
+L 07/16/2020 - 21:56:20: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:56:20: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:56:20: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 21:56:20: [SM] Exception reported: Plugin handle 47ec09cf is invalid (error 1)
+L 07/16/2020 - 21:56:20: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 21:56:20: [SM] Call stack trace:
+L 07/16/2020 - 21:56:20: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 21:56:20: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 21:56:20: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 22:08:13: [SM] Exception reported: Plugin handle 658a09bb is invalid (error 1)
+L 07/16/2020 - 22:08:13: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 22:08:13: [SM] Call stack trace:
+L 07/16/2020 - 22:08:13: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 22:08:13: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 22:08:13: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 22:10:56: Error log file session closed.
+L 07/16/2020 - 22:27:32: SourceMod error session started
+L 07/16/2020 - 22:27:32: Info (map "de_mirage") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200716.log")
+L 07/16/2020 - 22:27:32: [SM] Exception reported: Plugin handle 970309a5 is invalid (error 1)
+L 07/16/2020 - 22:27:32: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 22:27:32: [SM] Call stack trace:
+L 07/16/2020 - 22:27:32: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 22:27:32: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 22:27:32: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 22:31:57: Error log file session closed.
+L 07/16/2020 - 22:32:14: SourceMod error session started
+L 07/16/2020 - 22:32:14: Info (map "de_overpass") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200716.log")
+L 07/16/2020 - 22:32:14: [SM] Exception reported: Plugin handle a5b709c6 is invalid (error 1)
+L 07/16/2020 - 22:32:14: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 22:32:14: [SM] Call stack trace:
+L 07/16/2020 - 22:32:14: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 22:32:14: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 22:32:14: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 22:32:14: [SM] Exception reported: Plugin handle a5b709c6 is invalid (error 1)
+L 07/16/2020 - 22:32:14: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 22:32:14: [SM] Call stack trace:
+L 07/16/2020 - 22:32:14: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 22:32:14: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 22:32:14: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 22:32:14: [SM] Exception reported: Plugin handle a5b709c6 is invalid (error 1)
+L 07/16/2020 - 22:32:14: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 22:32:14: [SM] Call stack trace:
+L 07/16/2020 - 22:32:14: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 22:32:14: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 22:32:14: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 22:32:14: [SM] Exception reported: Plugin handle a5b709c6 is invalid (error 1)
+L 07/16/2020 - 22:32:14: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 22:32:14: [SM] Call stack trace:
+L 07/16/2020 - 22:32:14: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 22:32:14: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 22:32:14: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 22:47:57: Error log file session closed.
+L 07/16/2020 - 22:48:15: SourceMod error session started
+L 07/16/2020 - 22:48:15: Info (map "de_cache") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200716.log")
+L 07/16/2020 - 22:48:15: [SM] Exception reported: Plugin handle ddc709b3 is invalid (error 1)
+L 07/16/2020 - 22:48:15: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 22:48:15: [SM] Call stack trace:
+L 07/16/2020 - 22:48:15: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 22:48:15: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 22:48:15: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 22:48:16: [SM] Exception reported: Plugin handle ddc709b3 is invalid (error 1)
+L 07/16/2020 - 22:48:16: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 22:48:16: [SM] Call stack trace:
+L 07/16/2020 - 22:48:16: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 22:48:16: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 22:48:16: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 22:48:16: [SM] Exception reported: Plugin handle ddc709b3 is invalid (error 1)
+L 07/16/2020 - 22:48:16: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 22:48:16: [SM] Call stack trace:
+L 07/16/2020 - 22:48:16: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 22:48:16: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 22:48:16: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 22:48:16: [SM] Exception reported: Plugin handle ddc709b3 is invalid (error 1)
+L 07/16/2020 - 22:48:16: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 22:48:16: [SM] Call stack trace:
+L 07/16/2020 - 22:48:16: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 22:48:16: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 22:48:16: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 22:48:16: [SM] Exception reported: Plugin handle ddc709b3 is invalid (error 1)
+L 07/16/2020 - 22:48:16: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 22:48:16: [SM] Call stack trace:
+L 07/16/2020 - 22:48:16: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 22:48:16: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 22:48:16: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 22:48:16: [SM] Exception reported: Plugin handle ddc709b3 is invalid (error 1)
+L 07/16/2020 - 22:48:16: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 22:48:16: [SM] Call stack trace:
+L 07/16/2020 - 22:48:16: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 22:48:16: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 22:48:16: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 22:50:35: [SM] Exception reported: Plugin handle f210099e is invalid (error 1)
+L 07/16/2020 - 22:50:35: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 22:50:35: [SM] Call stack trace:
+L 07/16/2020 - 22:50:35: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 22:50:35: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 22:50:35: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 22:50:35: [SM] Exception reported: Plugin handle f210099e is invalid (error 1)
+L 07/16/2020 - 22:50:35: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 22:50:35: [SM] Call stack trace:
+L 07/16/2020 - 22:50:35: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 22:50:35: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 22:50:35: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 22:50:35: [SM] Exception reported: Plugin handle f210099e is invalid (error 1)
+L 07/16/2020 - 22:50:35: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 22:50:35: [SM] Call stack trace:
+L 07/16/2020 - 22:50:35: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 22:50:35: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 22:50:35: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 22:50:35: [SM] Exception reported: Plugin handle f210099e is invalid (error 1)
+L 07/16/2020 - 22:50:35: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 22:50:35: [SM] Call stack trace:
+L 07/16/2020 - 22:50:35: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 22:50:35: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 22:50:35: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 22:50:35: [SM] Exception reported: Plugin handle f210099e is invalid (error 1)
+L 07/16/2020 - 22:50:35: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 22:50:35: [SM] Call stack trace:
+L 07/16/2020 - 22:50:35: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 22:50:35: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 22:50:35: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 22:50:35: [SM] Exception reported: Plugin handle f210099e is invalid (error 1)
+L 07/16/2020 - 22:50:35: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 22:50:35: [SM] Call stack trace:
+L 07/16/2020 - 22:50:35: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 22:50:35: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 22:50:35: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 22:50:35: [SM] Exception reported: Plugin handle f210099e is invalid (error 1)
+L 07/16/2020 - 22:50:35: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 22:50:35: [SM] Call stack trace:
+L 07/16/2020 - 22:50:35: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 22:50:35: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 22:50:35: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 22:50:35: [SM] Exception reported: Plugin handle f210099e is invalid (error 1)
+L 07/16/2020 - 22:50:35: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 22:50:35: [SM] Call stack trace:
+L 07/16/2020 - 22:50:35: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 22:50:35: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 22:50:35: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 22:50:35: [SM] Exception reported: Plugin handle f210099e is invalid (error 1)
+L 07/16/2020 - 22:50:35: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 22:50:35: [SM] Call stack trace:
+L 07/16/2020 - 22:50:35: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 22:50:35: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 22:50:35: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 22:57:38: [SM] Exception reported: Plugin handle 55309ad is invalid (error 1)
+L 07/16/2020 - 22:57:38: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 22:57:38: [SM] Call stack trace:
+L 07/16/2020 - 22:57:38: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 22:57:38: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 22:57:38: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 22:57:38: [SM] Exception reported: Plugin handle 55309ad is invalid (error 1)
+L 07/16/2020 - 22:57:38: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 22:57:38: [SM] Call stack trace:
+L 07/16/2020 - 22:57:38: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 22:57:38: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 22:57:38: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 22:57:38: [SM] Exception reported: Plugin handle 55309ad is invalid (error 1)
+L 07/16/2020 - 22:57:38: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 22:57:38: [SM] Call stack trace:
+L 07/16/2020 - 22:57:38: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 22:57:38: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 22:57:38: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 22:57:38: [SM] Exception reported: Plugin handle 55309ad is invalid (error 1)
+L 07/16/2020 - 22:57:38: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 22:57:38: [SM] Call stack trace:
+L 07/16/2020 - 22:57:38: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 22:57:38: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 22:57:38: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 22:58:49: [SM] Exception reported: Plugin handle 85c01ff is invalid (error 1)
+L 07/16/2020 - 22:58:49: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 22:58:49: [SM] Call stack trace:
+L 07/16/2020 - 22:58:49: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 22:58:49: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 22:58:49: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 23:01:25: [SM] Exception reported: Plugin handle ddc0997 is invalid (error 1)
+L 07/16/2020 - 23:01:25: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 23:01:25: [SM] Call stack trace:
+L 07/16/2020 - 23:01:25: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 23:01:25: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 23:01:25: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 23:02:06: [SM] Exception reported: Plugin handle f83099e is invalid (error 1)
+L 07/16/2020 - 23:02:06: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 23:02:06: [SM] Call stack trace:
+L 07/16/2020 - 23:02:06: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 23:02:06: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 23:02:06: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 23:02:06: [SM] Exception reported: Plugin handle f83099e is invalid (error 1)
+L 07/16/2020 - 23:02:06: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 23:02:06: [SM] Call stack trace:
+L 07/16/2020 - 23:02:06: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 23:02:06: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 23:02:06: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 23:02:06: [SM] Exception reported: Plugin handle f83099e is invalid (error 1)
+L 07/16/2020 - 23:02:06: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 23:02:06: [SM] Call stack trace:
+L 07/16/2020 - 23:02:06: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 23:02:06: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 23:02:06: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 23:02:06: [SM] Exception reported: Plugin handle f83099e is invalid (error 1)
+L 07/16/2020 - 23:02:06: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 23:02:06: [SM] Call stack trace:
+L 07/16/2020 - 23:02:06: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 23:02:06: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 23:02:06: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 23:10:25: Error log file session closed.
+L 07/16/2020 - 23:10:43: SourceMod error session started
+L 07/16/2020 - 23:10:43: Info (map "de_dust2") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200716.log")
+L 07/16/2020 - 23:10:43: [SM] Exception reported: Plugin handle 2901099a is invalid (error 1)
+L 07/16/2020 - 23:10:43: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 23:10:43: [SM] Call stack trace:
+L 07/16/2020 - 23:10:43: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 23:10:43: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 23:10:43: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 23:10:43: [SM] Exception reported: Plugin handle 2901099a is invalid (error 1)
+L 07/16/2020 - 23:10:43: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 23:10:43: [SM] Call stack trace:
+L 07/16/2020 - 23:10:43: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 23:10:43: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 23:10:43: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 23:10:43: [SM] Exception reported: Plugin handle 2901099a is invalid (error 1)
+L 07/16/2020 - 23:10:43: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 23:10:43: [SM] Call stack trace:
+L 07/16/2020 - 23:10:43: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 23:10:43: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 23:10:43: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 23:10:43: [SM] Exception reported: Plugin handle 2901099a is invalid (error 1)
+L 07/16/2020 - 23:10:43: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 23:10:43: [SM] Call stack trace:
+L 07/16/2020 - 23:10:43: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 23:10:43: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 23:10:43: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 23:10:43: [SM] Exception reported: Plugin handle 2901099a is invalid (error 1)
+L 07/16/2020 - 23:10:43: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 23:10:43: [SM] Call stack trace:
+L 07/16/2020 - 23:10:43: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 23:10:43: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 23:10:43: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 23:10:43: [SM] Exception reported: Plugin handle 2901099a is invalid (error 1)
+L 07/16/2020 - 23:10:43: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 23:10:43: [SM] Call stack trace:
+L 07/16/2020 - 23:10:43: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 23:10:43: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 23:10:43: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 23:10:43: [SM] Exception reported: Plugin handle 2901099a is invalid (error 1)
+L 07/16/2020 - 23:10:43: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 23:10:43: [SM] Call stack trace:
+L 07/16/2020 - 23:10:43: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 23:10:43: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 23:10:43: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 23:10:43: [SM] Exception reported: Plugin handle 2901099a is invalid (error 1)
+L 07/16/2020 - 23:10:43: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 23:10:43: [SM] Call stack trace:
+L 07/16/2020 - 23:10:43: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 23:10:43: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 23:10:43: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 23:10:43: [SM] Exception reported: Plugin handle 2901099a is invalid (error 1)
+L 07/16/2020 - 23:10:43: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 23:10:43: [SM] Call stack trace:
+L 07/16/2020 - 23:10:43: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 23:10:43: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 23:10:43: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 23:10:43: [SM] Exception reported: Plugin handle 2901099a is invalid (error 1)
+L 07/16/2020 - 23:10:43: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 23:10:43: [SM] Call stack trace:
+L 07/16/2020 - 23:10:43: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 23:10:43: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 23:10:43: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 23:10:43: [SM] Exception reported: Plugin handle 2901099a is invalid (error 1)
+L 07/16/2020 - 23:10:43: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 23:10:43: [SM] Call stack trace:
+L 07/16/2020 - 23:10:43: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 23:10:43: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 23:10:43: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 23:29:59: Error log file session closed.
+L 07/16/2020 - 23:30:19: SourceMod error session started
+L 07/16/2020 - 23:30:19: Info (map "de_nuke") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200716.log")
+L 07/16/2020 - 23:30:19: [SM] Exception reported: Plugin handle 6cbb09c9 is invalid (error 1)
+L 07/16/2020 - 23:30:19: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 23:30:19: [SM] Call stack trace:
+L 07/16/2020 - 23:30:19: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 23:30:19: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 23:30:19: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 23:30:19: [SM] Exception reported: Plugin handle 6cbb09c9 is invalid (error 1)
+L 07/16/2020 - 23:30:19: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 23:30:19: [SM] Call stack trace:
+L 07/16/2020 - 23:30:19: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 23:30:19: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 23:30:19: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 23:30:19: [SM] Exception reported: Plugin handle 6cbb09c9 is invalid (error 1)
+L 07/16/2020 - 23:30:19: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 23:30:19: [SM] Call stack trace:
+L 07/16/2020 - 23:30:19: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 23:30:19: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 23:30:19: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 23:30:19: [SM] Exception reported: Plugin handle 6cbb09c9 is invalid (error 1)
+L 07/16/2020 - 23:30:19: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 23:30:19: [SM] Call stack trace:
+L 07/16/2020 - 23:30:19: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 23:30:19: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 23:30:19: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 23:30:19: [SM] Exception reported: Plugin handle 6cbb09c9 is invalid (error 1)
+L 07/16/2020 - 23:30:19: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 23:30:19: [SM] Call stack trace:
+L 07/16/2020 - 23:30:19: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 23:30:19: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 23:30:19: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 23:30:19: [SM] Exception reported: Plugin handle 6cbb09c9 is invalid (error 1)
+L 07/16/2020 - 23:30:19: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 23:30:19: [SM] Call stack trace:
+L 07/16/2020 - 23:30:19: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 23:30:19: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 23:30:19: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 23:48:27: Error log file session closed.
+L 07/16/2020 - 23:48:55: SourceMod error session started
+L 07/16/2020 - 23:48:55: Info (map "de_inferno") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200716.log")
+L 07/16/2020 - 23:48:55: [SM] Exception reported: Plugin handle ac7b097c is invalid (error 1)
+L 07/16/2020 - 23:48:55: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 23:48:55: [SM] Call stack trace:
+L 07/16/2020 - 23:48:55: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 23:48:55: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 23:48:55: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 23:48:55: [SM] Exception reported: Plugin handle ac7b097c is invalid (error 1)
+L 07/16/2020 - 23:48:55: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 23:48:55: [SM] Call stack trace:
+L 07/16/2020 - 23:48:55: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 23:48:55: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 23:48:55: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 23:48:55: [SM] Exception reported: Plugin handle ac7b097c is invalid (error 1)
+L 07/16/2020 - 23:48:55: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 23:48:55: [SM] Call stack trace:
+L 07/16/2020 - 23:48:55: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 23:48:55: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 23:48:55: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 23:48:55: [SM] Exception reported: Plugin handle ac7b097c is invalid (error 1)
+L 07/16/2020 - 23:48:55: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 23:48:55: [SM] Call stack trace:
+L 07/16/2020 - 23:48:55: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 23:48:55: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 23:48:55: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 23:48:55: [SM] Exception reported: Plugin handle ac7b097c is invalid (error 1)
+L 07/16/2020 - 23:48:55: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 23:48:55: [SM] Call stack trace:
+L 07/16/2020 - 23:48:55: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 23:48:55: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 23:48:55: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/16/2020 - 23:48:55: [SM] Exception reported: Plugin handle ac7b097c is invalid (error 1)
+L 07/16/2020 - 23:48:55: [SM] Blaming: kento_rankme.smx
+L 07/16/2020 - 23:48:55: [SM] Call stack trace:
+L 07/16/2020 - 23:48:55: [SM]   [0] Call_StartFunction
+L 07/16/2020 - 23:48:55: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/16/2020 - 23:48:55: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/17/2020 - 00:14:25: Error log file session closed.

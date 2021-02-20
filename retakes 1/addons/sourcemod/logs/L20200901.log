@@ -1,0 +1,718 @@
+L 09/01/2020 - 00:03:16: SourceMod log file session started (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\L20200901.log") (Version "1.10.0.6488")
+L 09/01/2020 - 00:03:16: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 00:03:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 00:03:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 00:03:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 00:03:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 00:03:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 00:03:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 00:03:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 00:03:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 00:03:17: [afk_manager4.smx] [AFK Manager] Log File: addons\sourcemod\logs\afkm_20200901.log
+L 09/01/2020 - 00:03:17: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 00:03:17: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 00:03:18: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 05:00:41: SourceMod log file session started (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\L20200901.log") (Version "1.10.0.6488")
+L 09/01/2020 - 05:00:41: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 09/01/2020 - 05:00:41: [afk_manager4.smx] [AFK Manager] Log File: addons\sourcemod\logs\afkm_20200901.log
+L 09/01/2020 - 05:00:41: [afk_manager4.smx] [AFK Manager] Detected Mod Counter-Strike: Global Offensive
+L 09/01/2020 - 08:02:49: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 08:02:49: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 08:02:55: -------- Mapchange to de_dust2 --------
+L 09/01/2020 - 08:02:55: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 08:02:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 08:02:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 08:02:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 08:02:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 08:02:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 08:02:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 08:02:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 08:02:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 08:02:56: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 08:02:56: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 08:02:57: [weapons.smx] SQLite DB connection successful
+L 09/01/2020 - 08:02:57: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 08:02:58: [weapons.smx] SQLite DB connection successful
+L 09/01/2020 - 08:02:58: [weapons.smx] SQLite DB connection successful
+L 09/01/2020 - 08:02:58: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 08:02:58: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 08:18:40: [mapchooser.smx] Voting for next map has started.
+L 09/01/2020 - 08:18:47: [mapchooser.smx] Voting for next map has finished. Nextmap: de_inferno.
+L 09/01/2020 - 08:20:31: [SM] Changed map to "de_inferno"
+L 09/01/2020 - 08:20:34: -------- Mapchange to de_inferno --------
+L 09/01/2020 - 08:20:34: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 08:20:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 08:20:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 08:20:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 08:20:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 08:20:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 08:20:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 08:20:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 08:20:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 08:20:35: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 08:20:35: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 08:20:36: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 08:38:23: [mapchooser.smx] Voting for next map has started.
+L 09/01/2020 - 08:38:36: [mapchooser.smx] Voting for next map has finished. Nextmap: de_mirage.
+L 09/01/2020 - 08:43:15: [SM] Changed map to "de_mirage"
+L 09/01/2020 - 08:43:17: -------- Mapchange to de_mirage --------
+L 09/01/2020 - 08:43:17: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 08:43:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 08:43:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 08:43:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 08:43:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 08:43:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 08:43:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 08:43:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 08:43:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 08:43:17: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 08:43:17: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 08:43:19: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 09:01:35: [mapchooser.smx] Voting for next map has started.
+L 09/01/2020 - 09:01:55: [mapchooser.smx] Voting for next map has finished. Nextmap: de_nuke.
+L 09/01/2020 - 09:07:30: [rockthevote.smx] RTV changing map manually
+L 09/01/2020 - 09:07:30: [SM] Changed map to "de_nuke"
+L 09/01/2020 - 09:07:35: -------- Mapchange to de_nuke --------
+L 09/01/2020 - 09:07:35: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 09:07:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 09:07:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 09:07:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 09:07:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 09:07:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 09:07:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 09:07:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 09:07:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 09:07:36: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 09:07:36: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 09:07:37: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 09:25:21: [mapchooser.smx] Voting for next map has started.
+L 09/01/2020 - 09:25:26: [mapchooser.smx] Voting for next map has finished. Nextmap: de_overpass.
+L 09/01/2020 - 09:27:56: [SM] Changed map to "de_overpass"
+L 09/01/2020 - 09:27:58: -------- Mapchange to de_overpass --------
+L 09/01/2020 - 09:27:58: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 09:27:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 09:27:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 09:27:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 09:27:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 09:27:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 09:27:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 09:27:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 09:27:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 09:27:59: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 09:27:59: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 09:28:01: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 09:43:48: [mapchooser.smx] Voting for next map has started.
+L 09/01/2020 - 09:44:09: [mapchooser.smx] Voting for next map has finished. Nextmap: de_cache.
+L 09/01/2020 - 09:45:26: [SM] Changed map to "de_cache"
+L 09/01/2020 - 09:45:32: -------- Mapchange to de_cache --------
+L 09/01/2020 - 09:45:32: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 09:45:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 09:45:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 09:45:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 09:45:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 09:45:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 09:45:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 09:45:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 09:45:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 09:45:33: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 09:45:33: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 09:45:35: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 10:02:17: [mapchooser.smx] Voting for next map has started.
+L 09/01/2020 - 10:02:22: [mapchooser.smx] Voting for next map has finished. Nextmap: de_train.
+L 09/01/2020 - 10:03:55: [SM] Changed map to "de_train"
+L 09/01/2020 - 10:03:58: -------- Mapchange to de_train --------
+L 09/01/2020 - 10:03:58: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 10:03:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 10:03:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 10:03:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 10:03:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 10:03:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 10:03:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 10:03:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 10:03:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 10:03:59: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 10:03:59: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 10:04:00: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 10:21:46: [mapchooser.smx] Voting for next map has started.
+L 09/01/2020 - 10:21:52: [mapchooser.smx] Voting for next map has finished. Nextmap: de_dust2.
+L 09/01/2020 - 10:23:59: [SM] Changed map to "de_dust2"
+L 09/01/2020 - 10:24:02: -------- Mapchange to de_dust2 --------
+L 09/01/2020 - 10:24:02: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 10:24:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 10:24:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 10:24:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 10:24:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 10:24:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 10:24:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 10:24:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 10:24:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 10:24:03: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 10:24:03: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 10:24:04: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 10:40:23: [mapchooser.smx] Voting for next map has started.
+L 09/01/2020 - 10:40:43: [mapchooser.smx] Voting for next map has finished. Nextmap: de_inferno.
+L 09/01/2020 - 10:42:59: [SM] Changed map to "de_inferno"
+L 09/01/2020 - 10:43:01: -------- Mapchange to de_inferno --------
+L 09/01/2020 - 10:43:01: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 10:43:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 10:43:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 10:43:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 10:43:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 10:43:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 10:43:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 10:43:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 10:43:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 10:43:02: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 10:43:02: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 10:43:03: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 11:00:15: [mapchooser.smx] Voting for next map has started.
+L 09/01/2020 - 11:00:21: [mapchooser.smx] Voting for next map has finished. Nextmap: de_mirage.
+L 09/01/2020 - 11:02:45: [SM] Changed map to "de_mirage"
+L 09/01/2020 - 11:02:46: -------- Mapchange to de_mirage --------
+L 09/01/2020 - 11:02:46: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 11:02:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 11:02:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 11:02:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 11:02:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 11:02:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 11:02:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 11:02:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 11:02:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 11:02:46: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 11:02:46: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 11:02:48: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 11:21:30: [mapchooser.smx] Voting for next map has started.
+L 09/01/2020 - 11:21:46: [mapchooser.smx] Voting for next map has finished. Nextmap: de_vertigo.
+L 09/01/2020 - 11:24:17: [SM] Changed map to "de_vertigo"
+L 09/01/2020 - 11:24:19: -------- Mapchange to de_vertigo --------
+L 09/01/2020 - 11:24:19: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 11:24:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 11:24:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 11:24:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 11:24:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 11:24:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 11:24:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 11:24:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 11:24:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 11:24:20: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 11:24:20: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 11:24:22: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 11:40:35: [mapchooser.smx] Voting for next map has started.
+L 09/01/2020 - 11:40:55: [mapchooser.smx] Voting for next map has finished. Nextmap: de_overpass.
+L 09/01/2020 - 11:44:16: [SM] Changed map to "de_overpass"
+L 09/01/2020 - 11:44:17: -------- Mapchange to de_overpass --------
+L 09/01/2020 - 11:44:17: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 11:44:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 11:44:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 11:44:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 11:44:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 11:44:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 11:44:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 11:44:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 11:44:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 11:44:18: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 11:44:18: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 11:44:20: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 11:59:44: [mapchooser.smx] Voting for next map has started.
+L 09/01/2020 - 11:59:52: [mapchooser.smx] Voting for next map has finished. Nextmap: de_cache.
+L 09/01/2020 - 12:02:13: [SM] Changed map to "de_cache"
+L 09/01/2020 - 12:02:17: -------- Mapchange to de_cache --------
+L 09/01/2020 - 12:02:17: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 12:02:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 12:02:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 12:02:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 12:02:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 12:02:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 12:02:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 12:02:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 12:02:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 12:02:18: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 12:02:18: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 12:02:18: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 12:15:26: [mapchooser.smx] Voting for next map has started.
+L 09/01/2020 - 12:15:32: [mapchooser.smx] Voting for next map has finished. Nextmap: de_nuke.
+L 09/01/2020 - 12:18:12: -------- Mapchange to de_cache --------
+L 09/01/2020 - 12:18:12: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 12:18:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 12:18:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 12:18:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 12:18:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 12:18:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 12:18:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 12:18:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 12:18:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 12:18:13: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 12:18:13: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 12:18:13: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 12:27:04: -------- Mapchange to de_cache --------
+L 09/01/2020 - 12:27:04: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 12:27:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 12:27:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 12:27:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 12:27:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 12:27:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 12:27:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 12:27:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 12:27:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 12:27:05: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 12:27:05: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 12:27:05: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 12:45:19: [mapchooser.smx] Voting for next map has started.
+L 09/01/2020 - 12:45:24: [mapchooser.smx] Voting for next map has finished. Nextmap: de_nuke.
+L 09/01/2020 - 12:48:33: [SM] Changed map to "de_nuke"
+L 09/01/2020 - 12:48:36: -------- Mapchange to de_nuke --------
+L 09/01/2020 - 12:48:36: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 12:48:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 12:48:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 12:48:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 12:48:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 12:48:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 12:48:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 12:48:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 12:48:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 12:48:37: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 12:48:37: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 12:48:37: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 13:04:27: [mapchooser.smx] Voting for next map has started.
+L 09/01/2020 - 13:04:47: [mapchooser.smx] Voting for next map has finished. Nextmap: de_mirage.
+L 09/01/2020 - 13:07:33: [SM] Changed map to "de_mirage"
+L 09/01/2020 - 13:07:34: -------- Mapchange to de_mirage --------
+L 09/01/2020 - 13:07:34: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 13:07:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 13:07:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 13:07:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 13:07:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 13:07:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 13:07:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 13:07:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 13:07:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 13:07:35: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 13:07:35: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 13:07:37: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 13:25:49: [mapchooser.smx] Voting for next map has started.
+L 09/01/2020 - 13:25:53: [mapchooser.smx] Voting for next map has finished. Nextmap: de_dust2.
+L 09/01/2020 - 13:27:18: [SM] Changed map to "de_dust2"
+L 09/01/2020 - 13:27:22: -------- Mapchange to de_dust2 --------
+L 09/01/2020 - 13:27:22: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 13:27:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 13:27:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 13:27:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 13:27:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 13:27:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 13:27:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 13:27:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 13:27:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 13:27:22: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 13:27:22: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 13:27:24: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 13:44:07: [mapchooser.smx] Voting for next map has started.
+L 09/01/2020 - 13:44:12: [mapchooser.smx] Voting for next map has finished. Nextmap: de_inferno.
+L 09/01/2020 - 13:46:44: [SM] Changed map to "de_inferno"
+L 09/01/2020 - 13:46:46: -------- Mapchange to de_inferno --------
+L 09/01/2020 - 13:46:46: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 13:46:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 13:46:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 13:46:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 13:46:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 13:46:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 13:46:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 13:46:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 13:46:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 13:46:46: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 13:46:47: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 13:46:48: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 14:02:25: [mapchooser.smx] Voting for next map has started.
+L 09/01/2020 - 14:02:31: [mapchooser.smx] Voting for next map has finished. Nextmap: de_overpass.
+L 09/01/2020 - 14:04:44: [SM] Changed map to "de_overpass"
+L 09/01/2020 - 14:04:45: -------- Mapchange to de_overpass --------
+L 09/01/2020 - 14:04:45: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 14:04:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 14:04:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 14:04:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 14:04:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 14:04:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 14:04:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 14:04:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 14:04:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 14:04:45: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 14:04:45: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 14:04:47: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 14:19:24: [mapchooser.smx] Voting for next map has started.
+L 09/01/2020 - 14:19:28: [mapchooser.smx] Voting for next map has finished. Nextmap: de_vertigo.
+L 09/01/2020 - 14:20:51: [SM] Changed map to "de_vertigo"
+L 09/01/2020 - 14:20:52: -------- Mapchange to de_vertigo --------
+L 09/01/2020 - 14:20:52: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 14:20:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 14:20:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 14:20:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 14:20:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 14:20:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 14:20:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 14:20:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 14:20:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 14:20:52: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 14:20:52: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 14:20:53: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 15:20:24: -------- Mapchange to de_vertigo --------
+L 09/01/2020 - 15:20:24: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 15:20:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 15:20:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 15:20:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 15:20:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 15:20:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 15:20:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 15:20:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 15:20:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 15:20:25: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 15:20:25: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 15:20:26: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 15:36:42: [mapchooser.smx] Voting for next map has started.
+L 09/01/2020 - 15:37:03: [mapchooser.smx] Voting for next map has finished. Nextmap: de_train.
+L 09/01/2020 - 15:56:16: [SM] Changed map to "de_train"
+L 09/01/2020 - 15:56:18: -------- Mapchange to de_train --------
+L 09/01/2020 - 15:56:18: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 15:56:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 15:56:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 15:56:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 15:56:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 15:56:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 15:56:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 15:56:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 15:56:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 15:56:19: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 15:56:19: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 15:56:21: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 16:14:30: [mapchooser.smx] Voting for next map has started.
+L 09/01/2020 - 16:14:50: [mapchooser.smx] Voting for next map has finished. Nextmap: de_mirage.
+L 09/01/2020 - 16:16:53: [SM] Changed map to "de_mirage"
+L 09/01/2020 - 16:16:54: -------- Mapchange to de_mirage --------
+L 09/01/2020 - 16:16:54: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 16:16:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 16:16:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 16:16:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 16:16:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 16:16:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 16:16:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 16:16:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 16:16:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 16:16:55: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 16:16:55: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 16:16:56: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 16:34:04: [mapchooser.smx] Voting for next map has started.
+L 09/01/2020 - 16:34:25: [mapchooser.smx] Voting for next map has finished. Nextmap: de_dust2.
+L 09/01/2020 - 16:37:17: [SM] Changed map to "de_dust2"
+L 09/01/2020 - 16:37:20: -------- Mapchange to de_dust2 --------
+L 09/01/2020 - 16:37:20: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 16:37:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 16:37:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 16:37:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 16:37:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 16:37:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 16:37:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 16:37:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 16:37:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 16:37:21: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 16:37:21: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 16:37:23: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 16:54:29: [mapchooser.smx] Voting for next map has started.
+L 09/01/2020 - 16:54:49: [mapchooser.smx] Voting for next map has finished. Nextmap: de_inferno.
+L 09/01/2020 - 16:56:19: [SM] Changed map to "de_inferno"
+L 09/01/2020 - 16:56:20: -------- Mapchange to de_inferno --------
+L 09/01/2020 - 16:56:20: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 16:56:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 16:56:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 16:56:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 16:56:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 16:56:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 16:56:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 16:56:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 16:56:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 16:56:21: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 16:56:21: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 16:56:23: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 17:12:59: [mapchooser.smx] Voting for next map has started.
+L 09/01/2020 - 17:13:14: [mapchooser.smx] Voting for next map has finished. Nextmap: de_overpass.
+L 09/01/2020 - 17:14:27: [SM] Changed map to "de_overpass"
+L 09/01/2020 - 17:14:28: -------- Mapchange to de_overpass --------
+L 09/01/2020 - 17:14:28: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 17:14:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 17:14:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 17:14:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 17:14:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 17:14:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 17:14:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 17:14:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 17:14:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 17:14:29: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 17:14:29: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 17:14:30: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 17:30:08: [mapchooser.smx] Voting for next map has started.
+L 09/01/2020 - 17:30:28: [mapchooser.smx] Voting for next map has finished. Nextmap: de_cache.
+L 09/01/2020 - 17:31:59: [SM] Changed map to "de_cache"
+L 09/01/2020 - 17:32:03: -------- Mapchange to de_cache --------
+L 09/01/2020 - 17:32:03: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 17:32:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 17:32:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 17:32:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 17:32:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 17:32:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 17:32:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 17:32:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 17:32:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 17:32:04: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 17:32:04: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 17:32:06: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 17:49:51: [mapchooser.smx] Voting for next map has started.
+L 09/01/2020 - 17:49:53: [mapchooser.smx] Voting for next map has finished. Nextmap: de_vertigo.
+L 09/01/2020 - 17:53:49: [SM] Changed map to "de_vertigo"
+L 09/01/2020 - 17:53:50: -------- Mapchange to de_vertigo --------
+L 09/01/2020 - 17:53:50: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 17:53:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 17:53:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 17:53:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 17:53:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 17:53:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 17:53:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 17:53:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 17:53:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 17:53:51: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 17:53:51: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 17:53:53: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 18:09:12: [mapchooser.smx] Voting for next map has started.
+L 09/01/2020 - 18:09:21: [mapchooser.smx] Voting for next map has finished. Nextmap: de_train.
+L 09/01/2020 - 18:10:59: [SM] Changed map to "de_train"
+L 09/01/2020 - 18:11:01: -------- Mapchange to de_train --------
+L 09/01/2020 - 18:11:01: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 18:11:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 18:11:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 18:11:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 18:11:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 18:11:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 18:11:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 18:11:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 18:11:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 18:11:01: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 18:11:01: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 18:11:03: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 18:29:16: [mapchooser.smx] Voting for next map has started.
+L 09/01/2020 - 18:29:29: [mapchooser.smx] Voting for next map has finished. Nextmap: de_mirage.
+L 09/01/2020 - 18:32:43: [SM] Changed map to "de_mirage"
+L 09/01/2020 - 18:32:44: -------- Mapchange to de_mirage --------
+L 09/01/2020 - 18:32:44: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 18:32:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 18:32:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 18:32:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 18:32:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 18:32:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 18:32:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 18:32:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 18:32:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 18:32:45: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 18:32:45: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 18:32:47: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 18:49:12: [mapchooser.smx] Voting for next map has started.
+L 09/01/2020 - 18:49:23: [mapchooser.smx] Voting for next map has finished. Nextmap: de_nuke.
+L 09/01/2020 - 18:50:42: [SM] Changed map to "de_nuke"
+L 09/01/2020 - 18:50:44: -------- Mapchange to de_nuke --------
+L 09/01/2020 - 18:50:44: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 18:50:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 18:50:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 18:50:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 18:50:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 18:50:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 18:50:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 18:50:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 18:50:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 18:50:45: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 18:50:45: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 18:50:46: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 19:07:19: [mapchooser.smx] Voting for next map has started.
+L 09/01/2020 - 19:07:24: [mapchooser.smx] Voting for next map has finished. Nextmap: de_dust2.
+L 09/01/2020 - 19:11:22: [SM] Changed map to "de_dust2"
+L 09/01/2020 - 19:11:25: -------- Mapchange to de_dust2 --------
+L 09/01/2020 - 19:11:25: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 19:11:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 19:11:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 19:11:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 19:11:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 19:11:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 19:11:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 19:11:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 19:11:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 19:11:26: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 19:11:26: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 19:11:27: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 19:27:41: [mapchooser.smx] Voting for next map has started.
+L 09/01/2020 - 19:28:01: [mapchooser.smx] Voting for next map has finished. Nextmap: de_inferno.
+L 09/01/2020 - 19:29:42: [SM] Changed map to "de_inferno"
+L 09/01/2020 - 19:29:44: -------- Mapchange to de_inferno --------
+L 09/01/2020 - 19:29:44: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 19:29:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 19:29:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 19:29:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 19:29:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 19:29:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 19:29:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 19:29:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 19:29:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 19:29:45: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 19:29:45: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 19:29:45: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 19:40:37: -------- Mapchange to de_inferno --------
+L 09/01/2020 - 19:40:37: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 19:40:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 19:40:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 19:40:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 19:40:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 19:40:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 19:40:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 19:40:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 19:40:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 19:40:38: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 19:40:38: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 19:40:39: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 20:00:54: [mapchooser.smx] Voting for next map has started.
+L 09/01/2020 - 20:01:02: [mapchooser.smx] Voting for next map has finished. Nextmap: de_overpass.
+L 09/01/2020 - 20:11:46: -------- Mapchange to de_inferno --------
+L 09/01/2020 - 20:11:46: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 20:11:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 20:11:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 20:11:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 20:11:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 20:11:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 20:11:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 20:11:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 20:11:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 20:11:47: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 20:11:47: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 20:11:47: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 20:21:52: -------- Mapchange to de_inferno --------
+L 09/01/2020 - 20:21:52: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 20:21:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 20:21:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 20:21:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 20:21:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 20:21:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 20:21:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 20:21:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 20:21:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 20:21:53: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 20:21:53: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 20:21:53: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 20:31:39: -------- Mapchange to de_inferno --------
+L 09/01/2020 - 20:31:39: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 20:31:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 20:31:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 20:31:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 20:31:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 20:31:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 20:31:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 20:31:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 20:31:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 20:31:40: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 20:31:40: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 20:31:40: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 20:43:18: -------- Mapchange to de_inferno --------
+L 09/01/2020 - 20:43:18: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 20:43:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 20:43:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 20:43:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 20:43:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 20:43:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 20:43:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 20:43:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 20:43:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 20:43:19: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 20:43:19: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 20:43:19: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 20:57:04: [mapchooser.smx] Voting for next map has started.
+L 09/01/2020 - 20:57:09: [mapchooser.smx] Voting for next map has finished. Nextmap: de_cache.
+L 09/01/2020 - 21:00:13: -------- Mapchange to de_inferno --------
+L 09/01/2020 - 21:00:14: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 21:00:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 21:00:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 21:00:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 21:00:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 21:00:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 21:00:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 21:00:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 21:00:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 21:00:14: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 21:00:14: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 21:00:15: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 21:14:12: [mapchooser.smx] Voting for next map has started.
+L 09/01/2020 - 21:14:25: [mapchooser.smx] Voting for next map has finished. Nextmap: de_cache.
+L 09/01/2020 - 21:34:46: -------- Mapchange to de_inferno --------
+L 09/01/2020 - 21:34:47: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 21:34:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 21:34:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 21:34:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 21:34:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 21:34:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 21:34:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 21:34:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 21:34:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 21:34:47: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 21:34:47: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 21:34:48: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 21:50:44: [mapchooser.smx] Voting for next map has started.
+L 09/01/2020 - 21:51:05: [mapchooser.smx] Voting for next map has finished. Nextmap: de_overpass.
+L 09/01/2020 - 21:53:48: [SM] Changed map to "de_overpass"
+L 09/01/2020 - 21:53:49: -------- Mapchange to de_overpass --------
+L 09/01/2020 - 21:53:49: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 21:53:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 21:53:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 21:53:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 21:53:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 21:53:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 21:53:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 21:53:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 21:53:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 21:53:50: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 21:53:50: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 21:53:51: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 22:08:51: [mapchooser.smx] Voting for next map has started.
+L 09/01/2020 - 22:08:54: [mapchooser.smx] Voting for next map has finished. Nextmap: de_dust2.
+L 09/01/2020 - 22:10:31: [SM] Changed map to "de_dust2"
+L 09/01/2020 - 22:10:35: -------- Mapchange to de_dust2 --------
+L 09/01/2020 - 22:10:35: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 22:10:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 22:10:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 22:10:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 22:10:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 22:10:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 22:10:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 22:10:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 22:10:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 22:10:36: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 22:10:36: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 22:10:36: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 22:26:11: [mapchooser.smx] Voting for next map has started.
+L 09/01/2020 - 22:26:20: [mapchooser.smx] Voting for next map has finished. Nextmap: de_vertigo.
+L 09/01/2020 - 22:28:24: [SM] Changed map to "de_vertigo"
+L 09/01/2020 - 22:28:25: -------- Mapchange to de_vertigo --------
+L 09/01/2020 - 22:28:25: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 22:28:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 22:28:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 22:28:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 22:28:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 22:28:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 22:28:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 22:28:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 22:28:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 22:28:26: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 22:28:26: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 22:28:27: [weapons.smx] Inactive players' data has been deleted
+L 09/01/2020 - 22:46:03: -------- Mapchange to de_vertigo --------
+L 09/01/2020 - 22:46:03: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 09/01/2020 - 22:46:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 09/01/2020 - 22:46:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 09/01/2020 - 22:46:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 09/01/2020 - 22:46:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 09/01/2020 - 22:46:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 09/01/2020 - 22:46:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 09/01/2020 - 22:46:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 09/01/2020 - 22:46:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 09/01/2020 - 22:46:03: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 09/01/2020 - 22:46:03: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 09/01/2020 - 22:46:04: [weapons.smx] Inactive players' data has been deleted

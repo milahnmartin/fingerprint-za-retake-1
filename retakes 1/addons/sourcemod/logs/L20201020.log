@@ -1,0 +1,988 @@
+L 10/20/2020 - 07:45:15: SourceMod log file session started (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\L20201020.log") (Version "1.10.0.6488")
+L 10/20/2020 - 07:45:15: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 07:45:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 07:45:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 07:45:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 07:45:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 07:45:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 07:45:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 07:45:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 07:45:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 07:45:16: [afk_manager4.smx] [AFK Manager] Log File: addons\sourcemod\logs\afkm_20201020.log
+L 10/20/2020 - 07:45:17: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 07:45:17: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 07:45:18: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 08:09:03: -------- Mapchange to de_overpass --------
+L 10/20/2020 - 08:09:03: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 08:09:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 08:09:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 08:09:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 08:09:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 08:09:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 08:09:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 08:09:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 08:09:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 08:09:04: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 08:09:04: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 08:09:05: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 08:09:57: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 08:09:58: [mapchooser.smx] Voting for next map has finished. Nextmap: de_vertigo.
+L 10/20/2020 - 08:25:01: [SM] Changed map to "de_vertigo"
+L 10/20/2020 - 08:25:02: -------- Mapchange to de_vertigo --------
+L 10/20/2020 - 08:25:02: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 08:25:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 08:25:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 08:25:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 08:25:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 08:25:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 08:25:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 08:25:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 08:25:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 08:25:03: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 08:25:03: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 08:25:04: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 08:37:18: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 08:37:26: [mapchooser.smx] Voting for next map has finished. Nextmap: de_mirage.
+L 10/20/2020 - 09:31:20: -------- Mapchange to de_vertigo --------
+L 10/20/2020 - 09:31:20: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 09:31:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 09:31:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 09:31:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 09:31:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 09:31:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 09:31:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 09:31:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 09:31:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 09:31:21: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 09:31:21: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 09:31:22: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 11:08:16: -------- Mapchange to de_vertigo --------
+L 10/20/2020 - 11:08:16: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 11:08:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 11:08:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 11:08:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 11:08:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 11:08:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 11:08:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 11:08:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 11:08:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 11:08:17: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 11:08:17: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 11:08:17: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 11:23:21: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 11:23:25: [mapchooser.smx] Voting for next map has finished. Nextmap: de_mirage.
+L 10/20/2020 - 11:25:33: [SM] Changed map to "de_mirage"
+L 10/20/2020 - 11:25:34: -------- Mapchange to de_mirage --------
+L 10/20/2020 - 11:25:34: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 11:25:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 11:25:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 11:25:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 11:25:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 11:25:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 11:25:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 11:25:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 11:25:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 11:25:35: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 11:25:35: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 11:25:35: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 11:43:20: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 11:43:37: [mapchooser.smx] Voting for next map has finished. Nextmap: de_dust2.
+L 10/20/2020 - 11:46:12: [SM] Changed map to "de_dust2"
+L 10/20/2020 - 11:46:16: -------- Mapchange to de_dust2 --------
+L 10/20/2020 - 11:46:16: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 11:46:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 11:46:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 11:46:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 11:46:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 11:46:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 11:46:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 11:46:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 11:46:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 11:46:17: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 11:46:17: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 11:46:18: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 11:56:58: [basecommands.smx] "꧁●•*RoXy*•●꧂<2815><STEAM_1:0:109080903><>" kicked "꧁●•*RoXy*•●꧂<2815><STEAM_1:0:109080903><>" (reason "")
+L 10/20/2020 - 12:04:27: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 12:04:47: [mapchooser.smx] Voting for next map has finished. Nextmap: de_inferno.
+L 10/20/2020 - 12:06:12: [SM] Changed map to "de_inferno"
+L 10/20/2020 - 12:06:13: -------- Mapchange to de_inferno --------
+L 10/20/2020 - 12:06:13: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 12:06:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 12:06:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 12:06:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 12:06:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 12:06:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 12:06:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 12:06:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 12:06:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 12:06:14: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 12:06:14: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 12:06:16: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 12:22:42: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 12:22:46: [mapchooser.smx] Voting for next map has finished. Nextmap: de_overpass.
+L 10/20/2020 - 12:24:30: [SM] Changed map to "de_overpass"
+L 10/20/2020 - 12:24:31: -------- Mapchange to de_overpass --------
+L 10/20/2020 - 12:24:31: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 12:24:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 12:24:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 12:24:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 12:24:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 12:24:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 12:24:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 12:24:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 12:24:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 12:24:32: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 12:24:32: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 12:24:33: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 12:39:36: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 12:39:43: [mapchooser.smx] Voting for next map has finished. Nextmap: de_train.
+L 10/20/2020 - 12:41:10: [SM] Changed map to "de_train"
+L 10/20/2020 - 12:41:12: -------- Mapchange to de_train --------
+L 10/20/2020 - 12:41:12: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 12:41:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 12:41:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 12:41:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 12:41:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 12:41:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 12:41:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 12:41:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 12:41:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 12:41:13: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 12:41:13: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 12:41:15: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 12:58:10: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 12:58:15: [mapchooser.smx] Voting for next map has finished. Nextmap: de_cache.
+L 10/20/2020 - 13:00:24: [SM] Changed map to "de_cache"
+L 10/20/2020 - 13:00:29: -------- Mapchange to de_cache --------
+L 10/20/2020 - 13:00:29: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 13:00:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 13:00:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 13:00:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 13:00:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 13:00:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 13:00:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 13:00:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 13:00:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 13:00:30: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 13:00:30: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 13:00:31: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 13:14:21: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 13:14:25: [mapchooser.smx] Voting for next map has finished. Nextmap: de_vertigo.
+L 10/20/2020 - 13:18:37: [SM] Changed map to "de_vertigo"
+L 10/20/2020 - 13:18:38: -------- Mapchange to de_vertigo --------
+L 10/20/2020 - 13:18:38: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 13:18:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 13:18:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 13:18:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 13:18:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 13:18:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 13:18:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 13:18:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 13:18:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 13:18:39: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 13:18:39: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 13:18:40: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 13:34:23: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 13:34:33: [mapchooser.smx] Voting for next map has finished. Nextmap: de_mirage.
+L 10/20/2020 - 13:36:34: [SM] Changed map to "de_mirage"
+L 10/20/2020 - 13:36:35: -------- Mapchange to de_mirage --------
+L 10/20/2020 - 13:36:36: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 13:36:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 13:36:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 13:36:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 13:36:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 13:36:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 13:36:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 13:36:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 13:36:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 13:36:36: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 13:36:36: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 13:36:38: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 13:53:50: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 13:53:55: [mapchooser.smx] Voting for next map has finished. Nextmap: de_dust2.
+L 10/20/2020 - 13:56:14: [SM] Changed map to "de_dust2"
+L 10/20/2020 - 13:56:17: -------- Mapchange to de_dust2 --------
+L 10/20/2020 - 13:56:17: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 13:56:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 13:56:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 13:56:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 13:56:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 13:56:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 13:56:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 13:56:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 13:56:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 13:56:18: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 13:56:18: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 13:56:19: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 14:11:18: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 14:11:28: [mapchooser.smx] Voting for next map has finished. Nextmap: de_inferno.
+L 10/20/2020 - 14:29:44: [SM] Changed map to "de_inferno"
+L 10/20/2020 - 14:29:46: -------- Mapchange to de_inferno --------
+L 10/20/2020 - 14:29:46: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 14:29:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 14:29:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 14:29:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 14:29:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 14:29:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 14:29:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 14:29:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 14:29:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 14:29:47: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 14:29:47: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 14:29:48: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 14:42:33: [playercommands.smx] "ArmyBoy [LFP]<2880><STEAM_1:1:99258642><>" slapped ".pnd<2859><STEAM_1:0:468864261><>" (damage "1")
+L 10/20/2020 - 14:42:35: [playercommands.smx] "ArmyBoy [LFP]<2880><STEAM_1:1:99258642><>" slapped ".pnd<2859><STEAM_1:0:468864261><>" (damage "1")
+L 10/20/2020 - 14:42:43: [playercommands.smx] "ArmyBoy [LFP]<2880><STEAM_1:1:99258642><>" slapped ".pnd<2859><STEAM_1:0:468864261><>" (damage "1")
+L 10/20/2020 - 14:43:24: [playercommands.smx] "ArmyBoy [LFP]<2880><STEAM_1:1:99258642><>" slapped ".pnd<2859><STEAM_1:0:468864261><>" (damage "1")
+L 10/20/2020 - 14:43:24: [playercommands.smx] "ArmyBoy [LFP]<2880><STEAM_1:1:99258642><>" slapped ".pnd<2859><STEAM_1:0:468864261><>" (damage "1")
+L 10/20/2020 - 14:43:25: [playercommands.smx] "ArmyBoy [LFP]<2880><STEAM_1:1:99258642><>" slapped ".pnd<2859><STEAM_1:0:468864261><>" (damage "1")
+L 10/20/2020 - 14:43:25: [playercommands.smx] "ArmyBoy [LFP]<2880><STEAM_1:1:99258642><>" slapped ".pnd<2859><STEAM_1:0:468864261><>" (damage "1")
+L 10/20/2020 - 14:43:25: [playercommands.smx] "ArmyBoy [LFP]<2880><STEAM_1:1:99258642><>" slapped ".pnd<2859><STEAM_1:0:468864261><>" (damage "1")
+L 10/20/2020 - 14:43:25: [playercommands.smx] "ArmyBoy [LFP]<2880><STEAM_1:1:99258642><>" slapped ".pnd<2859><STEAM_1:0:468864261><>" (damage "1")
+L 10/20/2020 - 14:43:25: [playercommands.smx] "ArmyBoy [LFP]<2880><STEAM_1:1:99258642><>" slapped ".pnd<2859><STEAM_1:0:468864261><>" (damage "1")
+L 10/20/2020 - 14:43:26: [playercommands.smx] "ArmyBoy [LFP]<2880><STEAM_1:1:99258642><>" slapped ".pnd<2859><STEAM_1:0:468864261><>" (damage "1")
+L 10/20/2020 - 14:43:26: [playercommands.smx] "ArmyBoy [LFP]<2880><STEAM_1:1:99258642><>" slapped "Sushi<2886><STEAM_1:1:567347267><>" (damage "1")
+L 10/20/2020 - 14:46:32: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 14:46:52: [mapchooser.smx] Voting for next map has finished. Nextmap: de_overpass.
+L 10/20/2020 - 14:48:37: [SM] Changed map to "de_overpass"
+L 10/20/2020 - 14:48:38: -------- Mapchange to de_overpass --------
+L 10/20/2020 - 14:48:38: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 14:48:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 14:48:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 14:48:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 14:48:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 14:48:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 14:48:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 14:48:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 14:48:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 14:48:39: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 14:48:39: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 14:48:41: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 15:03:33: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 15:03:37: [mapchooser.smx] Voting for next map has finished. Nextmap: de_train.
+L 10/20/2020 - 15:04:57: [SM] Changed map to "de_train"
+L 10/20/2020 - 15:04:59: -------- Mapchange to de_train --------
+L 10/20/2020 - 15:04:59: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 15:04:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 15:04:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 15:04:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 15:04:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 15:04:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 15:04:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 15:04:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 15:04:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 15:05:00: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 15:05:00: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 15:05:02: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 15:23:07: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 15:23:27: [mapchooser.smx] Voting for next map has finished. Nextmap: de_cache.
+L 10/20/2020 - 15:24:28: [SM] Changed map to "de_cache"
+L 10/20/2020 - 15:24:33: -------- Mapchange to de_cache --------
+L 10/20/2020 - 15:24:33: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 15:24:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 15:24:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 15:24:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 15:24:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 15:24:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 15:24:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 15:24:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 15:24:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 15:24:34: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 15:24:34: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 15:24:35: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 15:40:28: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 15:40:48: [mapchooser.smx] Voting for next map has finished. Nextmap: de_vertigo.
+L 10/20/2020 - 15:42:28: [SM] Changed map to "de_vertigo"
+L 10/20/2020 - 15:42:29: -------- Mapchange to de_vertigo --------
+L 10/20/2020 - 15:42:29: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 15:42:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 15:42:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 15:42:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 15:42:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 15:42:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 15:42:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 15:42:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 15:42:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 15:42:30: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 15:42:30: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 15:42:32: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 15:59:41: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 16:00:01: [mapchooser.smx] Voting for next map has finished. Nextmap: de_mirage.
+L 10/20/2020 - 16:01:02: [SM] Changed map to "de_mirage"
+L 10/20/2020 - 16:01:03: -------- Mapchange to de_mirage --------
+L 10/20/2020 - 16:01:03: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 16:01:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 16:01:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 16:01:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 16:01:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 16:01:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 16:01:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 16:01:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 16:01:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 16:01:04: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 16:01:04: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 16:01:05: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 16:17:49: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 16:17:56: [mapchooser.smx] Voting for next map has finished. Nextmap: de_dust2.
+L 10/20/2020 - 16:20:17: [SM] Changed map to "de_dust2"
+L 10/20/2020 - 16:20:21: -------- Mapchange to de_dust2 --------
+L 10/20/2020 - 16:20:21: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 16:20:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 16:20:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 16:20:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 16:20:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 16:20:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 16:20:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 16:20:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 16:20:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 16:20:22: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 16:20:22: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 16:20:23: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 16:35:28: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 16:35:42: [mapchooser.smx] Voting for next map has finished. Nextmap: de_inferno.
+L 10/20/2020 - 16:37:04: [SM] Changed map to "de_inferno"
+L 10/20/2020 - 16:37:06: -------- Mapchange to de_inferno --------
+L 10/20/2020 - 16:37:06: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 16:37:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 16:37:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 16:37:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 16:37:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 16:37:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 16:37:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 16:37:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 16:37:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 16:37:07: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 16:37:07: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 16:37:09: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 16:39:14: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:39:28: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:40:07: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:40:29: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:41:00: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Nemo<2945><STEAM_1:1:527958957><>" (damage "0")
+L 10/20/2020 - 16:41:08: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Nemo<2945><STEAM_1:1:527958957><>" (damage "0")
+L 10/20/2020 - 16:41:33: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:41:34: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:41:34: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:41:34: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:41:34: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:41:34: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:41:49: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:41:49: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:41:49: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:41:50: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:41:50: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:41:54: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:42:06: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:42:20: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:42:22: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:42:24: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:42:26: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:42:28: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:42:29: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:42:30: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:42:36: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:43:16: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:43:22: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:43:24: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:43:26: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:43:26: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:43:27: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:43:28: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:43:28: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:43:29: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:43:29: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:43:29: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:43:30: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:43:30: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:43:30: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:43:30: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:43:30: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:43:31: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:43:31: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:43:31: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:43:31: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:43:31: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:43:32: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:43:32: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:43:32: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:43:32: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:43:32: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:43:32: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:43:33: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:43:33: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:43:33: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:43:56: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:43:58: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:43:59: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:44:00: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:44:04: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:44:07: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "FILTHY<2946><STEAM_1:0:211137250><>" (damage "0")
+L 10/20/2020 - 16:45:00: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:45:03: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:45:06: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:45:19: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:45:21: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:45:27: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:45:30: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:45:31: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:45:31: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:46:36: [basecommands.smx] "ArmyBoy [LFP]<2955><STEAM_1:1:99258642><>" refreshed the admin cache.
+L 10/20/2020 - 16:46:39: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:08: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:08: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:09: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:09: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:09: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:10: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:12: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:14: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:29: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:29: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:29: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:29: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:30: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:30: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:30: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:30: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:30: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:31: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:31: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:31: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:33: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:35: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:37: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:38: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:39: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:39: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:40: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:40: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:40: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:41: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:41: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:41: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:41: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:41: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:42: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:42: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:42: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:42: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:42: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:42: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:43: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:43: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:43: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:43: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:43: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:44: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:44: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:44: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:44: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:44: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:45: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:45: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:47:46: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:10: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:10: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:11: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:11: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:11: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:11: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:12: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:12: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:12: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:12: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:12: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:12: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:13: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:13: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:13: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:13: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:13: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:14: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:14: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:35: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:35: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:35: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:36: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:36: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:36: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:36: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:36: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:36: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:37: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:37: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:37: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:37: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:37: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:38: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:38: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:38: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:38: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:38: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:39: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:39: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:39: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:39: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:45: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:45: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:48:46: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:49:03: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:49:03: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:49:03: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:49:03: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:49:03: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:49:04: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:49:04: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:49:04: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:49:04: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:49:04: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:49:05: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:49:05: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:49:05: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:49:05: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:49:05: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:49:52: [funcommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" set a beacon on "WyNaNd<2950><STEAM_1:0:52932228><>"
+L 10/20/2020 - 16:50:24: [funcommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" set blind on "WyNaNd<2950><STEAM_1:0:52932228><>" (amount "255")
+L 10/20/2020 - 16:51:10: [funcommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" set a TimeBomb on "FILTHY<2956><STEAM_1:0:211137250><>"
+L 10/20/2020 - 16:52:07: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:52:22: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 16:52:43: [mapchooser.smx] Voting for next map has finished. Nextmap: de_overpass.
+L 10/20/2020 - 16:53:11: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:53:16: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:54:02: [SM] Changed map to "de_overpass"
+L 10/20/2020 - 16:54:03: -------- Mapchange to de_overpass --------
+L 10/20/2020 - 16:54:04: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 16:54:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 16:54:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 16:54:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 16:54:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 16:54:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 16:54:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 16:54:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 16:54:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 16:54:05: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 16:54:05: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 16:54:06: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 16:54:45: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:54:48: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:55:19: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:55:19: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:55:20: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:55:20: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:55:20: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:55:20: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:55:20: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:55:20: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:55:21: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:55:21: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:55:21: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:55:21: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:55:39: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:55:40: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:55:40: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "WyNaNd<2950><STEAM_1:0:52932228><>" (damage "0")
+L 10/20/2020 - 16:55:58: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:55:59: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:04: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:04: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:04: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:04: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:05: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:05: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:05: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:05: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:05: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:06: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:06: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:06: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:06: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:06: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:06: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:07: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:07: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:07: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:07: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:07: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:08: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:08: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:08: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:08: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:08: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:09: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:09: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:09: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:09: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:09: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:10: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:10: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:10: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:10: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:10: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:11: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:11: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:11: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:11: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:11: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:12: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:12: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:12: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:12: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:12: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:13: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:13: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:13: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:13: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:13: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:14: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:14: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:14: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:14: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:14: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:32: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:37: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:39: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "s0man [LFP]<2944><STEAM_1:0:502754199><>" (damage "0")
+L 10/20/2020 - 16:56:54: [funcommands.smx] "ArmyBoy [LFP]<2955><STEAM_1:1:99258642><>" set a beacon on "WyNaNd<2950><STEAM_1:0:52932228><>"
+L 10/20/2020 - 16:58:31: [funcommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" set blind on "s0man [LFP]<2944><STEAM_1:0:502754199><>" (amount "0")
+L 10/20/2020 - 16:59:31: [funcommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" froze "Schwagmann<2958><STEAM_1:0:29841963><>"
+L 10/20/2020 - 17:00:15: [funcommands.smx] "ArmyBoy [LFP]<2955><STEAM_1:1:99258642><>" set a FireBomb on "s0man [LFP]<2944><STEAM_1:0:502754199><>"
+L 10/20/2020 - 17:00:19: [funcommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" set gravity on "Schwagmann<2958><STEAM_1:0:29841963><>" (amount "2.000000")
+L 10/20/2020 - 17:00:51: [funcommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" set a FreezeBomb on "Schwagmann<2958><STEAM_1:0:29841963><>"
+L 10/20/2020 - 17:01:15: [funcommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" toggled noclip on "s0man [LFP]<2944><STEAM_1:0:502754199><>"
+L 10/20/2020 - 17:01:47: [playercommands.smx] "ArmyBoy [LFP]<2955><STEAM_1:1:99258642><>" slayed "s0man [LFP]<2944><STEAM_1:0:502754199><>"
+L 10/20/2020 - 17:02:07: [funcommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" ignited "Schwagmann<2958><STEAM_1:0:29841963><>" (seconds "20.000000")
+L 10/20/2020 - 17:02:37: [funcommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" drugged "FILTHY<2956><STEAM_1:0:211137250><>"
+L 10/20/2020 - 17:04:12: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:04:21: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:04:22: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:04:22: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:04:22: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:04:23: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:04:23: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:04:23: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:04:23: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:04:23: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:04:23: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:04:24: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:04:24: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:04:24: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:04:24: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:04:24: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:04:24: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:04:25: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:04:25: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:04:25: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:04:25: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:04:25: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:04:25: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:04:26: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:04:26: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:04:26: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:04:26: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:04:26: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:04:26: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:04:27: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:04:27: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:04:27: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:04:27: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:04:27: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:04:28: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:04:28: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:04:28: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:05:00: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:05:05: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "Schwagmann<2958><STEAM_1:0:29841963><>" (damage "0")
+L 10/20/2020 - 17:05:41: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" renamed "WyNaNd<2950><STEAM_1:0:52932228><>" (to "yNdNWy")
+L 10/20/2020 - 17:05:44: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" renamed "yNdNWy<2950><STEAM_1:0:52932228><>" (to "yNydyd")
+L 10/20/2020 - 17:05:45: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" renamed "yNydyd<2950><STEAM_1:0:52932228><>" (to "yydyyd")
+L 10/20/2020 - 17:05:46: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" renamed "yydyyd<2950><STEAM_1:0:52932228><>" (to "ddyyyd")
+L 10/20/2020 - 17:06:45: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" slapped "LeftybadK<2960><STEAM_1:1:441464385><>" (damage "0")
+L 10/20/2020 - 17:07:55: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" renamed "ddyyyd<2950><STEAM_1:0:52932228><>" (to "dyyddy")
+L 10/20/2020 - 17:07:56: [playercommands.smx] "s0man [LFP]<2944><STEAM_1:0:502754199><>" renamed "dyyddy<2950><STEAM_1:0:52932228><>" (to "dyyydy")
+L 10/20/2020 - 17:10:07: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 17:10:28: [mapchooser.smx] Voting for next map has finished. Nextmap: de_train.
+L 10/20/2020 - 17:12:16: [SM] Changed map to "de_train"
+L 10/20/2020 - 17:12:18: -------- Mapchange to de_train --------
+L 10/20/2020 - 17:12:18: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 17:12:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 17:12:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 17:12:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 17:12:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 17:12:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 17:12:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 17:12:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 17:12:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 17:12:19: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 17:12:19: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 17:12:20: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 17:29:20: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 17:29:28: [mapchooser.smx] Voting for next map has finished. Nextmap: de_cache.
+L 10/20/2020 - 17:30:53: [SM] Changed map to "de_cache"
+L 10/20/2020 - 17:30:58: -------- Mapchange to de_cache --------
+L 10/20/2020 - 17:30:59: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 17:30:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 17:30:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 17:30:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 17:30:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 17:30:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 17:30:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 17:30:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 17:30:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 17:30:59: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 17:30:59: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 17:31:01: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 17:47:13: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 17:47:24: [mapchooser.smx] Voting for next map has finished. Nextmap: de_vertigo.
+L 10/20/2020 - 17:50:24: [SM] Changed map to "de_vertigo"
+L 10/20/2020 - 17:50:25: -------- Mapchange to de_vertigo --------
+L 10/20/2020 - 17:50:25: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 17:50:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 17:50:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 17:50:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 17:50:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 17:50:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 17:50:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 17:50:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 17:50:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 17:50:26: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 17:50:26: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 17:50:27: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 18:05:28: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 18:05:37: [mapchooser.smx] Voting for next map has finished. Nextmap: de_mirage.
+L 10/20/2020 - 18:07:12: [SM] Changed map to "de_mirage"
+L 10/20/2020 - 18:07:13: -------- Mapchange to de_mirage --------
+L 10/20/2020 - 18:07:13: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 18:07:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 18:07:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 18:07:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 18:07:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 18:07:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 18:07:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 18:07:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 18:07:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 18:07:14: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 18:07:14: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 18:07:16: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 18:23:16: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 18:23:23: [mapchooser.smx] Voting for next map has finished. Nextmap: de_dust2.
+L 10/20/2020 - 18:25:16: [SM] Changed map to "de_dust2"
+L 10/20/2020 - 18:25:20: -------- Mapchange to de_dust2 --------
+L 10/20/2020 - 18:25:20: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 18:25:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 18:25:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 18:25:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 18:25:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 18:25:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 18:25:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 18:25:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 18:25:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 18:25:21: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 18:25:21: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 18:25:22: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 18:39:28: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 18:39:31: [mapchooser.smx] Voting for next map has finished. Nextmap: de_inferno.
+L 10/20/2020 - 18:43:27: [rockthevote.smx] RTV changing map manually
+L 10/20/2020 - 18:43:27: [SM] Changed map to "de_inferno"
+L 10/20/2020 - 18:43:29: -------- Mapchange to de_inferno --------
+L 10/20/2020 - 18:43:29: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 18:43:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 18:43:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 18:43:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 18:43:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 18:43:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 18:43:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 18:43:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 18:43:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 18:43:30: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 18:43:30: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 18:43:32: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 19:02:51: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 19:03:11: [mapchooser.smx] Voting for next map has finished. Nextmap: de_overpass.
+L 10/20/2020 - 19:06:11: [SM] Changed map to "de_overpass"
+L 10/20/2020 - 19:06:12: -------- Mapchange to de_overpass --------
+L 10/20/2020 - 19:06:13: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 19:06:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 19:06:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 19:06:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 19:06:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 19:06:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 19:06:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 19:06:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 19:06:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 19:06:13: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 19:06:13: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 19:06:15: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 19:21:44: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 19:22:05: [mapchooser.smx] Voting for next map has finished. Nextmap: de_train.
+L 10/20/2020 - 19:24:01: [SM] Changed map to "de_train"
+L 10/20/2020 - 19:24:03: -------- Mapchange to de_train --------
+L 10/20/2020 - 19:24:03: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 19:24:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 19:24:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 19:24:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 19:24:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 19:24:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 19:24:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 19:24:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 19:24:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 19:24:04: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 19:24:04: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 19:24:06: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 19:42:28: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 19:42:35: [mapchooser.smx] Voting for next map has finished. Nextmap: de_cache.
+L 10/20/2020 - 19:45:46: [SM] Changed map to "de_cache"
+L 10/20/2020 - 19:45:51: -------- Mapchange to de_cache --------
+L 10/20/2020 - 19:45:51: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 19:45:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 19:45:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 19:45:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 19:45:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 19:45:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 19:45:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 19:45:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 19:45:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 19:45:52: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 19:45:52: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 19:45:54: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 20:02:48: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 20:03:07: [mapchooser.smx] Voting for next map has finished. Nextmap: de_vertigo.
+L 10/20/2020 - 20:04:48: [SM] Changed map to "de_vertigo"
+L 10/20/2020 - 20:04:50: -------- Mapchange to de_vertigo --------
+L 10/20/2020 - 20:04:50: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 20:04:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 20:04:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 20:04:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 20:04:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 20:04:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 20:04:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 20:04:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 20:04:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 20:04:51: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 20:04:51: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 20:04:52: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 20:18:27: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 20:18:47: [mapchooser.smx] Voting for next map has finished. Nextmap: de_mirage.
+L 10/20/2020 - 20:20:08: [SM] Changed map to "de_mirage"
+L 10/20/2020 - 20:20:09: -------- Mapchange to de_mirage --------
+L 10/20/2020 - 20:20:09: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 20:20:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 20:20:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 20:20:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 20:20:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 20:20:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 20:20:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 20:20:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 20:20:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 20:20:10: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 20:20:10: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 20:20:11: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 20:36:34: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 20:36:43: [mapchooser.smx] Voting for next map has finished. Nextmap: de_dust2.
+L 10/20/2020 - 20:40:04: [SM] Changed map to "de_dust2"
+L 10/20/2020 - 20:40:07: -------- Mapchange to de_dust2 --------
+L 10/20/2020 - 20:40:08: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 20:40:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 20:40:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 20:40:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 20:40:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 20:40:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 20:40:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 20:40:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 20:40:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 20:40:08: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 20:40:08: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 20:40:10: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 20:56:11: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 20:56:17: [mapchooser.smx] Voting for next map has finished. Nextmap: de_inferno.
+L 10/20/2020 - 20:58:51: [SM] Changed map to "de_inferno"
+L 10/20/2020 - 20:58:53: -------- Mapchange to de_inferno --------
+L 10/20/2020 - 20:58:53: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 20:58:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 20:58:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 20:58:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 20:58:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 20:58:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 20:58:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 20:58:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 20:58:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 20:58:54: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 20:58:54: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 20:58:55: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 21:14:17: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 21:48:57: -------- Mapchange to de_inferno --------
+L 10/20/2020 - 21:48:57: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 21:48:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 21:48:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 21:48:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 21:48:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 21:48:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 21:48:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 21:48:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 21:48:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 21:48:58: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 21:48:58: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 21:48:59: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 22:06:16: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 22:06:37: [mapchooser.smx] Voting for next map has finished. Nextmap: de_overpass.
+L 10/20/2020 - 22:11:52: [SM] Changed map to "de_overpass"
+L 10/20/2020 - 22:11:53: -------- Mapchange to de_overpass --------
+L 10/20/2020 - 22:11:53: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 22:11:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 22:11:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 22:11:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 22:11:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 22:11:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 22:11:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 22:11:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 22:11:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 22:11:54: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 22:11:54: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 22:11:56: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 22:27:44: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 22:27:55: [mapchooser.smx] Voting for next map has finished. Nextmap: de_train.
+L 10/20/2020 - 22:30:02: [SM] Changed map to "de_train"
+L 10/20/2020 - 22:30:04: -------- Mapchange to de_train --------
+L 10/20/2020 - 22:30:04: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 22:30:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 22:30:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 22:30:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 22:30:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 22:30:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 22:30:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 22:30:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 22:30:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 22:30:05: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 22:30:05: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 22:30:06: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 22:46:10: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 22:46:23: [mapchooser.smx] Voting for next map has finished. Nextmap: de_vertigo.
+L 10/20/2020 - 22:48:55: [SM] Changed map to "de_vertigo"
+L 10/20/2020 - 22:48:56: -------- Mapchange to de_vertigo --------
+L 10/20/2020 - 22:48:57: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 22:48:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 22:48:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 22:48:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 22:48:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 22:48:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 22:48:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 22:48:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 22:48:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 22:48:57: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 22:48:57: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 22:48:59: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 23:03:18: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 23:03:25: [mapchooser.smx] Voting for next map has finished. Nextmap: de_mirage.
+L 10/20/2020 - 23:04:44: [SM] Changed map to "de_mirage"
+L 10/20/2020 - 23:04:45: -------- Mapchange to de_mirage --------
+L 10/20/2020 - 23:04:46: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 10/20/2020 - 23:04:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "128000")
+L 10/20/2020 - 23:04:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "128000")
+L 10/20/2020 - 23:04:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "128")
+L 10/20/2020 - 23:04:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "128")
+L 10/20/2020 - 23:04:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "128")
+L 10/20/2020 - 23:04:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "128")
+L 10/20/2020 - 23:04:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxunlag") (value "0.5")
+L 10/20/2020 - 23:04:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_unlag") (value "1")
+L 10/20/2020 - 23:04:47: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/20/2020 - 23:04:47: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/20/2020 - 23:04:48: [weapons.smx] Inactive players' data has been deleted
+L 10/20/2020 - 23:18:30: [mapchooser.smx] Voting for next map has started.
+L 10/20/2020 - 23:18:32: [mapchooser.smx] Voting for next map has finished. Nextmap: de_cache.
+L 10/21/2020 - 05:24:00: Log file closed.

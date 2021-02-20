@@ -1,0 +1,343 @@
+L 09/28/2020 - 10:55:16: SourceMod error session started
+L 09/28/2020 - 10:55:16: Info (map "de_inferno") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20200928.log")
+L 09/28/2020 - 10:55:16: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 10:56:39: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 10:56:39: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 10:57:06: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 10:57:07: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 11:14:35: Error log file session closed.
+L 09/28/2020 - 11:33:20: SourceMod error session started
+L 09/28/2020 - 11:33:20: Info (map "de_inferno") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20200928.log")
+L 09/28/2020 - 11:33:20: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 11:33:20: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 11:38:04: Error log file session closed.
+L 09/28/2020 - 11:38:11: SourceMod error session started
+L 09/28/2020 - 11:38:11: Info (map "de_inferno") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20200928.log")
+L 09/28/2020 - 11:38:11: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 11:38:11: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 11:38:27: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 11:38:28: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 11:57:08: Error log file session closed.
+L 09/28/2020 - 11:57:24: SourceMod error session started
+L 09/28/2020 - 11:57:24: Info (map "de_nuke") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20200928.log")
+L 09/28/2020 - 11:57:24: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 11:57:24: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 11:57:25: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 11:57:25: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 12:04:37: [SM] Exception reported: Client index 0 is invalid
+L 09/28/2020 - 12:04:37: [SM] Blaming: kento_rankme.smx
+L 09/28/2020 - 12:04:37: [SM] Call stack trace:
+L 09/28/2020 - 12:04:37: [SM]   [0] IsClientInGame
+L 09/28/2020 - 12:04:37: [SM]   [1] Line 615, d:\csgoserver\csgo\addons\sourcemod\scripting\kento_rankme.sp::Event_RoundMVP
+L 09/28/2020 - 12:04:37: [SM]   [3] CS_TerminateRound
+L 09/28/2020 - 12:04:37: [SM]   [4] Line 896, ././scripting/retakes.sp::CheckRoundDone
+L 09/28/2020 - 12:04:37: [SM]   [5] Line 311, ././scripting/retakes.sp::OnClientDisconnect
+L 09/28/2020 - 12:04:41: Error log file session closed.
+L 09/28/2020 - 12:04:58: SourceMod error session started
+L 09/28/2020 - 12:04:58: Info (map "de_dust2") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20200928.log")
+L 09/28/2020 - 12:04:58: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 12:04:58: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 12:05:01: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 12:05:01: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 12:43:52: Error log file session closed.
+L 09/28/2020 - 13:15:41: SourceMod error session started
+L 09/28/2020 - 13:15:41: Info (map "de_dust2") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20200928.log")
+L 09/28/2020 - 13:15:41: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 13:15:41: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 14:38:29: Error log file session closed.
+L 09/28/2020 - 14:49:11: SourceMod error session started
+L 09/28/2020 - 14:49:11: Info (map "de_dust2") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20200928.log")
+L 09/28/2020 - 14:49:11: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 14:49:56: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 14:50:13: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 14:50:13: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 14:50:48: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 14:50:48: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 14:51:02: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 14:51:03: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 14:59:54: Error log file session closed.
+L 09/28/2020 - 15:00:06: SourceMod error session started
+L 09/28/2020 - 15:00:06: Info (map "de_inferno") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20200928.log")
+L 09/28/2020 - 15:00:06: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 15:00:10: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 15:00:10: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 15:00:16: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 15:00:16: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 15:00:51: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 15:06:28: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 15:06:29: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 15:14:03: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 15:14:03: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 15:37:53: Error log file session closed.
+L 09/28/2020 - 15:38:04: SourceMod error session started
+L 09/28/2020 - 15:38:04: Info (map "de_mirage") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20200928.log")
+L 09/28/2020 - 15:38:04: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 15:38:04: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 15:54:55: Error log file session closed.
+L 09/28/2020 - 15:55:13: SourceMod error session started
+L 09/28/2020 - 15:55:13: Info (map "de_cache") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20200928.log")
+L 09/28/2020 - 15:55:13: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 15:55:13: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 16:01:22: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 16:01:22: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 16:02:17: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 16:02:18: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 16:02:52: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 16:02:52: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 16:02:52: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 16:06:29: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 16:06:29: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 16:13:33: Error log file session closed.
+L 09/28/2020 - 16:13:53: SourceMod error session started
+L 09/28/2020 - 16:13:53: Info (map "de_train") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20200928.log")
+L 09/28/2020 - 16:13:53: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 16:13:53: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 16:13:54: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 16:13:54: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 16:14:14: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 16:14:14: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 16:24:17: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 16:26:21: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 16:26:21: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 16:27:32: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 16:30:37: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 16:32:54: Error log file session closed.
+L 09/28/2020 - 16:33:03: SourceMod error session started
+L 09/28/2020 - 16:33:03: Info (map "de_overpass") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20200928.log")
+L 09/28/2020 - 16:33:03: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 16:33:05: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 16:33:19: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 16:33:19: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 16:33:29: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 16:38:00: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 16:38:01: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 16:42:11: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 16:42:12: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 16:51:13: Error log file session closed.
+L 09/28/2020 - 16:51:24: SourceMod error session started
+L 09/28/2020 - 16:51:24: Info (map "de_nuke") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20200928.log")
+L 09/28/2020 - 16:51:24: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 16:51:25: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 16:51:27: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 16:51:33: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 16:51:33: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 16:51:33: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 16:51:33: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 16:58:14: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 17:06:05: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 17:09:48: Error log file session closed.
+L 09/28/2020 - 17:09:58: SourceMod error session started
+L 09/28/2020 - 17:09:58: Info (map "de_vertigo") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20200928.log")
+L 09/28/2020 - 17:09:58: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 17:26:27: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 17:28:14: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 17:28:31: Error log file session closed.
+L 09/28/2020 - 17:28:47: SourceMod error session started
+L 09/28/2020 - 17:28:47: Info (map "de_dust2") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20200928.log")
+L 09/28/2020 - 17:28:47: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 17:31:16: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 17:31:16: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 17:39:17: Error log file session closed.
+L 09/28/2020 - 17:40:14: SourceMod error session started
+L 09/28/2020 - 17:40:14: Info (map "de_dust2") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20200928.log")
+L 09/28/2020 - 17:40:14: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 17:40:14: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 17:57:24: Error log file session closed.
+L 09/28/2020 - 17:57:35: SourceMod error session started
+L 09/28/2020 - 17:57:35: Info (map "de_mirage") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20200928.log")
+L 09/28/2020 - 17:57:35: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 17:57:35: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 18:07:22: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 18:15:44: Error log file session closed.
+L 09/28/2020 - 18:26:07: SourceMod error session started
+L 09/28/2020 - 18:26:07: Info (map "de_inferno") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20200928.log")
+L 09/28/2020 - 18:26:07: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 18:27:07: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 18:28:25: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 18:28:25: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 18:29:55: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 18:35:35: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 18:36:06: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 18:36:07: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 18:36:22: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 18:36:23: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 18:36:49: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 18:47:31: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 18:47:31: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 18:49:26: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 18:49:27: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 18:56:42: Error log file session closed.
+L 09/28/2020 - 18:56:51: SourceMod error session started
+L 09/28/2020 - 18:56:51: Info (map "de_overpass") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20200928.log")
+L 09/28/2020 - 18:56:51: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 18:56:53: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 18:56:53: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 18:56:55: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 18:56:56: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 18:56:57: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 18:57:01: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 18:57:09: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 18:57:09: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 19:06:50: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 19:06:50: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 19:08:32: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 19:09:39: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 19:13:31: Error log file session closed.
+L 09/28/2020 - 19:13:43: SourceMod error session started
+L 09/28/2020 - 19:13:43: Info (map "de_overpass") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20200928.log")
+L 09/28/2020 - 19:13:43: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 19:14:32: Error log file session closed.
+L 09/28/2020 - 19:14:50: SourceMod error session started
+L 09/28/2020 - 19:14:50: Info (map "de_overpass") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20200928.log")
+L 09/28/2020 - 19:14:50: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 19:14:51: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 19:23:56: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 19:23:57: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 19:24:04: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 19:24:04: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 19:28:17: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 19:30:57: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 19:30:58: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 19:31:53: Error log file session closed.
+L 09/28/2020 - 19:32:09: SourceMod error session started
+L 09/28/2020 - 19:32:09: Info (map "de_cache") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20200928.log")
+L 09/28/2020 - 19:32:09: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 19:32:10: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 19:32:47: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 19:32:48: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 19:33:13: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 19:49:52: Error log file session closed.
+L 09/28/2020 - 19:50:16: SourceMod error session started
+L 09/28/2020 - 19:50:16: Info (map "de_vertigo") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20200928.log")
+L 09/28/2020 - 19:50:16: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 19:50:27: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 19:50:27: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 19:50:51: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 19:55:47: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 19:55:48: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 19:56:10: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 20:05:56: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 20:12:51: Error log file session closed.
+L 09/28/2020 - 20:19:38: SourceMod error session started
+L 09/28/2020 - 20:19:38: Info (map "de_vertigo") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20200928.log")
+L 09/28/2020 - 20:19:38: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 20:19:38: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 20:26:10: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 20:26:11: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 20:34:40: Error log file session closed.
+L 09/28/2020 - 20:34:48: SourceMod error session started
+L 09/28/2020 - 20:34:48: Info (map "de_inferno") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20200928.log")
+L 09/28/2020 - 20:34:48: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 20:34:49: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 20:34:50: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 20:34:50: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 20:36:39: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 20:36:39: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 20:41:47: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 20:41:47: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 20:48:29: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 20:48:29: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 20:51:43: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 20:51:43: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 20:56:49: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 20:57:30: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 20:59:19: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 21:05:30: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 21:08:39: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 21:11:08: Error log file session closed.
+L 09/28/2020 - 21:11:16: SourceMod error session started
+L 09/28/2020 - 21:11:16: Info (map "de_mirage") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20200928.log")
+L 09/28/2020 - 21:11:16: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 21:11:18: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 21:11:18: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 21:11:19: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 21:11:19: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 21:11:29: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 21:11:29: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 21:20:26: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 21:21:12: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 21:21:12: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 21:25:40: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 21:25:41: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 21:26:09: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 21:26:09: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 21:28:28: Error log file session closed.
+L 09/28/2020 - 21:28:38: SourceMod error session started
+L 09/28/2020 - 21:28:38: Info (map "de_overpass") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20200928.log")
+L 09/28/2020 - 21:28:38: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 21:28:38: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 21:28:39: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 21:28:40: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 21:28:43: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 21:28:44: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 21:28:47: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 21:28:47: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 21:28:51: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 21:28:51: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 21:29:40: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 21:29:40: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 21:29:43: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 21:29:43: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 21:40:09: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 21:40:09: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 21:45:56: Error log file session closed.
+L 09/28/2020 - 21:46:08: SourceMod error session started
+L 09/28/2020 - 21:46:08: Info (map "de_cache") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20200928.log")
+L 09/28/2020 - 21:46:08: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 21:46:12: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 21:46:12: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 21:46:20: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 21:46:20: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 21:46:21: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 21:46:21: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 21:46:21: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 21:46:21: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 21:48:30: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 21:48:30: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 22:00:53: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 22:00:54: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 22:04:23: Error log file session closed.
+L 09/28/2020 - 22:04:33: SourceMod error session started
+L 09/28/2020 - 22:04:33: Info (map "de_train") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20200928.log")
+L 09/28/2020 - 22:04:33: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 22:04:34: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 22:04:35: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 22:04:35: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 22:04:36: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 22:04:43: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 22:04:43: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 22:04:45: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 22:04:45: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 22:06:42: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 22:06:42: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 22:13:32: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 22:23:11: Error log file session closed.
+L 09/28/2020 - 22:23:24: SourceMod error session started
+L 09/28/2020 - 22:23:24: Info (map "de_dust2") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20200928.log")
+L 09/28/2020 - 22:23:24: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 22:23:24: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 22:23:27: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 22:23:33: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 22:23:33: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 22:23:34: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 22:23:35: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 22:23:45: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 22:26:13: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 22:26:13: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 22:30:32: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 22:30:32: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 22:33:24: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 22:33:24: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 22:39:41: Error log file session closed.
+L 09/28/2020 - 22:39:50: SourceMod error session started
+L 09/28/2020 - 22:39:50: Info (map "de_vertigo") (file "C:\TCAFiles\Users\jean\1\csgo\addons\sourcemod\logs\errors_20200928.log")
+L 09/28/2020 - 22:39:50: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 22:39:50: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 22:39:57: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 22:39:57: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 22:39:59: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 22:40:00: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 22:40:00: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 22:41:59: [kento_rankme.smx] [RankMe] Query Fail: Column count doesn't match value count at row 1
+L 09/28/2020 - 22:41:59: [store.smx] Error happened. Error: Duplicate entry '0' for key 'PRIMARY'
+L 09/28/2020 - 23:59:47: Error log file session closed.

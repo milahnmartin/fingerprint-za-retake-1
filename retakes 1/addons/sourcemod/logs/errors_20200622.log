@@ -1,0 +1,45 @@
+L 06/22/2020 - 12:28:12: SourceMod error session started
+L 06/22/2020 - 12:28:12: Info (map "de_train") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200622.log")
+L 06/22/2020 - 12:28:12: [SM] Exception reported: Plugin handle 14bc09b6 is invalid (error 1)
+L 06/22/2020 - 12:28:12: [SM] Blaming: kento_rankme.smx
+L 06/22/2020 - 12:28:12: [SM] Call stack trace:
+L 06/22/2020 - 12:28:12: [SM]   [0] Call_StartFunction
+L 06/22/2020 - 12:28:12: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 06/22/2020 - 12:28:12: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 06/22/2020 - 12:28:12: [SM] Exception reported: Plugin handle 14bc09b6 is invalid (error 1)
+L 06/22/2020 - 12:28:12: [SM] Blaming: kento_rankme.smx
+L 06/22/2020 - 12:28:12: [SM] Call stack trace:
+L 06/22/2020 - 12:28:12: [SM]   [0] Call_StartFunction
+L 06/22/2020 - 12:28:12: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 06/22/2020 - 12:28:12: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 06/22/2020 - 12:28:12: [SM] Exception reported: Plugin handle 14bc09b6 is invalid (error 1)
+L 06/22/2020 - 12:28:12: [SM] Blaming: kento_rankme.smx
+L 06/22/2020 - 12:28:12: [SM] Call stack trace:
+L 06/22/2020 - 12:28:12: [SM]   [0] Call_StartFunction
+L 06/22/2020 - 12:28:12: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 06/22/2020 - 12:28:12: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 06/22/2020 - 12:28:12: [SM] Exception reported: Plugin handle 14bc09b6 is invalid (error 1)
+L 06/22/2020 - 12:28:12: [SM] Blaming: kento_rankme.smx
+L 06/22/2020 - 12:28:12: [SM] Call stack trace:
+L 06/22/2020 - 12:28:12: [SM]   [0] Call_StartFunction
+L 06/22/2020 - 12:28:12: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 06/22/2020 - 12:28:12: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 06/22/2020 - 12:28:12: [SM] Exception reported: Plugin handle 14bc09b6 is invalid (error 1)
+L 06/22/2020 - 12:28:12: [SM] Blaming: kento_rankme.smx
+L 06/22/2020 - 12:28:12: [SM] Call stack trace:
+L 06/22/2020 - 12:28:12: [SM]   [0] Call_StartFunction
+L 06/22/2020 - 12:28:12: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 06/22/2020 - 12:28:12: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 06/22/2020 - 12:28:12: [SM] Exception reported: Plugin handle 14bc09b6 is invalid (error 1)
+L 06/22/2020 - 12:28:12: [SM] Blaming: kento_rankme.smx
+L 06/22/2020 - 12:28:12: [SM] Call stack trace:
+L 06/22/2020 - 12:28:12: [SM]   [0] Call_StartFunction
+L 06/22/2020 - 12:28:12: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 06/22/2020 - 12:28:12: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 06/22/2020 - 12:28:12: [SM] Exception reported: Plugin handle 14bc09b6 is invalid (error 1)
+L 06/22/2020 - 12:28:12: [SM] Blaming: kento_rankme.smx
+L 06/22/2020 - 12:28:12: [SM] Call stack trace:
+L 06/22/2020 - 12:28:12: [SM]   [0] Call_StartFunction
+L 06/22/2020 - 12:28:12: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 06/22/2020 - 12:28:12: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 06/22/2020 - 12:44:50: Error log file session closed.

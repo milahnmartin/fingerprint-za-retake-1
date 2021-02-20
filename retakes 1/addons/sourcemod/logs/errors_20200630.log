@@ -1,0 +1,20 @@
+L 06/30/2020 - 12:00:27: SourceMod error session started
+L 06/30/2020 - 12:00:27: Info (map "de_mirage") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200630.log")
+L 06/30/2020 - 12:00:27: [SM] Exception reported: Client index 10 is invalid (arg 6)
+L 06/30/2020 - 12:00:27: [SM] Blaming: basebans.smx
+L 06/30/2020 - 12:00:27: [SM] Call stack trace:
+L 06/30/2020 - 12:00:27: [SM]   [0] Format
+L 06/30/2020 - 12:00:27: [SM]   [1] Line 129, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\basebans/ban.sp::DisplayBanReasonMenu
+L 06/30/2020 - 12:00:27: [SM]   [2] Line 268, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\basebans/ban.sp::MenuHandler_BanTimeList
+L 06/30/2020 - 12:43:27: Error log file session closed.
+L 06/30/2020 - 18:56:55: SourceMod error session started
+L 06/30/2020 - 18:56:55: Info (map "de_overpass") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200630.log")
+L 06/30/2020 - 18:56:55: [SM] Exception reported: Client index 0 is invalid
+L 06/30/2020 - 18:56:55: [SM] Blaming: kento_rankme.smx
+L 06/30/2020 - 18:56:55: [SM] Call stack trace:
+L 06/30/2020 - 18:56:55: [SM]   [0] IsClientInGame
+L 06/30/2020 - 18:56:55: [SM]   [1] Line 615, d:\csgoserver\csgo\addons\sourcemod\scripting\kento_rankme.sp::Event_RoundMVP
+L 06/30/2020 - 18:56:55: [SM]   [3] CS_TerminateRound
+L 06/30/2020 - 18:56:55: [SM]   [4] Line 896, ././scripting/retakes.sp::CheckRoundDone
+L 06/30/2020 - 18:56:55: [SM]   [5] Line 311, ././scripting/retakes.sp::OnClientDisconnect
+L 06/30/2020 - 18:56:56: Error log file session closed.

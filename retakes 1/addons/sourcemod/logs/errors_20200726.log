@@ -1,0 +1,9 @@
+L 07/26/2020 - 11:27:22: SourceMod error session started
+L 07/26/2020 - 11:27:22: Info (map "de_mirage") (file "C:\TCAFiles\Users\jeanv\438\csgo\addons\sourcemod\logs\errors_20200726.log")
+L 07/26/2020 - 11:27:22: [SM] Exception reported: Plugin handle f58b09e6 is invalid (error 1)
+L 07/26/2020 - 11:27:22: [SM] Blaming: kento_rankme.smx
+L 07/26/2020 - 11:27:22: [SM] Call stack trace:
+L 07/26/2020 - 11:27:22: [SM]   [0] Call_StartFunction
+L 07/26/2020 - 11:27:22: [SM]   [1] Line 171, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::CallRankCallback
+L 07/26/2020 - 11:27:22: [SM]   [2] Line 148, D:\csgoserver\csgo\addons\sourcemod\scripting\include\kento_rankme/natives.inc::SQL_GetRankCallback
+L 07/26/2020 - 11:45:53: Error log file session closed.

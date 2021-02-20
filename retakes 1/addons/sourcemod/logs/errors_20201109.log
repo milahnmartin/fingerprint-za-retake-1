@@ -1,0 +1,107 @@
+L 11/09/2020 - 08:09:14: SourceMod error session started
+L 11/09/2020 - 08:09:14: Info (map "de_dust2") (file "C:\TCAFiles\Users\jean\3\csgo\addons\sourcemod\logs\errors_20201109.log")
+L 11/09/2020 - 08:09:14: [SM] Exception reported: File Not Found: addons\sourcemod\configs\advertisements.txt
+L 11/09/2020 - 08:09:14: [SM] Blaming: advertisements.smx
+L 11/09/2020 - 08:09:14: [SM] Call stack trace:
+L 11/09/2020 - 08:09:14: [SM]   [0] SetFailState
+L 11/09/2020 - 08:09:14: [SM]   [1] Line 248, advertisements.sp::ParseAds
+L 11/09/2020 - 08:09:14: [SM]   [2] Line 57, advertisements.sp::OnMapStart
+L 11/09/2020 - 13:07:55: Error log file session closed.
+L 11/09/2020 - 13:07:56: SourceMod error session started
+L 11/09/2020 - 13:07:56: Info (map "de_dust2") (file "C:\TCAFiles\Users\jean\3\csgo\addons\sourcemod\logs\errors_20201109.log")
+L 11/09/2020 - 13:07:56: [SM] Exception reported: File Not Found: addons\sourcemod\configs\advertisements.txt
+L 11/09/2020 - 13:07:56: [SM] Blaming: advertisements.smx
+L 11/09/2020 - 13:07:56: [SM] Call stack trace:
+L 11/09/2020 - 13:07:56: [SM]   [0] SetFailState
+L 11/09/2020 - 13:07:56: [SM]   [1] Line 248, advertisements.sp::ParseAds
+L 11/09/2020 - 13:07:56: [SM]   [2] Line 57, advertisements.sp::OnMapStart
+L 11/09/2020 - 14:00:46: Error log file session closed.
+L 11/09/2020 - 14:00:46: SourceMod error session started
+L 11/09/2020 - 14:00:46: Info (map "de_dust2") (file "C:\TCAFiles\Users\jean\3\csgo\addons\sourcemod\logs\errors_20201109.log")
+L 11/09/2020 - 14:00:46: [SM] Exception reported: File Not Found: addons\sourcemod\configs\advertisements.txt
+L 11/09/2020 - 14:00:46: [SM] Blaming: advertisements.smx
+L 11/09/2020 - 14:00:46: [SM] Call stack trace:
+L 11/09/2020 - 14:00:46: [SM]   [0] SetFailState
+L 11/09/2020 - 14:00:46: [SM]   [1] Line 248, advertisements.sp::ParseAds
+L 11/09/2020 - 14:00:46: [SM]   [2] Line 57, advertisements.sp::OnMapStart
+L 11/09/2020 - 15:01:03: Error log file session closed.
+L 11/09/2020 - 15:01:04: SourceMod error session started
+L 11/09/2020 - 15:01:04: Info (map "de_dust2") (file "C:\TCAFiles\Users\jean\3\csgo\addons\sourcemod\logs\errors_20201109.log")
+L 11/09/2020 - 15:01:04: [SM] Exception reported: File Not Found: addons\sourcemod\configs\advertisements.txt
+L 11/09/2020 - 15:01:04: [SM] Blaming: advertisements.smx
+L 11/09/2020 - 15:01:04: [SM] Call stack trace:
+L 11/09/2020 - 15:01:04: [SM]   [0] SetFailState
+L 11/09/2020 - 15:01:04: [SM]   [1] Line 248, advertisements.sp::ParseAds
+L 11/09/2020 - 15:01:04: [SM]   [2] Line 57, advertisements.sp::OnMapStart
+L 11/09/2020 - 15:15:10: Error log file session closed.
+L 11/09/2020 - 15:15:11: SourceMod error session started
+L 11/09/2020 - 15:15:11: Info (map "de_mirage") (file "C:\TCAFiles\Users\jean\3\csgo\addons\sourcemod\logs\errors_20201109.log")
+L 11/09/2020 - 15:15:11: [SM] Exception reported: File Not Found: addons\sourcemod\configs\advertisements.txt
+L 11/09/2020 - 15:15:11: [SM] Blaming: advertisements.smx
+L 11/09/2020 - 15:15:11: [SM] Call stack trace:
+L 11/09/2020 - 15:15:11: [SM]   [0] SetFailState
+L 11/09/2020 - 15:15:11: [SM]   [1] Line 248, advertisements.sp::ParseAds
+L 11/09/2020 - 15:15:11: [SM]   [2] Line 57, advertisements.sp::OnMapStart
+L 11/09/2020 - 15:32:27: Error log file session closed.
+L 11/09/2020 - 15:32:27: SourceMod error session started
+L 11/09/2020 - 15:32:27: Info (map "de_overpass") (file "C:\TCAFiles\Users\jean\3\csgo\addons\sourcemod\logs\errors_20201109.log")
+L 11/09/2020 - 15:32:27: [SM] Exception reported: File Not Found: addons\sourcemod\configs\advertisements.txt
+L 11/09/2020 - 15:32:27: [SM] Blaming: advertisements.smx
+L 11/09/2020 - 15:32:27: [SM] Call stack trace:
+L 11/09/2020 - 15:32:27: [SM]   [0] SetFailState
+L 11/09/2020 - 15:32:27: [SM]   [1] Line 248, advertisements.sp::ParseAds
+L 11/09/2020 - 15:32:27: [SM]   [2] Line 57, advertisements.sp::OnMapStart
+L 11/09/2020 - 15:33:23: Error log file session closed.
+L 11/09/2020 - 15:33:24: SourceMod error session started
+L 11/09/2020 - 15:33:24: Info (map "de_overpass") (file "C:\TCAFiles\Users\jean\3\csgo\addons\sourcemod\logs\errors_20201109.log")
+L 11/09/2020 - 15:33:24: [SM] Exception reported: File Not Found: addons\sourcemod\configs\advertisements.txt
+L 11/09/2020 - 15:33:24: [SM] Blaming: advertisements.smx
+L 11/09/2020 - 15:33:24: [SM] Call stack trace:
+L 11/09/2020 - 15:33:24: [SM]   [0] SetFailState
+L 11/09/2020 - 15:33:24: [SM]   [1] Line 248, advertisements.sp::ParseAds
+L 11/09/2020 - 15:33:24: [SM]   [2] Line 57, advertisements.sp::OnMapStart
+L 11/09/2020 - 17:33:55: Error log file session closed.
+L 11/09/2020 - 17:33:55: SourceMod error session started
+L 11/09/2020 - 17:33:55: Info (map "de_overpass") (file "C:\TCAFiles\Users\jean\3\csgo\addons\sourcemod\logs\errors_20201109.log")
+L 11/09/2020 - 17:33:55: [SM] Exception reported: File Not Found: addons\sourcemod\configs\advertisements.txt
+L 11/09/2020 - 17:33:55: [SM] Blaming: advertisements.smx
+L 11/09/2020 - 17:33:55: [SM] Call stack trace:
+L 11/09/2020 - 17:33:55: [SM]   [0] SetFailState
+L 11/09/2020 - 17:33:55: [SM]   [1] Line 248, advertisements.sp::ParseAds
+L 11/09/2020 - 17:33:56: [SM]   [2] Line 57, advertisements.sp::OnMapStart
+L 11/09/2020 - 18:03:20: Error log file session closed.
+L 11/09/2020 - 18:03:21: SourceMod error session started
+L 11/09/2020 - 18:03:21: Info (map "de_overpass") (file "C:\TCAFiles\Users\jean\3\csgo\addons\sourcemod\logs\errors_20201109.log")
+L 11/09/2020 - 18:03:21: [SM] Exception reported: File Not Found: addons\sourcemod\configs\advertisements.txt
+L 11/09/2020 - 18:03:21: [SM] Blaming: advertisements.smx
+L 11/09/2020 - 18:03:21: [SM] Call stack trace:
+L 11/09/2020 - 18:03:21: [SM]   [0] SetFailState
+L 11/09/2020 - 18:03:21: [SM]   [1] Line 248, advertisements.sp::ParseAds
+L 11/09/2020 - 18:03:21: [SM]   [2] Line 57, advertisements.sp::OnMapStart
+L 11/09/2020 - 18:10:45: Error log file session closed.
+L 11/09/2020 - 18:10:45: SourceMod error session started
+L 11/09/2020 - 18:10:45: Info (map "de_overpass") (file "C:\TCAFiles\Users\jean\3\csgo\addons\sourcemod\logs\errors_20201109.log")
+L 11/09/2020 - 18:10:45: [SM] Exception reported: File Not Found: addons\sourcemod\configs\advertisements.txt
+L 11/09/2020 - 18:10:45: [SM] Blaming: advertisements.smx
+L 11/09/2020 - 18:10:45: [SM] Call stack trace:
+L 11/09/2020 - 18:10:45: [SM]   [0] SetFailState
+L 11/09/2020 - 18:10:45: [SM]   [1] Line 248, advertisements.sp::ParseAds
+L 11/09/2020 - 18:10:45: [SM]   [2] Line 57, advertisements.sp::OnMapStart
+L 11/09/2020 - 18:33:08: Error log file session closed.
+L 11/09/2020 - 18:33:09: SourceMod error session started
+L 11/09/2020 - 18:33:09: Info (map "de_overpass") (file "C:\TCAFiles\Users\jean\3\csgo\addons\sourcemod\logs\errors_20201109.log")
+L 11/09/2020 - 18:33:09: [SM] Exception reported: File Not Found: addons\sourcemod\configs\advertisements.txt
+L 11/09/2020 - 18:33:09: [SM] Blaming: advertisements.smx
+L 11/09/2020 - 18:33:09: [SM] Call stack trace:
+L 11/09/2020 - 18:33:09: [SM]   [0] SetFailState
+L 11/09/2020 - 18:33:09: [SM]   [1] Line 248, advertisements.sp::ParseAds
+L 11/09/2020 - 18:33:09: [SM]   [2] Line 57, advertisements.sp::OnMapStart
+L 11/09/2020 - 19:14:50: Error log file session closed.
+L 11/09/2020 - 19:14:51: SourceMod error session started
+L 11/09/2020 - 19:14:51: Info (map "de_overpass") (file "C:\TCAFiles\Users\jean\3\csgo\addons\sourcemod\logs\errors_20201109.log")
+L 11/09/2020 - 19:14:51: [SM] Exception reported: File Not Found: addons\sourcemod\configs\advertisements.txt
+L 11/09/2020 - 19:14:51: [SM] Blaming: advertisements.smx
+L 11/09/2020 - 19:14:51: [SM] Call stack trace:
+L 11/09/2020 - 19:14:51: [SM]   [0] SetFailState
+L 11/09/2020 - 19:14:51: [SM]   [1] Line 248, advertisements.sp::ParseAds
+L 11/09/2020 - 19:14:51: [SM]   [2] Line 57, advertisements.sp::OnMapStart
